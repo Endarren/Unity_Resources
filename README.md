@@ -55,6 +55,12 @@ Note:  Not all tutorials each site has are listed here.
 ### [Unity Coder](https://unitycoder.com/blog/)
 (TEXT)  A blog site going over some topics in Unity.
 
+### [Unity3D.College](https://unity3d.college/category/unity3d/)
+(TEXT)(VIDEO)
+### [Kosmonaut's Blog](https://kosmonautblog.wordpress.com/)
+* [Geometry trails / Tire Tracks Tutorial](https://kosmonautblog.wordpress.com/2016/07/29/geometry-trails-tire-tracks-tutorial/)
+* [Making the AI BETTER at Predicting shot](https://kosmonautblog.wordpress.com/2014/05/07/making-the-ai-better-at-predicting-shots/)
+
 ## Scripts
 * [Unity UI Extensions](https://bitbucket.org/maulikkaloliya/unity-ui-extensions-new/src/54637fbbd9fc6418ac4febffef0c65b7b0f3b2d0/Scripts/?at=develop_5.3)
 * [Heat Maps](https://bitbucket.org/Unity-Technologies/heatmaps)
