@@ -67,7 +67,9 @@ Note:  Not all tutorials each site has are listed here.
 
 ### [Ryan Meier's Blog](http://www.ryan-meier.com/blog/?tag=unity)
 (TEXT)  Most of the posted on this blog concern making a custom editor.
-
+### [Valentin Simonov on Programming](http://va.lent.in/)
+(TEXT)
+* [Make Your Lists Functional with ReorderableList](http://va.lent.in/unity-make-your-lists-functional-with-reorderablelist/)
 ## Scripts
 * [Unity UI Extensions](https://bitbucket.org/maulikkaloliya/unity-ui-extensions-new/src/54637fbbd9fc6418ac4febffef0c65b7b0f3b2d0/Scripts/?at=develop_5.3)
 * [Heat Maps](https://bitbucket.org/Unity-Technologies/heatmaps)
