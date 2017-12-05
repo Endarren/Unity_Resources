@@ -43,6 +43,7 @@ A YouTuber with several video tutorial series.  While he does not include the so
 * [Hex Map](http://catlikecoding.com/unity/tutorials/hex-map/part-1/) - Includes source code.
 ### [gamedevelopment.tutsplus.com](https://gamedevelopment.tutsplus.com/tutorials)
 * [Create a Glowing, Flowing Lava River Using Bézier Curves and Shaders](https://gamedevelopment.tutsplus.com/tutorials/create-a-glowing-flowing-lava-river-using-bezier-curves-and-shaders--gamedev-919)
+### [Unity Coder](https://unitycoder.com/blog/)
 
 ## Scripts
 * [Unity UI Extensions](https://bitbucket.org/maulikkaloliya/unity-ui-extensions-new/src/54637fbbd9fc6418ac4febffef0c65b7b0f3b2d0/Scripts/?at=develop_5.3)
