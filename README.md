@@ -31,3 +31,17 @@ A YouTuber with several video tutorial series.  While he does not include the so
 ### [The Messy Coder](https://www.youtube.com/channel/UCeXJl4hWkgS-wvtvRtS_y2w)
 * [Unity Tutorials - Ai and Fishing](https://www.youtube.com/watch?v=PmTjjzr9KFk&list=PL2R4tvBs-r1kfMps42Q_WIzlaFzF_nFkd)
 * [Asset Reviews](https://www.youtube.com/watch?v=vtAT3TDmcWY&list=PL2R4tvBs-r1mlUZ1JRVdwhG7__h5AQuXI) - Yes, this is not a tutorial, but it does give you a look at some premium assets.
+
+### [Catlike Coding](http://catlikecoding.com/)
+* [Basics](http://catlikecoding.com/unity/tutorials/basics/game-objects-and-scripts/) - Includes source code.
+* [Rendering](http://catlikecoding.com/unity/tutorials/rendering/part-1/) - Includes source code.
+* [Advanced Rendering](http://catlikecoding.com/unity/tutorials/advanced-rendering/flat-and-wireframe-shading/) - Includes soruce code.
+* [Basic Mesh](http://catlikecoding.com/unity/tutorials/procedural-grid/) - Includes source code.
+* [Hex Map](http://catlikecoding.com/unity/tutorials/hex-map/part-1/) - Includes source code.
+
+## Search Tools
+* [UnityList](http://unitylist.com/) - A search engine that looks over sites with Unity content to find what you are looking for.
+
+## Performance Tips
+* [Gamasutra - 50 Tips and Best Practices for Unity](https://www.gamasutra.com/blogs/HermanTulleken/20160812/279100/50_Tips_and_Best_Practices_for_Unity_2016_Edition.php)
+* [How to Fix Common Physics Problems in Your Game](https://gamedevelopment.tutsplus.com/articles/how-to-fix-common-physics-problems-in-your-game--cms-21418)
