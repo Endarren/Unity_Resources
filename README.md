@@ -62,6 +62,8 @@ Note:  Not all tutorials each site has are listed here.
 (TEXT)
 * [Geometry trails / Tire Tracks Tutorial](https://kosmonautblog.wordpress.com/2016/07/29/geometry-trails-tire-tracks-tutorial/)
 * [Making the AI BETTER at Predicting shot](https://kosmonautblog.wordpress.com/2014/05/07/making-the-ai-better-at-predicting-shots/)
+### [The App Guruz](http://www.theappguruz.com/category/unity)
+(TEXT)
 
 ## Scripts
 * [Unity UI Extensions](https://bitbucket.org/maulikkaloliya/unity-ui-extensions-new/src/54637fbbd9fc6418ac4febffef0c65b7b0f3b2d0/Scripts/?at=develop_5.3)
@@ -74,5 +76,7 @@ Note:  Not all tutorials each site has are listed here.
 * [UnityList](http://unitylist.com/) - A search engine that looks over sites with Unity content to find what you are looking for.
 
 ## Performance Tips
-* [Gamasutra - 50 Tips and Best Practices for Unity](https://www.gamasutra.com/blogs/HermanTulleken/20160812/279100/50_Tips_and_Best_Practices_for_Unity_2016_Edition.php)
+### [Gamasutra](https://www.gamasutra.com/)
+* [C# Memory Management for Unity Developers](https://www.gamasutra.com/blogs/WendelinReich/20131109/203841/C_Memory_Management_for_Unity_Developers_part_1_of_3.php)
+* [50 Tips and Best Practices for Unity](https://www.gamasutra.com/blogs/HermanTulleken/20160812/279100/50_Tips_and_Best_Practices_for_Unity_2016_Edition.php)
 * [How to Fix Common Physics Problems in Your Game](https://gamedevelopment.tutsplus.com/articles/how-to-fix-common-physics-problems-in-your-game--cms-21418)
