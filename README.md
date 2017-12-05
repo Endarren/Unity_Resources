@@ -52,6 +52,7 @@ Note:  Not all tutorials each site has are listed here.
 * [Hex Map](http://catlikecoding.com/unity/tutorials/hex-map/part-1/) - Includes source code.
 ### [gamedevelopment.tutsplus.com](https://gamedevelopment.tutsplus.com/tutorials)
 (TEXT)
+* [Understanding Steering Behaviors](https://gamedevelopment.tutsplus.com/series/understanding-steering-behaviors--gamedev-12732) - This goes over the how things like the [UnitySteer](https://github.com/ricardojmendez/UnitySteer) work based on Craig W. Reynolds research.
 * [Create a Glowing, Flowing Lava River Using Bézier Curves and Shaders](https://gamedevelopment.tutsplus.com/tutorials/create-a-glowing-flowing-lava-river-using-bezier-curves-and-shaders--gamedev-919)
 ### [Unity Coder](https://unitycoder.com/blog/)
 (TEXT)  A blog site going over some topics in Unity.
