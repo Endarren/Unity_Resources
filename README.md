@@ -76,9 +76,10 @@ Note:  Not all tutorials each site has are listed here.
 * [Loot-Tables, Random Maps and Monsters](https://www.codeproject.com/Articles/420046/Loot-Tables-Random-Maps-and-Monsters-Part-II)
 ### [Folio3](http://www.folio3.com/blog)
 * [Creating Dynamic Scrollable Lists with New Unity Canvas UI](http://www.folio3.com/blog/creating-dynamic-scrollable-lists-with-new-unity-canvas-ui/)
-### [Kyle Halladay](kylehalladay.com/blog/tutorial)
+### [Kyle Halladay](http://kylehalladay.com/archive.html)
 (TEXT)
 * [Screen Space Distortion and a Sci-fi Shield Effect](http://kylehalladay.com/blog/tutorial/2016/01/15/Screen-Space-Distortion.html)
+* [Distorting Object Shapes in Screen Space](http://kylehalladay.com/blog/tutorial/2017/02/06/ObjectShapeDistortion.html)
 ## Scripts
 * [Unity UI Extensions](https://bitbucket.org/maulikkaloliya/unity-ui-extensions-new/src/54637fbbd9fc6418ac4febffef0c65b7b0f3b2d0/Scripts/?at=develop_5.3)
 * [Heat Maps](https://bitbucket.org/Unity-Technologies/heatmaps)
