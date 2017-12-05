@@ -57,7 +57,9 @@ Note:  Not all tutorials each site has are listed here.
 
 ### [Unity3D.College](https://unity3d.college/category/unity3d/)
 (TEXT)(VIDEO)
+
 ### [Kosmonaut's Blog](https://kosmonautblog.wordpress.com/)
+(TEXT)
 * [Geometry trails / Tire Tracks Tutorial](https://kosmonautblog.wordpress.com/2016/07/29/geometry-trails-tire-tracks-tutorial/)
 * [Making the AI BETTER at Predicting shot](https://kosmonautblog.wordpress.com/2014/05/07/making-the-ai-better-at-predicting-shots/)
 
