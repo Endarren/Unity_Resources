@@ -1,8 +1,11 @@
 # Unity_Resources
 A list of useful sites and pages for those working with the Unity Engine.
 
+## Table of Contents
 - [Tutorial Sites](#tutorial-sites)
 - [Scripts](#scripts)
+- [Search Tools](#searchtools)
+- [Performance Tips](#performance-tips)
 
 ## Tutorial Sites
 Note:  Not all tutorials each site has are listed here.
