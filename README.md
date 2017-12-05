@@ -5,6 +5,7 @@ A list of useful sites and pages for those working with the Unity Engine.  These
 - [Tutorial Sites](#tutorial-sites)
 - [Scripts](#scripts)
 - [Search Tools](#searchtools)
+- [Trouble Shooting](#troubleshooting)
 - [Performance Tips](#performance-tips)
 
 ## Tutorial Sites
@@ -73,11 +74,15 @@ Note:  Not all tutorials each site has are listed here.
 ### [Code Project](www.codeproject.com)
 (TEXT)
 * [Loot-Tables, Random Maps and Monsters](https://www.codeproject.com/Articles/420046/Loot-Tables-Random-Maps-and-Monsters-Part-II)
-
-
+### [Folio3](http://www.folio3.com/blog)
+* [Creating Dynamic Scrollable Lists with New Unity Canvas UI](http://www.folio3.com/blog/creating-dynamic-scrollable-lists-with-new-unity-canvas-ui/)
+### [Kyle Halladay](kylehalladay.com/blog/tutorial)
+(TEXT)
+* [Screen Space Distortion and a Sci-fi Shield Effect](http://kylehalladay.com/blog/tutorial/2016/01/15/Screen-Space-Distortion.html)
 ## Scripts
 * [Unity UI Extensions](https://bitbucket.org/maulikkaloliya/unity-ui-extensions-new/src/54637fbbd9fc6418ac4febffef0c65b7b0f3b2d0/Scripts/?at=develop_5.3)
 * [Heat Maps](https://bitbucket.org/Unity-Technologies/heatmaps)
+* [Unity RPG](https://bitbucket.org/generalbrolys/rpg-unity/src/9a3695e636ff?at=master)
 ### [Unity 3D Script Library](http://unity3dscriptlibrary.codeplex.com/)
 ### [Unify Community](http://wiki.unity3d.com/index.php/Main_Page)
 * Has many scripts, but has not been updated lately.  At least with anything Unity related.  I still recommend checking it out.
@@ -85,8 +90,18 @@ Note:  Not all tutorials each site has are listed here.
 (TEXT) Code was written in Spanish (I think).
 * [Cone Cast](trinit.es/unity/scripts/csharp/raycast/Conecast.cs) 
 
+* [A solution for accurate raycasting without mesh colliders](https://forum.unity.com/threads/a-solution-for-accurate-raycasting-without-mesh-colliders.134554/)
+
+
+* [How to write a GUI editor for Graph or Tree structures](https://stackoverflow.com/questions/17593101/how-to-write-a-gui-editor-for-graph-or-tree-structures)
+
 ## Search Tools
 * [UnityList](http://unitylist.com/) - A search engine that looks over sites with Unity content to find what you are looking for.
+
+## Trouble Shooting
+
+* [Error: m_CoroutineEnumeratorGCHandle == 0](https://answers.unity.com/questions/158917/error-quotmcoroutineenumeratorgchandle-0quot.html)
+* [Internal Error: Too many pairs created, new pairs will be ignored](https://answers.unity.com/questions/359835/internal-error-too-many-pairs-created-new-pairs-wi.html)
 
 ## Performance Tips
 ### [Gamasutra](https://www.gamasutra.com/)
