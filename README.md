@@ -1,6 +1,9 @@
 # Unity_Resources
 A list of useful sites and pages for those working with the Unity Engine.
 
+- [Tutorial Sites](#tutorial sites)
+- [Scripts](#scripts)
+
 ## Tutorial Sites
 Note:  Not all tutorials each site has are listed here.
 
@@ -40,6 +43,13 @@ A YouTuber with several video tutorial series.  While he does not include the so
 * [Hex Map](http://catlikecoding.com/unity/tutorials/hex-map/part-1/) - Includes source code.
 ### [gamedevelopment.tutsplus.com](https://gamedevelopment.tutsplus.com/tutorials)
 * [Create a Glowing, Flowing Lava River Using Bézier Curves and Shaders](https://gamedevelopment.tutsplus.com/tutorials/create-a-glowing-flowing-lava-river-using-bezier-curves-and-shaders--gamedev-919)
+
+## Scripts
+* [Unity UI Extensions](https://bitbucket.org/maulikkaloliya/unity-ui-extensions-new/src/54637fbbd9fc6418ac4febffef0c65b7b0f3b2d0/Scripts/?at=develop_5.3)
+* [Heat Maps](https://bitbucket.org/Unity-Technologies/heatmaps)
+### [Unity 3D Script Library](http://unity3dscriptlibrary.codeplex.com/)
+### [Unify Community](http://wiki.unity3d.com/index.php/Main_Page)
+* Has many scripts, but has not been updated lately.  At least with anything Unity related.  I still recommend checking it out.
 
 ## Search Tools
 * [UnityList](http://unitylist.com/) - A search engine that looks over sites with Unity content to find what you are looking for.
