@@ -88,13 +88,16 @@ Note:  Not all tutorials each site has are listed here.
 * [A solution for accurate raycasting without mesh colliders](https://forum.unity.com/threads/a-solution-for-accurate-raycasting-without-mesh-colliders.134554/)
 * [Raycast without Colliders](https://forum.unity.com/threads/raycast-without-colliders.14378/)
 * [Cone Cast](trinit.es/unity/scripts/csharp/raycast/Conecast.cs) 
-## Other
+### Other
 * [How to write a GUI editor for Graph or Tree structures](https://stackoverflow.com/questions/17593101/how-to-write-a-gui-editor-for-graph-or-tree-structures)
 * [Unity UI Extensions](https://bitbucket.org/maulikkaloliya/unity-ui-extensions-new/src/54637fbbd9fc6418ac4febffef0c65b7b0f3b2d0/Scripts/?at=develop_5.3)
 * [Heat Maps](https://bitbucket.org/Unity-Technologies/heatmaps)
 * [Unity RPG](https://bitbucket.org/generalbrolys/rpg-unity/src/9a3695e636ff?at=master)
 * [HydraCommon](https://bitbucket.org/thisishydra/hydracommon/src/3ad5f7c37ffc?at=master) - Collection of utility scripts and extensions.
-
+### [Armedunity](http://armedunity.com/index.php?)
+(FORUM) Requires account to see posted code, but accounts are free.
+* [Terrain Deformation in real time](https://armedunity.com/topic/5-unity3d-terrain-deformation-real-time/)
+* [Cone of Sight](https://armedunity.com/topic/10352-cone-of-sight/)
 ### [Unity 3D Script Library](http://unity3dscriptlibrary.codeplex.com/)
 ### [Unify Community](http://wiki.unity3d.com/index.php/Main_Page)
 * Has many scripts, but has not been updated lately.  At least with anything Unity related.  I still recommend checking it out.
