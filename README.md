@@ -70,12 +70,20 @@ Note:  Not all tutorials each site has are listed here.
 ### [Valentin Simonov on Programming](http://va.lent.in/)
 (TEXT)
 * [Make Your Lists Functional with ReorderableList](http://va.lent.in/unity-make-your-lists-functional-with-reorderablelist/)
+### [Code Project](www.codeproject.com)
+(TEXT)
+* [Loot-Tables, Random Maps and Monsters](https://www.codeproject.com/Articles/420046/Loot-Tables-Random-Maps-and-Monsters-Part-II)
+
+
 ## Scripts
 * [Unity UI Extensions](https://bitbucket.org/maulikkaloliya/unity-ui-extensions-new/src/54637fbbd9fc6418ac4febffef0c65b7b0f3b2d0/Scripts/?at=develop_5.3)
 * [Heat Maps](https://bitbucket.org/Unity-Technologies/heatmaps)
 ### [Unity 3D Script Library](http://unity3dscriptlibrary.codeplex.com/)
 ### [Unify Community](http://wiki.unity3d.com/index.php/Main_Page)
 * Has many scripts, but has not been updated lately.  At least with anything Unity related.  I still recommend checking it out.
+### [Trinit](http://trinit.es/unity/)
+(TEXT) Code was written in Spanish (I think).
+* [Cone Cast](trinit.es/unity/scripts/csharp/raycast/Conecast.cs) 
 
 ## Search Tools
 * [UnityList](http://unitylist.com/) - A search engine that looks over sites with Unity content to find what you are looking for.
