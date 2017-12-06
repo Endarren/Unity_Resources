@@ -1,31 +1,46 @@
 Here are some scripts and projects that I've found useful. 
-## Line of Sight
+## Cameras
+* [Third Person Camera Tutorial](https://github.com/Ardathalion/UnityThirdPersonCameraTutorial)
+* [WoW Camera](https://github.com/UnityCommunity/UnityLibrary/blob/master/Scripts/Camera/WowCamera.cs)
 
-* https://github.com/eoger/unity-lineofsight
-* https://gist.github.com/gutoplusgamedev/d29b63bfa74395c335b9
-* https://github.com/f15gdsy/2D-Light-of-Sight-Unity
-* https://github.com/LuisResco/unity-line-of-sight-v1
-* https://gist.github.com/grimmdev/76668ee44bf7c62bdc26
+## Mesh
+* [Dynamic Outline Mesh Combining](https://github.com/TheBusyBiscuit/Unity-DynamicOutline-MeshCombining)
+* [Slicable Mesh](https://github.com/ZanderAtJackRabbit/slicable-mesh)
+* [Ezy Slice](https://github.com/DavidArayan/EzySlice)
+* [Curved Mesh Generator](https://github.com/nrj/UnityCurvedMeshGenerator)
+* [Mesh Saver](https://github.com/pharan/Unity-MeshSaver)
+* [Procedurally generated spike mesh](https://github.com/tenevdev/procedural-spikes)
+
+## Line of Sight
+* [Viewpoint Computation](https://github.com/robertoranon/Unity-ViewpointComputation)
+* [Line of Sight](https://github.com/eoger/unity-lineofsight)
+* [gutoplusgamedev's LineOfSight.cs](https://gist.github.com/gutoplusgamedev/d29b63bfa74395c335b9)
+* [2D Line of Sight](https://github.com/f15gdsy/2D-Light-of-Sight-Unity)
+* [LuisResco Line of Sight](https://github.com/LuisResco/unity-line-of-sight-v1)
+* [Sight Cone](https://gist.github.com/grimmdev/76668ee44bf7c62bdc26)
+* [Player FOV](https://github.com/Dechichi01/PlayerFOV)
 
 ## Input
 
-* https://github.com/daemon3000/InputManager
-* https://github.com/thebeardphantom/InputMaster
-* https://github.com/SaldayOpen/InputSystem
+* [InputManager](https://github.com/daemon3000/InputManager)
+* [InputMaster](https://github.com/thebeardphantom/InputMaster)
+* [Input System](https://github.com/SaldayOpen/InputSystem)
 
 ## Physics
 * [How to Calculate force needed to jump towards target point](https://forum.unity.com/threads/how-to-calculate-force-needed-to-jump-towards-target-point.372288/)
 
 ## Influence Map/HeatMap
-* https://github.com/AliKarimi74/InfluenceMap
+* [Influence Map](https://github.com/AliKarimi74/InfluenceMap)
+* [Heat Map](https://github.com/karl-/unity-heatmap)
+* [Heat Map - Unity-Technologies](https://bitbucket.org/Unity-Technologies/heatmaps)
 
 ## AI
 * [How to make enemy avoid player field of view](https://answers.unity.com/questions/988301/how-to-make-enemy-avoid-player-field-of-view.html)
 * [Make AI move randomly around the player's last Known position](https://answers.unity.com/questions/1264164/making-the-ai-move-randomly-around-the-players-las.html)
 ### GOAP (Goal Oriented Action Planning)
-* https://github.com/sploreg/goap
-* https://github.com/anneomcl/HappieGOAPGame
-* https://github.com/luxkun/ReGoap
+* [GOAP](https://github.com/sploreg/goap)
+* [HappieGOAPGame](https://github.com/anneomcl/HappieGOAPGame)
+* [ReGOAP](https://github.com/luxkun/ReGoap)
 
 
 ## Unity Inside
