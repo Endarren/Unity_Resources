@@ -133,6 +133,13 @@ The animations he uses are included in a link for free.
 * [Rope](http://www.habrador.com/tutorials/rope/) - How to make a rope that swings.
 * [Grid Placement](http://www.habrador.com/tutorials/stuff-on-grid/)
 
+### [Alan Zucconi](http://www.alanzucconi.com/tutorials/)
+(TEXT) Some tutorials are only avaliable to Patreon supports.  Also, some tutorials are not made solely for Unity.
+
+
+### [Stormtek](http://www.stormtek.geek.nz/rts_tutorial/)
+(TEXT)  This is a tutorial about making an RTS.
+
 ### [How to Project Decals](http://blog.wolfire.com/2009/06/how-to-project-decals/) 
 (TEXT)
 - This is not a Unity tutorial, but the basic principles are the same.
