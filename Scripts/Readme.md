@@ -15,3 +15,9 @@ Here are some scripts and projects that I've found useful.
 
 ## Influence Map/HeatMap
 * https://github.com/AliKarimi74/InfluenceMap
+
+## AI
+### GOAP (Goal Oriented Action Planning)
+* https://github.com/sploreg/goap
+* https://github.com/anneomcl/HappieGOAPGame
+* https://github.com/luxkun/ReGoap
