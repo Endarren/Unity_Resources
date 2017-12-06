@@ -13,12 +13,27 @@ Note:  Not all tutorials each site has are listed here.
 
 ### [Sharp Accent](https://www.youtube.com/channel/UCq9_1E5HE4c_xmhzD3r7VMw) 
 (VIDEO) A YouTuber with several video tutorial series.  While he does not include the source code files, you can see it in the videos.  He also has a Patreon which grants access to his source code.
+The animations he uses are included in a link for free.
 * [Souls-Like Game](https://www.youtube.com/watch?v=-m9tDF2v-5Q&t=3s)  - This is the first video in a series on making a game like Dark Souls in Unity.
 * [Advanced Third Person Controller](https://www.youtube.com/watch?v=3YTR_9_Trsg&list=PL1bPKmY0c-wnvW9F4BDJMwDHmq2SQ8m3L) 
-
 * [Advanced AI & Commandos-Like game](https://www.youtube.com/watch?v=hKE8bqaGspM&list=PL1bPKmY0c-wn5J-hoUWTjZFAk8XkoZ9hl)
 * [Tactical Turn Based Game (X-Com Style)](https://www.youtube.com/watch?v=4zO5ab05fVM&list=PL1bPKmY0c-wmfc6k6V7M_K7RRQftSXTaU)
 * [Third Person Shooter Redux](https://www.youtube.com/watch?v=Zx56JAHEP1U&list=PL1bPKmY0c-wmfD6FzpuyFCmPPg3bwxMqe)
+* [Sharp Force - 2d Run N Gun](https://www.youtube.com/watch?v=BpZZLmF6Vak&list=PL1bPKmY0c-wmO47zsKOXueDVgc6Dl_3xD)
+* [2D Fighting Game Redux](https://www.youtube.com/watch?v=K581J4JUGPc&list=PL1bPKmY0c-wmOi4Ki-6ryydPeHEcQpul0)
+* [Runtime Level Editor](https://www.youtube.com/watch?v=uZLtS13Yhh0&list=PL1bPKmY0c-wkKGBuBvsIsj1bwa0L0u7EW)
+* [Multithreaded A* Pathfinding](https://www.youtube.com/watch?v=w9HZhlF8cb0&list=PL1bPKmY0c-wlONKJmj4rSptfOBy3Kb9oP)
+* [Mount & Blade Inspired Game Tutorial](https://www.youtube.com/watch?v=5S2qYjbdiQI&list=PL1bPKmY0c-wknEinyz6TNqX_ZiREugle7)
+* [Space Sim](https://www.youtube.com/watch?v=4Fq6Om4U6f4&list=PL1bPKmY0c-wmqr3HgQamrQ8LIpENzyQFD)
+* [3D Beat 'Em Up](https://www.youtube.com/watch?v=6OMMA0s2NLY&list=PL1bPKmY0c-wlVfved5AJmOht8nogWPDC8)
+* [Options Menu](https://www.youtube.com/watch?v=aJUi2cBRFgc&list=PL1bPKmY0c-wn1DBbJtp1mmyGdffZ_g4ht)
+* [Fight System Similar To Assassins Creed](https://www.youtube.com/watch?v=xVMyd0SBVcQ&list=PL1bPKmY0c-wmmTqs4riryXAiZPt4pYlIO)
+* [Editor Extensions](https://www.youtube.com/watch?v=gHTJmGGH92w&list=PL1bPKmY0c-wnL5-m6ZsCHoMtuwr5aQaj-)
+* [Climb System](https://www.youtube.com/watch?v=k8kZ3-K8gcs&list=PL1bPKmY0c-wlGdXHNwGLnREWJcb7-4Rvo)
+* [Action Point TB](https://www.youtube.com/watch?v=iynai06XLjA&list=PL1bPKmY0c-wlFrBvvAq8-CpMQrWi_eRl6)
+* [Tabletop Game Tutorial](https://www.youtube.com/watch?v=kAiWa7BJ2mk&list=PL1bPKmY0c-wnUhmTeWiCTCoyB3JnJ5PKI)
+* [Minecraft-esque](https://www.youtube.com/watch?v=UdgucZ9ypug&list=PL1bPKmY0c-wnDZ6lga05SisII817btycI)
+
 
 ### [BurgZerg Arcade](https://www.youtube.com/user/BurgZergArcade/about)
 (VIDEO) Youtuber with a course program that you can sign up for.
@@ -32,11 +47,16 @@ Note:  Not all tutorials each site has are listed here.
 * [Procedural Generation in Unity](https://www.youtube.com/watch?v=z1r7VjgufJ8&list=PLi-ukGVOag_0vJMJKAjUyuPF3kMXKW2lV)
 * [Unity & Animation](https://www.youtube.com/watch?v=BEIaakl9vJE&list=PLi-ukGVOag_3ooF0nx0DMuR0hjpDbViMQ)
 * [Unity Networking](https://www.youtube.com/watch?v=JlKf0h0K5PU&list=PLi-ukGVOag_2QEXtkizmAl5mGDNhd_bqQ)
-
+* [Playing Seamless Music Across Scenes in Unity 5 With Non-Destroyable Object.](https://www.youtube.com/watch?v=JKoBWBXVvKY&list=PLi-ukGVOag_3IutjqxBt4xbee5eoKEJKM&index=3)
 ### [N3K EN](https://www.youtube.com/channel/UCtQPCnbIB7SP_gM1Xtv8bDQ/featured)
-(VIDEO)
+(VIDEO) While he does not include the source code files, you can see it in the videos.  He also has a Patreon which grants access to his source code.
 * [The Tower Game Tutorial](https://www.youtube.com/watch?v=WNfBKmYhrro&list=PLLH3mUGkfFCUFWMP3jlFJdTTPkT3D3MlD)
 * [Multiplayer Checkers Tutorial](https://www.youtube.com/watch?v=-nLP0Qz81fE&list=PLLH3mUGkfFCVXrGLRxfhst7pffE9o2SQO)
+* [Subway Skater](https://www.youtube.com/watch?v=rhTPxrJICVg&list=PLLH3mUGkfFCXQcNBz_FZDpqJfQlupTznd) - Art assets included for free.
+* [Unity Shader Tutorial](https://www.youtube.com/watch?v=zKWQn2Ppk74&list=PLLH3mUGkfFCWHABIk1I_VWEwdcXO5Gura)
+* [Augmented Reality Lego](https://www.youtube.com/watch?v=iJo3ERJfV28&list=PLLH3mUGkfFCVwZeDuMEbCf4gEFfa7-ZsP)
+* [Augmented Reality Shooter](https://www.youtube.com/watch?v=xRSQ9aEms9Y&list=PLLH3mUGkfFCUgLgS7eOyE9XSaQWNcNc3s)
+* [Unity Mobile Game - Glide](https://www.youtube.com/watch?v=Ot9R4IXDx3s&list=PLLH3mUGkfFCU5D0nT9dsN2-RYh1XjnHgH)
 
 ### [The Messy Coder](https://www.youtube.com/channel/UCeXJl4hWkgS-wvtvRtS_y2w)
 (VIDEO)
