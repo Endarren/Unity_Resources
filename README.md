@@ -141,7 +141,7 @@ The animations he uses are included in a link for free.
 ### [Trinit](http://trinit.es/unity/)
 (TEXT) Code was written in Spanish (I think).
 * [Cone Cast](trinit.es/unity/scripts/csharp/raycast/Conecast.cs) 
-
+### [C# Character Motor](https://gist.github.com/zephjc/5641540)
 ## Coding
 
 * [Check if a layer is in a LayerMask](https://answers.unity.com/questions/50279/check-if-layer-is-in-layermask.html)
