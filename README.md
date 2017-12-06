@@ -39,7 +39,20 @@ The animations he uses are included in a link for free.
 (VIDEO) Youtuber with a course program that you can sign up for.
 * [Unity 5 RPG Character Controller](https://www.youtube.com/watch?v=k12w-rEbuXI&list=PL_eGgISVYZkeD-q83hLtPESTB-lPKnfjH)
 * [Unity 5 RPG Series – Item System](https://www.youtube.com/watch?v=eJ2NYBpzdN0&list=PL_eGgISVYZkcP7gyzGveutdPQTzw6OFFp)
-* [Unity3d Tutorial - Hack & Slash RPG](https://www.youtube.com/watch?v=YYqzz1dy3Ak&list=PLE5C2870574BF4B06)
+* [Unity3d Tutorial - Hack & Slash RPG Part 1 - 200](https://www.youtube.com/watch?v=YYqzz1dy3Ak&list=PLE5C2870574BF4B06)
+* [Unity3d Tutorial - Hack & Slash RPG Part 201 - 400](https://www.youtube.com/watch?v=9Af617SEQZQ&list=PLEF925EF9F86651DD)
+* [Roguelike in Unity - Live Stream](https://www.youtube.com/watch?v=BFlkvl_JaN0&list=PL_eGgISVYZkeUCxwMVo3Hl6vyyzr-1Ffy)
+* [Mecanim: Bringing Your Applications To Life](https://www.youtube.com/watch?v=7_pyWcxShPk&list=PL_eGgISVYZkcW4Zd0jt1oX-LzWNk2zE_Q)
+* [Beam Battles - Multiplayer Interactive Game](https://www.youtube.com/watch?v=OcZYj8wgTlE&list=PL_eGgISVYZkfYkbcECZs7CfsjKh9joGXe)
+* [Unity Audio](https://www.youtube.com/watch?v=RqauiquXFL4&list=PL_eGgISVYZkcYFvgzcv_Msn3ZW9KlSiJ2)
+* [2D Game Development](https://www.youtube.com/watch?v=DsewfyuPUEI&list=PL_eGgISVYZkf0rvtUNha8nQdaczRPPV1G)
+
+* [Your First FPS - Introduction To Game Development - Week 1](https://www.youtube.com/watch?v=dr0ie8-tkL4&list=PL_eGgISVYZkfD5LJH9THf2gzuU6Mj-vIc)
+* [Simple Simon - Unity Game Development: Week 2](https://www.youtube.com/watch?v=3uiNhtx-7I0&list=PL_eGgISVYZkdqiiucVpQ2YSFBmWqdNuZl)
+* [Space Shooter 3D - Unity Game Development: Week 3 Game](https://www.youtube.com/watch?v=AacN8q57xJg&list=PL_eGgISVYZkfZRSzSDyG3tHNf5_DF-o5H)
+
+* [Unity Attributes](https://www.youtube.com/watch?v=pVCLfAkaBCc&list=PL_eGgISVYZkdeYj10fsn7gqzyEez-lnf-)
+* [uNet - Multiplayer Network Game: Bouncing Cubes](https://www.youtube.com/watch?v=5jp1kFStj5o&list=PL_eGgISVYZkfQKafS4V9As5XNmhb7p6jP)
 
 ### [Holistic3d](https://www.youtube.com/channel/UCp_SOgsRYdLfIEWLjM62ZJg/feed)
 (VIDEO)
