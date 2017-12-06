@@ -82,7 +82,7 @@ Source code for tutorials can be found [here](https://github.com/SebLague)
 (VIDEO)
 * [Special Effects for Games (VFX Assets)](https://www.youtube.com/watch?v=ctmqr_8esT0&list=PLpPd_BKEUoYh40LeJXTgA6E53gCMPq3MX)
 * [Artifical Intelligence](https://www.youtube.com/watch?v=3CSUxATQVLw&list=PLpPd_BKEUoYjGAUGaLp4q1AXR21VS-wVI)
-* [Programming an Audio Manager] (https://www.youtube.com/watch?v=nqaq820e4gg&list=PLpPd_BKEUoYj3bbhdnqoGI8h6DnExM3jW)
+* [Programming an Audio Manager](https://www.youtube.com/watch?v=nqaq820e4gg&list=PLpPd_BKEUoYj3bbhdnqoGI8h6DnExM3jW)
 
 
 ### [Gamad](https://www.youtube.com/channel/UCqFFZvgC7JUL6esOrL8LyWg/playlists)
