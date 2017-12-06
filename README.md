@@ -286,6 +286,7 @@ This website has a few tutorial series that are pretty informative.
 
 * [Error: m_CoroutineEnumeratorGCHandle == 0](https://answers.unity.com/questions/158917/error-quotmcoroutineenumeratorgchandle-0quot.html)
 * [Internal Error: Too many pairs created, new pairs will be ignored](https://answers.unity.com/questions/359835/internal-error-too-many-pairs-created-new-pairs-wi.html)
+* [Mecanim issue Animator has not been initialized](https://forum.unity.com/threads/mecanim-issue-animator-has-not-been-initialized.158874/)
 
 ## Performance Tips
 ### [Gamasutra](https://www.gamasutra.com/)
