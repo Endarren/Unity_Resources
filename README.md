@@ -75,6 +75,7 @@ The animations he uses are included in a link for free.
 (VIDEO)
 * [Unity Tutorials - Ai and Fishing](https://www.youtube.com/watch?v=PmTjjzr9KFk&list=PL2R4tvBs-r1kfMps42Q_WIzlaFzF_nFkd)
 * [Asset Reviews](https://www.youtube.com/watch?v=vtAT3TDmcWY&list=PL2R4tvBs-r1mlUZ1JRVdwhG7__h5AQuXI) - Yes, this is not a tutorial, but it does give you a look at some premium assets.
+* [Unity - Tutorials, Help & Quick Tips](https://www.youtube.com/watch?v=Pj6nQ7omVLo&list=PL2R4tvBs-r1nh8pncnnDrKNMdcOqHdEc8)
 
 ### [Catlike Coding](http://catlikecoding.com/)
 (TEXT) This website has a few tutorial series that are pretty informative.
