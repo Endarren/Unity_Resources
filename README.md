@@ -179,6 +179,11 @@ Source code for tutorials can be found [here](https://github.com/SebLague)
 
 * [Saving Data in Unity](https://www.youtube.com/watch?v=-fAqBNeEWjs&list=PL5KbKbJ6Gf9_Rvhx1ye1iHxtLTsAaH7uD) - Covers PlayerPref, XML, ScriptableObjects, and custom binary files.
 * [Point and Click Game](https://www.youtube.com/watch?v=76z3LvGfuCk&list=PL5KbKbJ6Gf9-rgPHoW8QXn-ZfYQlieSAL)
+
+#### [Renaissance Coders](https://www.youtube.com/channel/UCkUIs-k38aDaImZq2Fgsyjw)
+* [Unity3D Animations](https://www.youtube.com/watch?v=NjA_TGH_Mzc&list=PL4CCSwmU04MhZx2rN7Fw7DixdvLhpZuFh)
+* [2D AI Flocking](https://www.youtube.com/watch?v=payFhNs9hvs&list=PL4CCSwmU04MhfoJTJWA7n2AIB4dq6umeu)
+
 #### [Unity3 Student](http://www.unity3dstudent.com/category/modules/)
  Most of the tutorials on this site are for beginners.
 
