@@ -34,6 +34,29 @@ The animations he uses are included in a link for free.
 * [Tabletop Game Tutorial](https://www.youtube.com/watch?v=kAiWa7BJ2mk&list=PL1bPKmY0c-wnUhmTeWiCTCoyB3JnJ5PKI)
 * [Minecraft-esque](https://www.youtube.com/watch?v=UdgucZ9ypug&list=PL1bPKmY0c-wnDZ6lga05SisII817btycI)
 
+### [Sebastian Lague](https://www.youtube.com/channel/UCmtyQOKKmrMVaKuRXz02jbQ)
+(VIDEO)
+Source code for tutorials can be found [here](https://github.com/SebLague)
+* [Introduction to Game Development (Unity and C#)](https://www.youtube.com/watch?v=_cCGBMmMOFw&list=PLFt_AvWsXl0fnA91TcmkRyhhixX9CO3Lw)
+* [Create a Game (Unity 5)](https://www.youtube.com/watch?v=SviIeTt2_Lc&list=PLFt_AvWsXl0ctd4dgE1F8g3uec4zKNRV0)
+* [Procedural Landmass Generation](https://www.youtube.com/watch?v=wbpMiKiSKm8&list=PLFt_AvWsXl0eBW2EiBtl_sxmDtSgZBxB3)
+* [Procedural Cave Generation](https://www.youtube.com/watch?v=v7yyZZjF1z4&list=PLFt_AvWsXl0eZgMK_DT5_biRkWXftAOf9)
+* [RPG Graphics](https://www.youtube.com/watch?v=NGn_gSfYwVw&list=PLFt_AvWsXl0f4c56CbvYi038zmCmoZ4CQ)
+* [Kinematic Equations](https://www.youtube.com/watch?v=v1V3T5BPd7E&list=PLFt_AvWsXl0eMryeweK7gc9T04lJCIg_W)
+* [Extending the Editor](https://www.youtube.com/watch?v=bPO7_JNWNmI&list=PLFt_AvWsXl0eIlJX7u-zBtwWcE1HhKq17)
+* [Game Dev Math](https://www.youtube.com/watch?v=KHuI9bXZS74&list=PLFt_AvWsXl0cD2LPxcjxVjWTQLxJqKpgZ)
+
+
+### [Brackeys](https://www.youtube.com/user/Brackeys/playlists)
+(VIDEO)
+* [C# for Beginners](https://www.youtube.com/watch?v=pSiIHe2uZ2w&list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51)
+* [Unity Beginner Tutorials](https://www.youtube.com/watch?v=j48LtUkZRjU&list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6)
+* [Unity Intermediate Tutorials](https://www.youtube.com/watch?v=owZneI02YOU&list=PLPV2KyIb3jR6Wxj8HaJ_pZhBtaamtXL7J)
+* [Unity Advanced Tutorials](https://www.youtube.com/watch?v=Ouu3D_VHx9o&list=PLPV2KyIb3jR5qEyOlJImGFoHcxg9XUQci)
+* [How to Make a 2D Platformer](https://www.youtube.com/watch?v=UbPiCgCkHTE&list=PLPV2KyIb3jR42oVBU6K2DIL6Y22Ry9J1c)
+* [How to make a Tower Defense Game](https://www.youtube.com/watch?v=beuoNuK2tbk&list=PLPV2KyIb3jR4u5jX8za5iU1cqnQPmbzG0)
+* [Making a Multiplayer FPS in Unity(https://www.youtube.com/watch?v=UK57qdq_lak&list=PLPV2KyIb3jR5PhGqsO7G4PsbEC_Al-kPZ) - Uses uNet.
+
 
 ### [BurgZerg Arcade](https://www.youtube.com/user/BurgZergArcade/about)
 (VIDEO) Youtuber with a course program that you can sign up for.
@@ -139,6 +162,11 @@ The animations he uses are included in a link for free.
 
 ### [Stormtek](http://www.stormtek.geek.nz/rts_tutorial/)
 (TEXT)  This is a tutorial about making an RTS.
+
+### [Board to Bits](https://www.youtube.com/channel/UCifiUB82IZ6kCkjNXN8dwsQ/playlists)
+(VIDEO)
+* [Saving Data in Unity](https://www.youtube.com/watch?v=-fAqBNeEWjs&list=PL5KbKbJ6Gf9_Rvhx1ye1iHxtLTsAaH7uD) - Covers PlayerPref, XML, ScriptableObjects, and custom binary files.
+* [Point and Click Game](https://www.youtube.com/watch?v=76z3LvGfuCk&list=PL5KbKbJ6Gf9-rgPHoW8QXn-ZfYQlieSAL)
 
 ### [How to Project Decals](http://blog.wolfire.com/2009/06/how-to-project-decals/) 
 (TEXT)
