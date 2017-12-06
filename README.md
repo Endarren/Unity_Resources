@@ -142,7 +142,9 @@ The animations he uses are included in a link for free.
 (TEXT) Code was written in Spanish (I think).
 * [Cone Cast](trinit.es/unity/scripts/csharp/raycast/Conecast.cs) 
 
+## Coding
 
+* [Check if a layer is in a LayerMask](https://answers.unity.com/questions/50279/check-if-layer-is-in-layermask.html)
 
 ## Search Tools
 * [GitHub](github.com) - An obvious one, especially if you are reading this page.
