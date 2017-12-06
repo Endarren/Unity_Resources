@@ -289,7 +289,7 @@ This website has a few tutorial series that are pretty informative.
 * [Mecanim issue Animator has not been initialized](https://forum.unity.com/threads/mecanim-issue-animator-has-not-been-initialized.158874/)
 
 * [Destroying asset is not permitted to avoid data lose](https://answers.unity.com/questions/164283/destroying-assets-is-not-permitted-to-avoid-data-l.html)
-
+* [Solved Screen Position out of View Frustum](https://forum.unity.com/threads/solved-screen-position-out-of-view-frustum.60851/)
 ## Performance Tips
 ### [Gamasutra](https://www.gamasutra.com/)
 * [C# Memory Management for Unity Developers](https://www.gamasutra.com/blogs/WendelinReich/20131109/203841/C_Memory_Management_for_Unity_Developers_part_1_of_3.php)
