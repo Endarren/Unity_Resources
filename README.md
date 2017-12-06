@@ -52,7 +52,7 @@ Source code for tutorials can be found [here](https://github.com/SebLague)
 * [Creating a Survival Game in Unity 5](https://www.youtube.com/watch?v=sXM1EQGO28c&list=PLb34wPRpZdVevgA60IIJ5pQi4RCR264FU)
 
 * [Unity 5 Tutorials](https://www.youtube.com/watch?v=XLxsqI3uUoA&list=PLb34wPRpZdVfnN8jKtL9uqs6YSiPybBTV)
-* [Free Unity Asset Store Content](https://www.youtube.com/watch?v=jGy4htAuDY4&list=PLb34wPRpZdVdi5i4Kp6NFwusZtHSHfvkN) - Not a tutorial, but helpful for finding free assets on the store.
+
 #### [Brackeys](https://www.youtube.com/user/Brackeys/playlists)
 
 * [C# for Beginners](https://www.youtube.com/watch?v=pSiIHe2uZ2w&list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51)
@@ -138,7 +138,7 @@ Source code for tutorials can be found [here](https://github.com/SebLague)
 #### [The Messy Coder](https://www.youtube.com/channel/UCeXJl4hWkgS-wvtvRtS_y2w)
 
 * [Unity Tutorials - Ai and Fishing](https://www.youtube.com/watch?v=PmTjjzr9KFk&list=PL2R4tvBs-r1kfMps42Q_WIzlaFzF_nFkd)
-* [Asset Reviews](https://www.youtube.com/watch?v=vtAT3TDmcWY&list=PL2R4tvBs-r1mlUZ1JRVdwhG7__h5AQuXI) - Yes, this is not a tutorial, but it does give you a look at some premium assets.
+
 * [Unity - Tutorials, Help & Quick Tips](https://www.youtube.com/watch?v=Pj6nQ7omVLo&list=PL2R4tvBs-r1nh8pncnnDrKNMdcOqHdEc8)
 
 #### [quill18creates](https://www.youtube.com/user/quill18creates/playlists)
@@ -244,13 +244,13 @@ This website has a few tutorial series that are pretty informative.
 
 
 #### [How to Project Decals](http://blog.wolfire.com/2009/06/how-to-project-decals/) 
-
+- This is not a Unity tutorial, but the basic principles are the same.
 ### Mixed
 
 #### [Unity3D.College](https://unity3d.college/category/unity3d/)
 
 
-- This is not a Unity tutorial, but the basic principles are the same.
+
 ## Scripts
 ### Raycasting
 * [A solution for accurate raycasting without mesh colliders](https://forum.unity.com/threads/a-solution-for-accurate-raycasting-without-mesh-colliders.134554/)
