@@ -10,8 +10,8 @@ A list of useful sites and pages for those working with the Unity Engine.  These
 
 ## Tutorial Sites
 Note:  Not all tutorials each site has are listed here.
-
-### [Sharp Accent](https://www.youtube.com/channel/UCq9_1E5HE4c_xmhzD3r7VMw) 
+### Video
+#### [Sharp Accent](https://www.youtube.com/channel/UCq9_1E5HE4c_xmhzD3r7VMw) 
 (VIDEO) A YouTuber with several video tutorial series.  While he does not include the source code files, you can see it in the videos.  He also has a Patreon which grants access to his source code.
 The animations he uses are included in a link for free.
 * [Souls-Like Game](https://www.youtube.com/watch?v=-m9tDF2v-5Q&t=3s)  - This is the first video in a series on making a game like Dark Souls in Unity.
@@ -34,7 +34,7 @@ The animations he uses are included in a link for free.
 * [Tabletop Game Tutorial](https://www.youtube.com/watch?v=kAiWa7BJ2mk&list=PL1bPKmY0c-wnUhmTeWiCTCoyB3JnJ5PKI)
 * [Minecraft-esque](https://www.youtube.com/watch?v=UdgucZ9ypug&list=PL1bPKmY0c-wnDZ6lga05SisII817btycI)
 
-### [Sebastian Lague](https://www.youtube.com/channel/UCmtyQOKKmrMVaKuRXz02jbQ)
+#### [Sebastian Lague](https://www.youtube.com/channel/UCmtyQOKKmrMVaKuRXz02jbQ)
 (VIDEO)
 Source code for tutorials can be found [here](https://github.com/SebLague)
 * [Introduction to Game Development (Unity and C#)](https://www.youtube.com/watch?v=_cCGBMmMOFw&list=PLFt_AvWsXl0fnA91TcmkRyhhixX9CO3Lw)
@@ -46,14 +46,14 @@ Source code for tutorials can be found [here](https://github.com/SebLague)
 * [Extending the Editor](https://www.youtube.com/watch?v=bPO7_JNWNmI&list=PLFt_AvWsXl0eIlJX7u-zBtwWcE1HhKq17)
 * [Game Dev Math](https://www.youtube.com/watch?v=KHuI9bXZS74&list=PLFt_AvWsXl0cD2LPxcjxVjWTQLxJqKpgZ)
 
-### [Speed Tutor](https://www.youtube.com/user/SpeedTutor/playlists)
+#### [Speed Tutor](https://www.youtube.com/user/SpeedTutor/playlists)
 * [C# Beginner Programming - Unity 5](https://www.youtube.com/watch?v=tzq-DJeNIrU&list=PLb34wPRpZdVdPQifGFwYHMy8gvS-z3SC_)
 * [Creating a Survival Game in Unity 4](https://www.youtube.com/watch?v=v04_Rzu-TGY&list=PLb34wPRpZdVfic8eBdS6qJozK3YQa3Oh0)
 * [Creating a Survival Game in Unity 5](https://www.youtube.com/watch?v=sXM1EQGO28c&list=PLb34wPRpZdVevgA60IIJ5pQi4RCR264FU)
 
 * [Unity 5 Tutorials](https://www.youtube.com/watch?v=XLxsqI3uUoA&list=PLb34wPRpZdVfnN8jKtL9uqs6YSiPybBTV)
 * [Free Unity Asset Store Content](https://www.youtube.com/watch?v=jGy4htAuDY4&list=PLb34wPRpZdVdi5i4Kp6NFwusZtHSHfvkN) - Not a tutorial, but helpful for finding free assets on the store.
-### [Brackeys](https://www.youtube.com/user/Brackeys/playlists)
+#### [Brackeys](https://www.youtube.com/user/Brackeys/playlists)
 (VIDEO)
 * [C# for Beginners](https://www.youtube.com/watch?v=pSiIHe2uZ2w&list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51)
 * [Unity Beginner Tutorials](https://www.youtube.com/watch?v=j48LtUkZRjU&list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6)
@@ -63,7 +63,7 @@ Source code for tutorials can be found [here](https://github.com/SebLague)
 * [How to make a Tower Defense Game](https://www.youtube.com/watch?v=beuoNuK2tbk&list=PLPV2KyIb3jR4u5jX8za5iU1cqnQPmbzG0)
 * [Making a Multiplayer FPS in Unity](https://www.youtube.com/watch?v=UK57qdq_lak&list=PLPV2KyIb3jR5PhGqsO7G4PsbEC_Al-kPZ) - Uses uNet.
 
-### [GameGrind](https://www.youtube.com/user/AwfulMedia/playlists)
+#### [GameGrind](https://www.youtube.com/user/AwfulMedia/playlists)
 (VIDEO)
 * [Introduction to C# in Unity](https://www.youtube.com/watch?v=12Ste_E1Q7g&list=PLUpGTuJ54vBanVYt8x2Oi5i0GDGB_89eg)
 * [Unity 5 One off Tutorials](https://www.youtube.com/watch?v=fbUOG7f3jq8&list=PLivfKP2ufIK7ZJSZCAwif3RuGAYyowWsN)
@@ -73,19 +73,19 @@ Source code for tutorials can be found [here](https://github.com/SebLague)
 * [Create an Options Menu](https://www.youtube.com/watch?v=-2Z7UzhYyTA&list=PLivfKP2ufIK5g3qqkoxV9zCUBLRjVq6o_)
 * [Making a Simple Game in Unity](https://www.youtube.com/watch?v=qwuPiaFU37w&list=PLivfKP2ufIK7RuAtL0O9ay5z9ZL2GbGlI)
 
-### [ErbGameArt](https://www.youtube.com/channel/UCMqxbFCPmfH1Gf6dMIIvI4A/playlists)
+#### [ErbGameArt](https://www.youtube.com/channel/UCMqxbFCPmfH1Gf6dMIIvI4A/playlists)
 (VIDEO)
 * [Game Effects](https://www.youtube.com/watch?v=huVecAgz2Kc&list=PLgoqsZljWZ9HE3LmvrmDDcuhfYkbx0IC5) - More details on tutorials are avaliable on the channels Patreon.
 * [Unity3D Effects Tutorials](https://www.youtube.com/watch?v=BIsZRosddw8&list=PLgoqsZljWZ9Fu02euvqcwnlDhAp86Pr-b) - Includes: Destiny 2 Nova bomb effect, Magic Circles, Melee Ground Attacks, Bloody Screen effects, Ice Arrows with Freezing, Realistic Ice Shader, etc.  Some tutorials include download links.
 
-### [Gabriel Aguiar Prod](https://www.youtube.com/channel/UCtb1s859RTxx-RIgFs5ZVQA/playlists)
+#### [Gabriel Aguiar Prod](https://www.youtube.com/channel/UCtb1s859RTxx-RIgFs5ZVQA/playlists)
 (VIDEO)
 * [Special Effects for Games (VFX Assets)](https://www.youtube.com/watch?v=ctmqr_8esT0&list=PLpPd_BKEUoYh40LeJXTgA6E53gCMPq3MX)
 * [Artifical Intelligence](https://www.youtube.com/watch?v=3CSUxATQVLw&list=PLpPd_BKEUoYjGAUGaLp4q1AXR21VS-wVI)
 * [Programming an Audio Manager](https://www.youtube.com/watch?v=nqaq820e4gg&list=PLpPd_BKEUoYj3bbhdnqoGI8h6DnExM3jW)
 
 
-### [Gamad](https://www.youtube.com/channel/UCqFFZvgC7JUL6esOrL8LyWg/playlists)
+#### [Gamad](https://www.youtube.com/channel/UCqFFZvgC7JUL6esOrL8LyWg/playlists)
 (VIDEO)
 * [Maze Generator](https://www.youtube.com/watch?v=lge09eYxVWE&list=PL47vwJBRNh1yXMGxkuMDY4xnVOJy5HMYd)
 * [How to create a tutorial in your game](https://www.youtube.com/watch?v=be0C8FXGPrA&list=PL47vwJBRNh1yXPzKPSBouzvTpyvdl5lyC)
@@ -99,7 +99,7 @@ Source code for tutorials can be found [here](https://github.com/SebLague)
 * [How to make a building system like Rust](https://www.youtube.com/watch?v=qXH3kO6V5Pg&list=PL47vwJBRNh1wLTCTRok_zeNcb6qNcJooR)
 * [How to make a circular menu](https://www.youtube.com/watch?v=qBsLezkjJck&list=PL47vwJBRNh1zwJo3KVZ4HSUc-Df9EQzo8)
 
-### [BurgZerg Arcade](https://www.youtube.com/user/BurgZergArcade/about)
+#### [BurgZerg Arcade](https://www.youtube.com/user/BurgZergArcade/about)
 (VIDEO) Youtuber with a course program that you can sign up for.
 * [Unity 5 RPG Character Controller](https://www.youtube.com/watch?v=k12w-rEbuXI&list=PL_eGgISVYZkeD-q83hLtPESTB-lPKnfjH)
 * [Unity 5 RPG Series – Item System](https://www.youtube.com/watch?v=eJ2NYBpzdN0&list=PL_eGgISVYZkcP7gyzGveutdPQTzw6OFFp)
@@ -118,7 +118,7 @@ Source code for tutorials can be found [here](https://github.com/SebLague)
 * [Unity Attributes](https://www.youtube.com/watch?v=pVCLfAkaBCc&list=PL_eGgISVYZkdeYj10fsn7gqzyEez-lnf-)
 * [uNet - Multiplayer Network Game: Bouncing Cubes](https://www.youtube.com/watch?v=5jp1kFStj5o&list=PL_eGgISVYZkfQKafS4V9As5XNmhb7p6jP)
 
-### [Holistic3d](https://www.youtube.com/channel/UCp_SOgsRYdLfIEWLjM62ZJg/feed)
+#### [Holistic3d](https://www.youtube.com/channel/UCp_SOgsRYdLfIEWLjM62ZJg/feed)
 (VIDEO)
 * [Unity Artificial Intelligence](https://www.youtube.com/watch?v=eMpI1eCsIyM&list=PLi-ukGVOag_2dY9NxEwUjQfYK801Y0UBc)
 * [Procedural Generation in Unity](https://www.youtube.com/watch?v=z1r7VjgufJ8&list=PLi-ukGVOag_0vJMJKAjUyuPF3kMXKW2lV)
@@ -135,13 +135,13 @@ Source code for tutorials can be found [here](https://github.com/SebLague)
 * [Augmented Reality Shooter](https://www.youtube.com/watch?v=xRSQ9aEms9Y&list=PLLH3mUGkfFCUgLgS7eOyE9XSaQWNcNc3s)
 * [Unity Mobile Game - Glide](https://www.youtube.com/watch?v=Ot9R4IXDx3s&list=PLLH3mUGkfFCU5D0nT9dsN2-RYh1XjnHgH)
 
-### [The Messy Coder](https://www.youtube.com/channel/UCeXJl4hWkgS-wvtvRtS_y2w)
+#### [The Messy Coder](https://www.youtube.com/channel/UCeXJl4hWkgS-wvtvRtS_y2w)
 (VIDEO)
 * [Unity Tutorials - Ai and Fishing](https://www.youtube.com/watch?v=PmTjjzr9KFk&list=PL2R4tvBs-r1kfMps42Q_WIzlaFzF_nFkd)
 * [Asset Reviews](https://www.youtube.com/watch?v=vtAT3TDmcWY&list=PL2R4tvBs-r1mlUZ1JRVdwhG7__h5AQuXI) - Yes, this is not a tutorial, but it does give you a look at some premium assets.
 * [Unity - Tutorials, Help & Quick Tips](https://www.youtube.com/watch?v=Pj6nQ7omVLo&list=PL2R4tvBs-r1nh8pncnnDrKNMdcOqHdEc8)
 
-### [quill18creates](https://www.youtube.com/user/quill18creates/playlists)
+#### [quill18creates](https://www.youtube.com/user/quill18creates/playlists)
 (VIDEO)
 * [C# for Complete Beginners](https://www.youtube.com/watch?v=eycAAKpoJxA&list=PLbghT7MmckI7JAftgv0CUdU4RLNivG6wY)
 
@@ -165,7 +165,7 @@ Source code for tutorials can be found [here](https://github.com/SebLague)
 * [Build Your Own Spaceship](https://www.youtube.com/watch?v=J4Zjq_-Cle4&list=PLbghT7MmckI7bOsluDRYoAyzf9R7NwILD)
 
 
-### [Jimmy Vegas](https://www.youtube.com/channel/UCRMXHQ2rJ9_0CHS7mhL7erg)
+#### [Jimmy Vegas](https://www.youtube.com/channel/UCRMXHQ2rJ9_0CHS7mhL7erg)
 (VIDEO)
 * [Making an FPS in Unity for Beginners](https://www.youtube.com/watch?v=0fGB2H1AGP8&list=PLZ1b66Z1KFKh-auyvzNkOBFLWf6dH6iEH)
 * [Making Super Mario in Unity for Beginners](https://www.youtube.com/watch?v=M-1-XxO-Fyo&list=PLZ1b66Z1KFKgm4QrzZ11jfaeHVaWHSHW7)
@@ -175,6 +175,10 @@ Source code for tutorials can be found [here](https://github.com/SebLague)
 * [How to make a Driving racing game in Unity](https://www.youtube.com/watch?v=MQ5GJPlAGS4&list=PLZ1b66Z1KFKgkE9ji0tF2iDO0LGxmlwIm)
 * [How to make a Survival Horror game in Unity](https://www.youtube.com/watch?v=OzwdgrxYViQ&list=PLZ1b66Z1KFKiaTYwyayb8-L7D6bdiaHzc)
 
+#### [Board to Bits](https://www.youtube.com/channel/UCifiUB82IZ6kCkjNXN8dwsQ/playlists)
+(VIDEO)
+* [Saving Data in Unity](https://www.youtube.com/watch?v=-fAqBNeEWjs&list=PL5KbKbJ6Gf9_Rvhx1ye1iHxtLTsAaH7uD) - Covers PlayerPref, XML, ScriptableObjects, and custom binary files.
+* [Point and Click Game](https://www.youtube.com/watch?v=76z3LvGfuCk&list=PL5KbKbJ6Gf9-rgPHoW8QXn-ZfYQlieSAL)
 
 
 ### [Catlike Coding](http://catlikecoding.com/)
@@ -240,10 +244,6 @@ Source code for tutorials can be found [here](https://github.com/SebLague)
 ### [Stormtek](http://www.stormtek.geek.nz/rts_tutorial/)
 (TEXT)  This is a tutorial about making an RTS.
 
-### [Board to Bits](https://www.youtube.com/channel/UCifiUB82IZ6kCkjNXN8dwsQ/playlists)
-(VIDEO)
-* [Saving Data in Unity](https://www.youtube.com/watch?v=-fAqBNeEWjs&list=PL5KbKbJ6Gf9_Rvhx1ye1iHxtLTsAaH7uD) - Covers PlayerPref, XML, ScriptableObjects, and custom binary files.
-* [Point and Click Game](https://www.youtube.com/watch?v=76z3LvGfuCk&list=PL5KbKbJ6Gf9-rgPHoW8QXn-ZfYQlieSAL)
 
 ### [How to Project Decals](http://blog.wolfire.com/2009/06/how-to-project-decals/) 
 (TEXT)
