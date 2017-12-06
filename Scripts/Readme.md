@@ -12,3 +12,6 @@ Here are some scripts and projects that I've found useful.
 * https://github.com/daemon3000/InputManager
 * https://github.com/thebeardphantom/InputMaster
 * https://github.com/SaldayOpen/InputSystem
+
+## Influence Map/HeatMap
+* https://github.com/AliKarimi74/InfluenceMap
