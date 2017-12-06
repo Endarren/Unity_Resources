@@ -288,6 +288,8 @@ This website has a few tutorial series that are pretty informative.
 * [Internal Error: Too many pairs created, new pairs will be ignored](https://answers.unity.com/questions/359835/internal-error-too-many-pairs-created-new-pairs-wi.html)
 * [Mecanim issue Animator has not been initialized](https://forum.unity.com/threads/mecanim-issue-animator-has-not-been-initialized.158874/)
 
+* [Destroying asset is not permitted to avoid data lose](https://answers.unity.com/questions/164283/destroying-assets-is-not-permitted-to-avoid-data-l.html)
+
 ## Performance Tips
 ### [Gamasutra](https://www.gamasutra.com/)
 * [C# Memory Management for Unity Developers](https://www.gamasutra.com/blogs/WendelinReich/20131109/203841/C_Memory_Management_for_Unity_Developers_part_1_of_3.php)
