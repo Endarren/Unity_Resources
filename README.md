@@ -46,7 +46,13 @@ Source code for tutorials can be found [here](https://github.com/SebLague)
 * [Extending the Editor](https://www.youtube.com/watch?v=bPO7_JNWNmI&list=PLFt_AvWsXl0eIlJX7u-zBtwWcE1HhKq17)
 * [Game Dev Math](https://www.youtube.com/watch?v=KHuI9bXZS74&list=PLFt_AvWsXl0cD2LPxcjxVjWTQLxJqKpgZ)
 
+### [Speed Tutor](https://www.youtube.com/user/SpeedTutor/playlists)
+* [C# Beginner Programming - Unity 5](https://www.youtube.com/watch?v=tzq-DJeNIrU&list=PLb34wPRpZdVdPQifGFwYHMy8gvS-z3SC_)
+* [Creating a Survival Game in Unity 4](https://www.youtube.com/watch?v=v04_Rzu-TGY&list=PLb34wPRpZdVfic8eBdS6qJozK3YQa3Oh0)
+* [Creating a Survival Game in Unity 5](https://www.youtube.com/watch?v=sXM1EQGO28c&list=PLb34wPRpZdVevgA60IIJ5pQi4RCR264FU)
 
+* [Unity 5 Tutorials](https://www.youtube.com/watch?v=XLxsqI3uUoA&list=PLb34wPRpZdVfnN8jKtL9uqs6YSiPybBTV)
+* [Free Unity Asset Store Content](https://www.youtube.com/watch?v=jGy4htAuDY4&list=PLb34wPRpZdVdi5i4Kp6NFwusZtHSHfvkN) - Not a tutorial, but helpful for finding free assets on the store.
 ### [Brackeys](https://www.youtube.com/user/Brackeys/playlists)
 (VIDEO)
 * [C# for Beginners](https://www.youtube.com/watch?v=pSiIHe2uZ2w&list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51)
@@ -57,6 +63,41 @@ Source code for tutorials can be found [here](https://github.com/SebLague)
 * [How to make a Tower Defense Game](https://www.youtube.com/watch?v=beuoNuK2tbk&list=PLPV2KyIb3jR4u5jX8za5iU1cqnQPmbzG0)
 * [Making a Multiplayer FPS in Unity](https://www.youtube.com/watch?v=UK57qdq_lak&list=PLPV2KyIb3jR5PhGqsO7G4PsbEC_Al-kPZ) - Uses uNet.
 
+### [GameGrind](https://www.youtube.com/user/AwfulMedia/playlists)
+(VIDEO)
+* [Introduction to C# in Unity](https://www.youtube.com/watch?v=12Ste_E1Q7g&list=PLUpGTuJ54vBanVYt8x2Oi5i0GDGB_89eg)
+* [Unity 5 One off Tutorials](https://www.youtube.com/watch?v=fbUOG7f3jq8&list=PLivfKP2ufIK7ZJSZCAwif3RuGAYyowWsN)
+* [Making a simple RPG in Unity 2017](https://www.youtube.com/watch?v=Pp6UNmt8l1I&list=PLivfKP2ufIK6ToVMtpc_KTHlJRZjuE1z0)
+* [JSON in Unity](https://www.youtube.com/watch?v=OyQQ-7-22Hw&list=PLivfKP2ufIK4YTqDr4eBcwvRR8pLBc1sh)
+* [Inventory System](https://www.youtube.com/watch?v=ZW6RCKVnqT4&list=PLivfKP2ufIK78r7nzfpIEH89Nlnb__RRG)
+* [Create an Options Menu](https://www.youtube.com/watch?v=-2Z7UzhYyTA&list=PLivfKP2ufIK5g3qqkoxV9zCUBLRjVq6o_)
+* [Making a Simple Game in Unity](https://www.youtube.com/watch?v=qwuPiaFU37w&list=PLivfKP2ufIK7RuAtL0O9ay5z9ZL2GbGlI)
+
+### [ErbGameArt](https://www.youtube.com/channel/UCMqxbFCPmfH1Gf6dMIIvI4A/playlists)
+(VIDEO)
+* [Game Effects](https://www.youtube.com/watch?v=huVecAgz2Kc&list=PLgoqsZljWZ9HE3LmvrmDDcuhfYkbx0IC5) - More details on tutorials are avaliable on the channels Patreon.
+* [Unity3D Effects Tutorials](https://www.youtube.com/watch?v=BIsZRosddw8&list=PLgoqsZljWZ9Fu02euvqcwnlDhAp86Pr-b) - Includes: Destiny 2 Nova bomb effect, Magic Circles, Melee Ground Attacks, Bloody Screen effects, Ice Arrows with Freezing, Realistic Ice Shader, etc.  Some tutorials include download links.
+
+### [Gabriel Aguiar Prod](https://www.youtube.com/channel/UCtb1s859RTxx-RIgFs5ZVQA/playlists)
+(VIDEO)
+* [Special Effects for Games (VFX Assets)](https://www.youtube.com/watch?v=ctmqr_8esT0&list=PLpPd_BKEUoYh40LeJXTgA6E53gCMPq3MX)
+* [Artifical Intelligence](https://www.youtube.com/watch?v=3CSUxATQVLw&list=PLpPd_BKEUoYjGAUGaLp4q1AXR21VS-wVI)
+* [Programming an Audio Manager] (https://www.youtube.com/watch?v=nqaq820e4gg&list=PLpPd_BKEUoYj3bbhdnqoGI8h6DnExM3jW)
+
+
+### [Gamad](https://www.youtube.com/channel/UCqFFZvgC7JUL6esOrL8LyWg/playlists)
+(VIDEO)
+* [Maze Generator](https://www.youtube.com/watch?v=lge09eYxVWE&list=PL47vwJBRNh1yXMGxkuMDY4xnVOJy5HMYd)
+* [How to create a tutorial in your game](https://www.youtube.com/watch?v=be0C8FXGPrA&list=PL47vwJBRNh1yXPzKPSBouzvTpyvdl5lyC)
+* [Create a portal gun effect](https://www.youtube.com/watch?v=NqhFUw8UCII&list=PL47vwJBRNh1y0OlS-26lZ7iEEyCnJc--b)
+* [How to create a car](https://www.youtube.com/watch?v=tVXROKfpAxg&list=PL47vwJBRNh1zOH89KugfhGAvJWQkN6fgW)
+* [Code Optimization](https://www.youtube.com/watch?v=k-m46nZAeEU&list=PL47vwJBRNh1wWpFoQagnpVdLdw1r47E-3)
+* [How to make an Inventory system](https://www.youtube.com/watch?v=SZjWN9MsA94&list=PL47vwJBRNh1x4IEoWU69DF_gMtrEV7UmM)
+* [How to make Snake 3D](https://www.youtube.com/watch?v=7SB1IQN3MtE&list=PL47vwJBRNh1yn_29bPEg-xO9GOasPH2-g)
+* [How to make a climbing system like in Assassins Creed](https://www.youtube.com/watch?v=y4dLaZ5eK44&list=PL47vwJBRNh1xzEvcLvXoJvjLcr1h0j-1O)
+* [Minecraft Crafting System](https://www.youtube.com/watch?v=gF0lROPs0WI&list=PL47vwJBRNh1w4rPVz78iBTI0ibAtKlpY2)
+* [How to make a building system like Rust](https://www.youtube.com/watch?v=qXH3kO6V5Pg&list=PL47vwJBRNh1wLTCTRok_zeNcb6qNcJooR)
+* [How to make a circular menu](https://www.youtube.com/watch?v=qBsLezkjJck&list=PL47vwJBRNh1zwJo3KVZ4HSUc-Df9EQzo8)
 
 ### [BurgZerg Arcade](https://www.youtube.com/user/BurgZergArcade/about)
 (VIDEO) Youtuber with a course program that you can sign up for.
