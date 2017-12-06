@@ -1,3 +1,4 @@
+Here are some scripts and projects that I've found useful. 
 ## Line of Sight
 
 * https://github.com/eoger/unity-lineofsight
