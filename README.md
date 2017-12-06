@@ -55,7 +55,7 @@ Source code for tutorials can be found [here](https://github.com/SebLague)
 * [Unity Advanced Tutorials](https://www.youtube.com/watch?v=Ouu3D_VHx9o&list=PLPV2KyIb3jR5qEyOlJImGFoHcxg9XUQci)
 * [How to Make a 2D Platformer](https://www.youtube.com/watch?v=UbPiCgCkHTE&list=PLPV2KyIb3jR42oVBU6K2DIL6Y22Ry9J1c)
 * [How to make a Tower Defense Game](https://www.youtube.com/watch?v=beuoNuK2tbk&list=PLPV2KyIb3jR4u5jX8za5iU1cqnQPmbzG0)
-* [Making a Multiplayer FPS in Unity(https://www.youtube.com/watch?v=UK57qdq_lak&list=PLPV2KyIb3jR5PhGqsO7G4PsbEC_Al-kPZ) - Uses uNet.
+* [Making a Multiplayer FPS in Unity](https://www.youtube.com/watch?v=UK57qdq_lak&list=PLPV2KyIb3jR5PhGqsO7G4PsbEC_Al-kPZ) - Uses uNet.
 
 
 ### [BurgZerg Arcade](https://www.youtube.com/user/BurgZergArcade/about)
