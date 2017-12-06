@@ -116,6 +116,22 @@ The animations he uses are included in a link for free.
 * [Screen Space Distortion and a Sci-fi Shield Effect](http://kylehalladay.com/blog/tutorial/2016/01/15/Screen-Space-Distortion.html)
 * [Distorting Object Shapes in Screen Space](http://kylehalladay.com/blog/tutorial/2017/02/06/ObjectShapeDistortion.html)
 
+### [Unity3 Student](http://www.unity3dstudent.com/category/modules/)
+(VIDEO)  Most of the tutorials on this site are for beginners.
+
+### [Habrador](http://www.habrador.com/tutorials/)
+(TEXT)  The site also has some other interesting projects on it besides tutorials that you might fine helpful.
+* [Spline Interpolation](http://www.habrador.com/tutorials/interpolation/)
+* [Dubins Paths](http://www.habrador.com/tutorials/unity-dubins-paths/)
+* [Realistic Bullets](http://www.habrador.com/tutorials/unity-realistic-bullets/)
+* [Dynamic Mesh Combining](http://www.habrador.com/tutorials/unity-mesh-combining-tutorial/)
+* [Unit Selection](http://www.habrador.com/tutorials/select-units-within-rectangle/) - Selecting groups of units like you do in an RTS.
+* [Water Wakes](http://www.habrador.com/tutorials/water-wakes/)
+* [PID Controller](http://www.habrador.com/tutorials/pid-controller/)
+* [Random Numbers](http://www.habrador.com/tutorials/generate-random-numbers/) - For C# and in shaders.
+* [Math](http://www.habrador.com/tutorials/math/) - Various math problems worked in Unity.  Includes, line intersections, convex hulls, and cutting polygon.
+* [Rope](http://www.habrador.com/tutorials/rope/) - How to make a rope that swings.
+* [Grid Placement](http://www.habrador.com/tutorials/stuff-on-grid/)
 
 ### [How to Project Decals](http://blog.wolfire.com/2009/06/how-to-project-decals/) 
 (TEXT)
