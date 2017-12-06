@@ -141,6 +141,42 @@ Source code for tutorials can be found [here](https://github.com/SebLague)
 * [Asset Reviews](https://www.youtube.com/watch?v=vtAT3TDmcWY&list=PL2R4tvBs-r1mlUZ1JRVdwhG7__h5AQuXI) - Yes, this is not a tutorial, but it does give you a look at some premium assets.
 * [Unity - Tutorials, Help & Quick Tips](https://www.youtube.com/watch?v=Pj6nQ7omVLo&list=PL2R4tvBs-r1nh8pncnnDrKNMdcOqHdEc8)
 
+### [quill18creates](https://www.youtube.com/user/quill18creates/playlists)
+(VIDEO)
+* [C# for Complete Beginners](https://www.youtube.com/watch?v=eycAAKpoJxA&list=PLbghT7MmckI7JAftgv0CUdU4RLNivG6wY)
+
+* [Civilization Style Alerts](https://www.youtube.com/watch?v=bJwTXIYXGpg&list=PLbghT7MmckI5BGecJ5j-9DE5zu42H3xPL)
+* [Destructable Objects](https://www.youtube.com/watch?v=D6Ay4c6v9rs&list=PLbghT7MmckI6FPAZfn2HBdOu-JGSZ39vS) - Also covers Blender.
+* [Procedural Mesh Generation](https://www.youtube.com/watch?v=3RlKf7Q8CYM&list=PLbghT7MmckI6Tm0jUrhLZG8sEBI1hgCL8) - Goes over how to make roads like in SimCity.
+* [Multiplayer](https://www.youtube.com/watch?v=2-1pofOjvmU&list=PLbghT7MmckI4JzdNqdP0NTbFDkffJWUCg)
+* [Complete 2D game: ClonyBird](https://www.youtube.com/watch?v=T7Nz_AulrrA&list=PLbghT7MmckI4Sazzc4bB3s6ZLIRbGrNyn)
+* [Simple FPS Tutorial](https://www.youtube.com/watch?v=mbm9lPB5GPw&list=PLbghT7MmckI4su9oKnoLuoRYLUvKlek7j) - Note:  This one is from 2013.
+* [2D Brick Game](https://www.youtube.com/watch?v=0Tl1Cc0IRnI&list=PLCD6B6D279036462A) - 2012
+* [Multiplayer FPS](https://www.youtube.com/watch?v=AIgwZK151-A&list=PLbghT7MmckI7BDIGqNl_TgizCpJiXy0n9) - 2013
+* [Tile Maps](https://www.youtube.com/watch?v=bpB4BApnKhM&list=PLbghT7MmckI4qGA0Wm_TZS8LVrqS47I9R) - 2013
+* [2D Space Shooter](https://www.youtube.com/watch?v=y1FSZHPBHT8&list=PLbghT7MmckI4IeNHkPm5bFJhY9GQ0anKN)
+* [2D Physics Mobile Game](https://www.youtube.com/watch?v=eQvPiC8vnG8&list=PLbghT7MmckI7gH4-GrIOw2llutp0P1anA) - 2014
+* [Simple Scoreboard](https://www.youtube.com/watch?v=gjFsrVWQaQw&list=PLbghT7MmckI5FFZd6kULrEhXThkZr6A5M)
+* [Civilization/Dungeon Tile Movement & Pathfinding](https://www.youtube.com/watch?v=kYeTW2Zr8NA&list=PLbghT7MmckI55gwJLrDz0UtNfo9oC0K1Q)
+* [Drag and Drop UI](https://www.youtube.com/watch?v=bMuYUOIAdnc&list=PLbghT7MmckI42Gkp2cILkO2nRxK2M4NLo)
+* [Simple Hex-Based Game Design](https://www.youtube.com/watch?v=td3O1tkbqYQ&list=PLbghT7MmckI4HEp8z_ngZvCV3sHWaAYN3)
+* [Base-Building Game Tutorial](https://www.youtube.com/watch?v=_lQw3YA7Jok&list=PLbghT7MmckI4_VM5q3va043FgAwRim6yX)
+* [Hex-based 4X Game Engine for Unity](https://www.youtube.com/watch?v=j-rCuN7uMR8&list=PLbghT7MmckI7JHf0pdEQ8fbPb-LoDXEno)
+* [Build Your Own Spaceship](https://www.youtube.com/watch?v=J4Zjq_-Cle4&list=PLbghT7MmckI7bOsluDRYoAyzf9R7NwILD)
+
+
+### [Jimmy Vegas](https://www.youtube.com/channel/UCRMXHQ2rJ9_0CHS7mhL7erg)
+(VIDEO)
+* [Making an FPS in Unity for Beginners](https://www.youtube.com/watch?v=0fGB2H1AGP8&list=PLZ1b66Z1KFKh-auyvzNkOBFLWf6dH6iEH)
+* [Making Super Mario in Unity for Beginners](https://www.youtube.com/watch?v=M-1-XxO-Fyo&list=PLZ1b66Z1KFKgm4QrzZ11jfaeHVaWHSHW7)
+* [Making Android/ iOS mobile Game](https://www.youtube.com/watch?v=Uyr8ErD_BIE&list=PLZ1b66Z1KFKiLGbRHcVltFitp0gL1inbo)
+* [How to code in Unity - C# & Js](https://www.youtube.com/watch?v=Ei9kv3UD75w&list=PLZ1b66Z1KFKgjF2a_XsoR7V2YBDL6yaoB)
+* [How to Make an RPG in Unity for Beginners](https://www.youtube.com/watch?v=l4Hijtk4NDc&list=PLZ1b66Z1KFKgp-sjQ8ldU3eh8DoQ3a14P)
+* [How to make a Driving racing game in Unity](https://www.youtube.com/watch?v=MQ5GJPlAGS4&list=PLZ1b66Z1KFKgkE9ji0tF2iDO0LGxmlwIm)
+* [How to make a Survival Horror game in Unity](https://www.youtube.com/watch?v=OzwdgrxYViQ&list=PLZ1b66Z1KFKiaTYwyayb8-L7D6bdiaHzc)
+
+
+
 ### [Catlike Coding](http://catlikecoding.com/)
 (TEXT) This website has a few tutorial series that are pretty informative.
 * [Basics](http://catlikecoding.com/unity/tutorials/basics/game-objects-and-scripts/) - Includes source code.
