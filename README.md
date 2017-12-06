@@ -117,6 +117,9 @@ The animations he uses are included in a link for free.
 * [Distorting Object Shapes in Screen Space](http://kylehalladay.com/blog/tutorial/2017/02/06/ObjectShapeDistortion.html)
 
 
+### [How to Project Decals](http://blog.wolfire.com/2009/06/how-to-project-decals/) 
+(TEXT)
+- This is not a Unity tutorial, but the basic principles are the same.
 ## Scripts
 ### Raycasting
 * [A solution for accurate raycasting without mesh colliders](https://forum.unity.com/threads/a-solution-for-accurate-raycasting-without-mesh-colliders.134554/)
