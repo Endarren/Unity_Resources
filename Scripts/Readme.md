@@ -1,5 +1,5 @@
 Here are some scripts and projects that I've found useful. 
-## [Mesh](https://github.com/Endarren/Unity_Resources/blob/master/Scripts/Mesh.md)
+* [Mesh](https://github.com/Endarren/Unity_Resources/blob/master/Scripts/Mesh.md)
 
 ## Cameras
 * [Third Person Camera Tutorial](https://github.com/Ardathalion/UnityThirdPersonCameraTutorial)
