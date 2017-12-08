@@ -1,15 +1,11 @@
 Here are some scripts and projects that I've found useful. 
+## [Mesh](https://github.com/Endarren/Unity_Resources/blob/master/Scripts/Mesh.md)
+
 ## Cameras
 * [Third Person Camera Tutorial](https://github.com/Ardathalion/UnityThirdPersonCameraTutorial)
 * [WoW Camera](https://github.com/UnityCommunity/UnityLibrary/blob/master/Scripts/Camera/WowCamera.cs)
 
-## Mesh
-* [Dynamic Outline Mesh Combining](https://github.com/TheBusyBiscuit/Unity-DynamicOutline-MeshCombining)
-* [Slicable Mesh](https://github.com/ZanderAtJackRabbit/slicable-mesh)
-* [Ezy Slice](https://github.com/DavidArayan/EzySlice)
-* [Curved Mesh Generator](https://github.com/nrj/UnityCurvedMeshGenerator)
-* [Mesh Saver](https://github.com/pharan/Unity-MeshSaver)
-* [Procedurally generated spike mesh](https://github.com/tenevdev/procedural-spikes)
+
 
 ## Line of Sight
 * [Viewpoint Computation](https://github.com/robertoranon/Unity-ViewpointComputation)
