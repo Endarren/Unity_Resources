@@ -1,10 +1,8 @@
 Here are some scripts and projects that I've found useful. 
+* [Camera](https://github.com/Endarren/Unity_Resources/blob/master/Scripts/Camera.md)
 * [Mesh](https://github.com/Endarren/Unity_Resources/blob/master/Scripts/Mesh.md)
 * [AI](https://github.com/Endarren/Unity_Resources/blob/master/Scripts/AI.md)
 
-## Cameras
-* [Third Person Camera Tutorial](https://github.com/Ardathalion/UnityThirdPersonCameraTutorial)
-* [WoW Camera](https://github.com/UnityCommunity/UnityLibrary/blob/master/Scripts/Camera/WowCamera.cs)
 
 
 
