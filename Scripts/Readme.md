@@ -1,5 +1,6 @@
 Here are some scripts and projects that I've found useful. 
 * [Mesh](https://github.com/Endarren/Unity_Resources/blob/master/Scripts/Mesh.md)
+* [AI](https://github.com/Endarren/Unity_Resources/blob/master/Scripts/AI.md)
 
 ## Cameras
 * [Third Person Camera Tutorial](https://github.com/Ardathalion/UnityThirdPersonCameraTutorial)
@@ -30,13 +31,6 @@ Here are some scripts and projects that I've found useful.
 * [Heat Map](https://github.com/karl-/unity-heatmap)
 * [Heat Map - Unity-Technologies](https://bitbucket.org/Unity-Technologies/heatmaps)
 
-## AI
-* [How to make enemy avoid player field of view](https://answers.unity.com/questions/988301/how-to-make-enemy-avoid-player-field-of-view.html)
-* [Make AI move randomly around the player's last Known position](https://answers.unity.com/questions/1264164/making-the-ai-move-randomly-around-the-players-las.html)
-### GOAP (Goal Oriented Action Planning)
-* [GOAP](https://github.com/sploreg/goap)
-* [HappieGOAPGame](https://github.com/anneomcl/HappieGOAPGame)
-* [ReGOAP](https://github.com/luxkun/ReGoap)
 
 
 ## Unity Inside
