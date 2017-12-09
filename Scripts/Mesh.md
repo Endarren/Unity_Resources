@@ -2,6 +2,10 @@
 ## Cutting Meshes
 * [Ezy Slice](https://github.com/DavidArayan/EzySlice)
 * [Curved Mesh Generator](https://github.com/nrj/UnityCurvedMeshGenerator)
+* [Splitting Mesh into Chunks](https://answers.unity.com/questions/629793/splitting-mesh-into-chunks.html)
+* [Subdivide a Mesh](https://answers.unity.com/questions/259127/does-anyone-have-any-code-to-subdivide-a-mesh-and.html)
+* [Explode a Mesh into Polygons](https://answers.unity.com/questions/338819/explode-a-mesh-into-polygons-efffect.html)
+* [Create Mesh by Defining Points](https://answers.unity.com/questions/585948/create-mesh-by-defining-points.html)
 
 ## Saving Meshes
 * [Mesh Saver](https://github.com/pharan/Unity-MeshSaver)
