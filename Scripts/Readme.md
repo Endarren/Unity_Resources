@@ -15,6 +15,7 @@ Here are some scripts and projects that I've found useful.
 * [Sight Cone](https://gist.github.com/grimmdev/76668ee44bf7c62bdc26)
 * [Player FOV](https://github.com/Dechichi01/PlayerFOV)
 * [EllipticalViewCone](http://ringofblades.com/Blades/Code/EllipticalViewCone.cs)
+* [Field of View](https://github.com/dim971/FieldOfView-Unity)
 
 ## Projectiles
 
