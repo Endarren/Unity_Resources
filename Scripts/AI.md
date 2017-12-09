@@ -8,7 +8,11 @@
 * [How to make an enemy lead his shots](https://answers.unity.com/questions/506772/how-do-i-make-an-enemy-lead-his-shots.html)
 
 * [Enemy Aim AI in Unity](http://www.theappguruz.com/blog/enemy-aim-ai-unity)
-
+* [How to make an enemy AI that would follow the player without rotating or looking at the player?](https://stackoverflow.com/questions/16844020/how-to-make-an-enemy-ai-that-would-follow-the-player-without-rotating-or-looking)
+## Guides
+* [Tactical and Strategical AI](http://www.cse.scu.edu/~tschwarz/COEN129/PPT/Tactical%20and%20Strategical%20AI.pdf) - PDF of a power point slide presentation.
+* [The Last of Us: Human Enemy AI](http://gamelabgraz.com/wp-content/uploads/2017/02/Humam-AI-summary.pdf) - Simple research paper.  Not very detailed or complicated.
+* [The Last of Us: Human Enemy AI - Video](http://www.gdcvault.com/play/1020338/The-Last-of-Us-Human)
 
 * [Complex Behaviours for Autonomous](http://pievisdev.blogspot.com/2015/05/complex-behaviours-for-autonomous.html)
 ## Types of AI
