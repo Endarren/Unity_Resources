@@ -255,6 +255,8 @@ This website has a few tutorial series that are pretty informative.
 #### [Unity3D.College](https://unity3d.college/category/unity3d/)
 
 
+### [Mooict](https://www.mooict.com/category/unity-3d/)
+
 
 ## Scripts
 * [UnityLibrary](https://github.com/UnityCommunity/UnityLibrary)
