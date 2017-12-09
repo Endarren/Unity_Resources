@@ -5,6 +5,7 @@
 * [How to make an AI jump on a spot effectively](https://gamedev.stackexchange.com/questions/37916/making-ai-jump-on-a-spot-effectively)
 * [How to make an enemy lead his shots](https://answers.unity.com/questions/506772/how-do-i-make-an-enemy-lead-his-shots.html)
 
+* [Enemy Aim AI in Unity](http://www.theappguruz.com/blog/enemy-aim-ai-unity)
 
 ## Types of AI
 
