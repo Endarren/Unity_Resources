@@ -8,6 +8,8 @@
 
 * [Enemy Aim AI in Unity](http://www.theappguruz.com/blog/enemy-aim-ai-unity)
 
+
+* [Complex Behaviours for Autonomous](http://pievisdev.blogspot.com/2015/05/complex-behaviours-for-autonomous.html)
 ## Types of AI
 
 ### GOAP (Goal Oriented Action Planning)
