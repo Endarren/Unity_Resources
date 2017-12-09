@@ -12,3 +12,4 @@
 * [Reflective Transparent Water](https://laboratoriesx86.wordpress.com/2014/05/02/shader-reflective-transparent-water-like-unity-indie/)
 * [Mesh Melt Shader](http://unitycoder.com/blog/2015/03/24/mesh-melt-shader-test/)
 
+* [Cel Shading in Unity 5](http://timvolp.blogspot.com/2015/03/cel-shading-in-unity-5.html)
