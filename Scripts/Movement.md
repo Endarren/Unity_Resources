@@ -15,6 +15,8 @@
 * [How to keep a Character controller grounded without constantly applying gravity](https://answers.unity.com/questions/333155/how-to-keep-charactercontroller-grounded-without-c.html)
 * [Controller falls or slips of moving platforms](https://answers.unity.com/questions/8207/charactercontroller-falls-through-or-slips-off-mov.html)
 * [Why does OnCollisionEnter not work between Character controller and rigidbody](https://answers.unity.com/questions/388494/why-does-oncollisionenter-not-work-between-a-chara.html)
+
+* [The Problem With Character Controllers In Unity3D And How I Solved It](https://mariusgames.com/3d-character-controller-db7cd3a7b4df)
 # Aircraft Movement
 * [Controlling Pitch, Yaw, and Roll](https://www.gamedev.net/forums/topic/668911-controlling-pitch-yaw-and-roll-of-an-airplane/)
 
