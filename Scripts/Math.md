@@ -1,3 +1,5 @@
+* [Math Utilities](https://github.com/zalo/MathUtilities)
+
 * [Calculate Firing Position](https://answers.unity.com/questions/296949/how-to-calculate-a-position-to-fire-at.html)
 * [Expression Parser](http://wiki.unity3d.com/index.php/ExpressionParser)
 # Angles
