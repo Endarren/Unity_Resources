@@ -14,6 +14,7 @@ Here are some scripts and projects that I've found useful.
 * [LuisResco Line of Sight](https://github.com/LuisResco/unity-line-of-sight-v1)
 * [Sight Cone](https://gist.github.com/grimmdev/76668ee44bf7c62bdc26)
 * [Player FOV](https://github.com/Dechichi01/PlayerFOV)
+* [EllipticalViewCone](http://ringofblades.com/Blades/Code/EllipticalViewCone.cs)
 
 ## Input
 
