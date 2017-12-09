@@ -17,6 +17,10 @@
 * [Why does OnCollisionEnter not work between Character controller and rigidbody](https://answers.unity.com/questions/388494/why-does-oncollisionenter-not-work-between-a-chara.html)
 
 * [The Problem With Character Controllers In Unity3D And How I Solved It](https://mariusgames.com/3d-character-controller-db7cd3a7b4df)
+# Rigidbody
+* [Getting the player to move with platform: Velocity, DistanceJoint](https://answers.unity.com/questions/805683/how-can-i-get-my-player-to-move-with-the-platform.html)
+* [Player Rigidbody slider off moving platform](https://answers.unity.com/questions/1040978/player-rigidbody-slides-off-moving-platform.html)
+
 # Aircraft Movement
 * [Controlling Pitch, Yaw, and Roll](https://www.gamedev.net/forums/topic/668911-controlling-pitch-yaw-and-roll-of-an-airplane/)
 
@@ -44,6 +48,8 @@
 
 * [Moving Object Along a Bezier Curve](https://answers.unity.com/questions/12689/moving-an-object-along-a-bezier-curve.html)
 
+# Transform
+* [Prevent LookAt From Flipping](https://answers.unity.com/questions/24805/preventing-lookat-from-flipping.html)
 
 # Turret
 * [Limiting the rotations of a turret](https://www.3dbuzz.com/forum/threads/190770-Limiting-the-rotation-of-a-turret-(unity-c-))
