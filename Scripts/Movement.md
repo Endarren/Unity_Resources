@@ -3,6 +3,8 @@
 * [How to jump through box colliders but jump on top of them](https://answers.unity.com/questions/429885/how-to-jump-through-box-colliders-but-jump-on-top.html) - One-way platforms
 
 * [Unity3D Orbit around orbiting object](https://gamedev.stackexchange.com/questions/61981/unity3d-orbit-around-orbiting-object-transform-rotatearound)
+* [Circling in Unity3D with RotateAround](https://www.gamasutra.com/blogs/CharlesCordingley/20150223/237038/Circling_in_Unity3D_with_RotateAround.php)
+* [How to adapt a pathfinding to a 2D Grid Platformer](https://gamedevelopment.tutsplus.com/tutorials/how-to-adapt-a-pathfinding-to-a-2d-grid-based-platformer-theory--cms-24662)
 
 # Steering Behaviours
 * [Understanding Steering Behaviors](https://gamedevelopment.tutsplus.com/series/understanding-steering-behaviors--gamedev-12732)
