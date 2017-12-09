@@ -19,6 +19,7 @@ Here are some scripts and projects that I've found useful.
 ## Projectiles
 
 * [How Do I make a projectile arc and always hit a moving target?](https://answers.unity.com/questions/448681/how-do-i-make-a-projectile-arc-and-always-hit-a-mo.html)
+* [Creating a homing missile in Unity](https://www.gamedev.net/articles/programming/general-and-gameplay-programming/creating-a-homing-missile-in-unity-r3588)
 
 ## Input
 
