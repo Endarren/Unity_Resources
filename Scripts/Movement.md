@@ -41,3 +41,7 @@
 * [Moving Along Curve With Specific Speed](https://www.geometrictools.com/Documentation/MovingAlongCurveSpecifiedSpeed.pdf) - This is a research paper, so it is more math focused than code focused.
 
 * [Moving Object Along a Bezier Curve](https://answers.unity.com/questions/12689/moving-an-object-along-a-bezier-curve.html)
+
+
+# Turret
+* [Limiting the rotations of a turret](https://www.3dbuzz.com/forum/threads/190770-Limiting-the-rotation-of-a-turret-(unity-c-))
