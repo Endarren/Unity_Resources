@@ -1,3 +1,7 @@
+* [Calculate Firing Position](https://answers.unity.com/questions/296949/how-to-calculate-a-position-to-fire-at.html)
+* [Expression Parser](http://wiki.unity3d.com/index.php/ExpressionParser)
+# Angles
+* [Angle between two game objects in 0 to 360 degrees](http://unitycoder.com/blog/2015/12/17/get-angle-between-2-gameobjects-in-degrees-0-360/)
 
 
 # Spirals
