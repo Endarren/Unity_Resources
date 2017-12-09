@@ -16,6 +16,10 @@ Here are some scripts and projects that I've found useful.
 * [Player FOV](https://github.com/Dechichi01/PlayerFOV)
 * [EllipticalViewCone](http://ringofblades.com/Blades/Code/EllipticalViewCone.cs)
 
+## Projectiles
+
+* [How Do I make a projectile arc and always hit a moving target?](https://answers.unity.com/questions/448681/how-do-i-make-a-projectile-arc-and-always-hit-a-mo.html)
+
 ## Input
 
 * [InputManager](https://github.com/daemon3000/InputManager)
