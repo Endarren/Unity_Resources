@@ -29,4 +29,5 @@
 ### Behaviour Tree
 * [Behaviac](https://github.com/Tencent/behaviac)
 ### Machine Learning
+* [Unity - Machine Learning Rogue Like](https://github.com/UnityTechnologies/MachineLearningRoguelike)
 * [MarcoMeter - Unity ML Environments](https://github.com/MarcoMeter/Unity-ML-Environments)
