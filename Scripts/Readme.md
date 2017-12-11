@@ -33,9 +33,6 @@ Here are some scripts and projects that I've found useful.
 * [InputMaster](https://github.com/thebeardphantom/InputMaster)
 * [Input System](https://github.com/SaldayOpen/InputSystem)
 
-## Physics
-* [How to Calculate force needed to jump towards target point](https://forum.unity.com/threads/how-to-calculate-force-needed-to-jump-towards-target-point.372288/)
-
 ## Influence Map/HeatMap
 * [Influence Map](https://github.com/AliKarimi74/InfluenceMap)
 * [Heat Map](https://github.com/karl-/unity-heatmap)
