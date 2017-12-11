@@ -21,6 +21,7 @@
 * [Getting the player to move with platform: Velocity, DistanceJoint](https://answers.unity.com/questions/805683/how-can-i-get-my-player-to-move-with-the-platform.html)
 * [Player Rigidbody slider off moving platform](https://answers.unity.com/questions/1040978/player-rigidbody-slides-off-moving-platform.html)
 
+* [Change rigidbodys jump speed](https://answers.unity.com/questions/499834/change-rigidbodys-jumping-speed.html)
 # Aircraft Movement
 * [Controlling Pitch, Yaw, and Roll](https://www.gamedev.net/forums/topic/668911-controlling-pitch-yaw-and-roll-of-an-airplane/)
 
