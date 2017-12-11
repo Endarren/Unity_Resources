@@ -4,6 +4,9 @@ Here are some scripts and projects that I've found useful.
 * [AI](https://github.com/Endarren/Unity_Resources/blob/master/Scripts/AI.md)
 
 
+## Tools
+* [Unity Toolbag](https://github.com/nickgravelyn/UnityToolbag)
+
 ## Word Filter
 * [How to replace bad words in C#](https://forum.unity.com/threads/how-to-replace-bad-words-in-c.277673/)
 * [Bad Word Filter](https://forum.unity.com/threads/c-bad-words-filter.312198/)
