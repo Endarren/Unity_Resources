@@ -38,6 +38,7 @@
 * [How to Speed up Pathfinding with jump point search algorithm](https://gamedevelopment.tutsplus.com/tutorials/how-to-speed-up-a-pathfinding-with-the-jump-point-search-algorithm--gamedev-5818)
 
 # Nav Mesh
+* [Unity 5.6+ Nav Mesh Feature Demo](https://github.com/UnityTechnologies/NavMesh-Feature-Demo) - Contains examples and implementations of Unity's nav mesh.
 * [Navmesh Flee AI from Player](https://answers.unity.com/questions/868003/navmesh-flee-ai-flee-from-player.html)
 * [Make Multiple Enemies take Different Paths](https://stackoverflow.com/questions/26644196/unity-navmesh-make-multiple-enemies-take-different-paths)
 * [Keep Enemy X Distance from Player](https://answers.unity.com/questions/479342/navmeshagent-keep-enemy-x-distance-from-player.html)
