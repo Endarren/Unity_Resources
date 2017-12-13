@@ -7,6 +7,8 @@
 * [Calculate AI Jumping the Gap](https://answers.unity.com/questions/973058/calculate-ai-jumping-the-gap.html)
 * [How to make an enemy lead his shots](https://answers.unity.com/questions/506772/how-do-i-make-an-enemy-lead-his-shots.html)
 
+* [AI Converging on a target - Obstacle avoidance or pathfinding?](https://answers.unity.com/questions/396309/ai-converging-on-a-target-obstacle-avoidance-or-pa.html)
+
 * [Enemy Aim AI in Unity](http://www.theappguruz.com/blog/enemy-aim-ai-unity)
 * [How to make an enemy AI that would follow the player without rotating or looking at the player?](https://stackoverflow.com/questions/16844020/how-to-make-an-enemy-ai-that-would-follow-the-player-without-rotating-or-looking)
 ## Guides
