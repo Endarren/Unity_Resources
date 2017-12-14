@@ -19,7 +19,7 @@
 * [Procedurally Generate a Sphere](https://stackoverflow.com/questions/4081898/procedurally-generate-a-sphere-mesh)
 * [Create Octahedron Sphere](https://www.binpress.com/tutorial/creating-an-octahedron-sphere/162)
 * [Mesh Presentations](https://github.com/parahunter/mesh-presentation)
-* [Making a Custom Planet Ring in Unity](https://www.youtube.com/watch?v=Rze4GEFrYYs)
+* [Making a Custom Planet Ring in Unity](https://www.youtube.com/watch?v=Rze4GEFrYYs) - Creating a ring mesh, with visibility on both sides, at start.
 * [Planet ring editing in play mode](https://www.youtube.com/watch?v=WmWMC6iq7Y0) - Continuation of "Making a Custom Planet Ring in Unity"
 
 ## Modification
