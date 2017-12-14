@@ -50,6 +50,8 @@
 
 * [Moving Object Along a Bezier Curve](https://answers.unity.com/questions/12689/moving-an-object-along-a-bezier-curve.html)
 
+* [Orbit Paths (Ellipses)](https://www.youtube.com/watch?v=mQKGRoV_jBc&index=4&list=PL5KbKbJ6Gf982bozKUYrX9C4qN_IQYTXZ) - This is the first of three by the user on this subjest.  Part of Unity Space Game Tutorials playlist.
+
 # Transform
 * [Prevent LookAt From Flipping](https://answers.unity.com/questions/24805/preventing-lookat-from-flipping.html)
 
