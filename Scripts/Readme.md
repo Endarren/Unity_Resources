@@ -3,7 +3,7 @@ Here are some scripts and projects that I've found useful.
 * [Mesh](https://github.com/Endarren/Unity_Resources/blob/master/Scripts/Mesh.md)
 * [AI](https://github.com/Endarren/Unity_Resources/blob/master/Scripts/AI.md)
 
-
+* [Fog of War](https://github.com/krazzei/FoW_shadow_map) Shows how to do a fog of war using scripting and shaders.
 ## Tools
 * [Unity Toolbag](https://github.com/nickgravelyn/UnityToolbag)
 
