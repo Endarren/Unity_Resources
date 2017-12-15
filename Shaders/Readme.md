@@ -23,7 +23,8 @@
 * [2D Water Shader](https://github.com/real-marco-b/unity-water-shader2d)
 * [Reflective Transparent Water](https://laboratoriesx86.wordpress.com/2014/05/02/shader-reflective-transparent-water-like-unity-indie/)
 * [Simple Water Ripple](https://forum.unity.com/threads/simple-water-ripple-shader.246961/)
-
+# Ice
 * [Unity shader tutorial - Creating realistic ice](https://www.youtube.com/watch?v=-z-issgoZ4o)
+* [Ice Shader / Material in Unity](https://www.youtube.com/watch?v=Kdpt-Cev7uM)
 # Guides
 * [Unity 5.x Shaders and Effects Cookbook](https://github.com/smkplus/ShaderBooks/blob/master/Unity%205.x%20Shaders%20and%20Effects%20Cookbook.pdf)
