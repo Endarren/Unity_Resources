@@ -1,0 +1,7 @@
+* [Introduction To Unity: Particle Systems](https://www.raywenderlich.com/113049/introduction-unity-particle-systems) - A very detailed introduction to Particle Systems.
+
+
+## How to make
+### [Mirza](https://www.youtube.com/user/TheMirzaBeig/playlists) - A YouTube channel with tutorials on particles and shaders.
+* [Unity VFX - Portal](https://www.youtube.com/watch?v=VYOgWJFiifo)
+* [Unity - Plexus Effect](https://www.youtube.com/watch?v=ruNPkuYT1Ck)
