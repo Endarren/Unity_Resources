@@ -22,3 +22,4 @@
 * [Game effect tutorial - Melee ground attack](https://www.youtube.com/watch?v=d3Q9-_EreFI)
 * [Game effect tutorial - Magic circle for RPG game](https://www.youtube.com/watch?v=4uGosqOisDI)
 * [Game effect tutorial #10 - realistic fireball. How to create a fireball in Unity 3d](https://www.youtube.com/watch?v=lFCpzF2hwBc)
+* [Game effect tutorial - Ice arrow skill with freezing | Unity3d](https://www.youtube.com/watch?v=1GHyeYXpCFk)
