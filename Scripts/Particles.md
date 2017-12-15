@@ -13,7 +13,6 @@
 
 ### [imn nam](https://www.youtube.com/channel/UC74Ictcvlnz9WiEfpyhmiXA) - Youtube channel.  Videos do not include audio explanations of how to make the effects.
 * [Game effect tutorial - Sword Slash](https://www.youtube.com/watch?v=wFgS5pzG1Qs) - Includes using Autodeck
-* [https://www.youtube.com/watch?v=KAGx8UMXUwU](Game effect tutorial - Water storm - skill)
-
+* [Game effect tutorial - Water storm - skill](https://www.youtube.com/watch?v=KAGx8UMXUwU)
 ### [ErbGameArt](https://www.youtube.com/channel/UCMqxbFCPmfH1Gf6dMIIvI4A)
 * [Game effect tutorial - Magic Beam skill | Unity3d](https://www.youtube.com/watch?v=MuI6YfQ0CxU)
