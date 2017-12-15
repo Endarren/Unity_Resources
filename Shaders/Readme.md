@@ -14,6 +14,7 @@
 * [Robot Eye Shader](https://github.com/danielzeller/Robot-eye-shader-Unity-)
 * [Cel Shading in Unity 5](http://timvolp.blogspot.com/2015/03/cel-shading-in-unity-5.html)
 * [Light Field Rendering](https://github.com/BastiaanGrisel/LightFieldRendering)
+
 # Transparent
 * [Translucent](https://github.com/PlexusDuMenton/TranslucentShader)
 * [Hologram Shader](https://github.com/andydbc/HologramShader)
@@ -23,5 +24,6 @@
 * [Reflective Transparent Water](https://laboratoriesx86.wordpress.com/2014/05/02/shader-reflective-transparent-water-like-unity-indie/)
 * [Simple Water Ripple](https://forum.unity.com/threads/simple-water-ripple-shader.246961/)
 
+* [Unity shader tutorial - Creating realistic ice](https://www.youtube.com/watch?v=-z-issgoZ4o)
 # Guides
 * [Unity 5.x Shaders and Effects Cookbook](https://github.com/smkplus/ShaderBooks/blob/master/Unity%205.x%20Shaders%20and%20Effects%20Cookbook.pdf)
