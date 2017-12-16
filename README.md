@@ -187,6 +187,18 @@ Source code for tutorials can be found [here](https://github.com/SebLague)
 #### [Unity3 Student](http://www.unity3dstudent.com/category/modules/)
  Most of the tutorials on this site are for beginners.
 
+### [xOctoManx](https://www.youtube.com/user/xOctoManx/videos)
+
+* [Unity 5 Tutorial: Quest System](https://www.youtube.com/watch?v=7GD5D1viVtc&list=PLj0TSSTwoqAy0abF90Ov3H7SDDj9jcpGD)
+* [Unity 5 Tutorial: Shop System](https://www.youtube.com/watch?v=N0M2GAQBag4&list=PLj0TSSTwoqAyiZdEFqp6pQjAg17q3q4kA)
+* [Unity 5 Tutorial: Diablo Style RPG](https://www.youtube.com/watch?v=JGiuKesf4Sg&list=PLj0TSSTwoqAw3MXb_irNvM2zh6TuvXoZZ)
+* [Unity 5 Tutorial: "Risk"-like Maps](https://www.youtube.com/watch?v=1P72SlLTuqs&list=PLj0TSSTwoqAxsElWNXPV_XABpsAgldrQS)
+* [Unity 5 Tutorial: Memory / Matching Game](https://www.youtube.com/watch?v=S1fz8JBOP-M&list=PLj0TSSTwoqAwB0Yxsz_4Xu-IHBlopB4My)
+* [Unity 5 Tutorial: Crono Trigger Inventory](https://www.youtube.com/watch?v=ROzJx2FG8Ac&list=PLj0TSSTwoqAwALQHYP70m1rtDouGbERP4)
+* [Unity Turn Based Battle / Combat](https://www.youtube.com/watch?v=kIcm3QcW8H4&list=PLj0TSSTwoqAypUgag6HJoVZD-RmbpDtjF)
+
+* [Unity Tutorial: Nation & Character Select](https://www.youtube.com/watch?v=CgvFsl135Fc&list=PLj0TSSTwoqAyqqDVE5zSWk4gbK_wdUyPv)
+
 ### Text
 #### [Catlike Coding](http://catlikecoding.com/)
 This website has a few tutorial series that are pretty informative.
