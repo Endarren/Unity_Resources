@@ -189,6 +189,7 @@ Source code for tutorials can be found [here](https://github.com/SebLague)
 
 ### [gamesplusjames](https://www.youtube.com/user/gamesplusjames/playlists)
 * [Unity 3D Platformer - Learn to Make a 3D Action](https://www.youtube.com/watch?v=h2d9Wc3Hhi0&list=PLiyfvmtjWC_V_H-VMGGAZi7n5E0gyhc37)
+* [Unity RPG Tutorial - Learn to make an RPG game](https://www.youtube.com/watch?v=Pk3GCgaNVTY&list=PLiyfvmtjWC_X6e0EYLPczO9tNCkm2dzkm)
 ### [xOctoManx](https://www.youtube.com/user/xOctoManx/videos)
 
 * [Unity 5 Tutorial: Quest System](https://www.youtube.com/watch?v=7GD5D1viVtc&list=PLj0TSSTwoqAy0abF90Ov3H7SDDj9jcpGD)
