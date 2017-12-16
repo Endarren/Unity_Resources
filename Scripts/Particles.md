@@ -2,6 +2,7 @@
 
 
 ## How to make
+
 ### [Abhinav a.k.a Demkeys](https://www.youtube.com/channel/UC0IgxGxESpKPWiKKrGfxG_w)
 * [Ripple Effects](https://www.youtube.com/watch?v=byxivSC1xYM&t=1s)
 * [Ring Effects](https://www.youtube.com/watch?v=CVsZ98TSEwI)
@@ -30,3 +31,7 @@
 
 ### [Brackeys](https://www.youtube.com/user/Brackeys/playlists)
 * [How to make a Tower Defense Game](https://www.youtube.com/watch?v=beuoNuK2tbk&list=PLPV2KyIb3jR4u5jX8za5iU1cqnQPmbzG0) - Watch videos 14, 15, and 16 for laser effects using particle system.
+
+### [xOctoManx](https://www.youtube.com/user/xOctoManx/videos)
+
+* [Unity 5 Tutorials: Particle Systems](https://www.youtube.com/watch?v=yYctRzw_SU0&list=PLj0TSSTwoqAw1j_FFf2Pg9fYuNX5wVSwf) - Cartoon Explosion, Healing Spell Effect, Ground Slam Effect, Sparkles, Animated Burning Characters, Force Shield Spell C#, Bubble Effect, Circle & Helix with Code, and Clouds & Smoke
