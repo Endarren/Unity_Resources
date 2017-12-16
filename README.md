@@ -141,6 +141,11 @@ Source code for tutorials can be found [here](https://github.com/SebLague)
 
 * [Unity - Tutorials, Help & Quick Tips](https://www.youtube.com/watch?v=Pj6nQ7omVLo&list=PL2R4tvBs-r1nh8pncnnDrKNMdcOqHdEc8)
 
+#### [Charger Games](https://www.youtube.com/channel/UChvLQbvpw2pfODgOmdS4ZSQ/playlists)
+* [Racing Game Development Tutorial for Beginners](https://www.youtube.com/watch?v=r7J-wiJGK1w&list=PLytjVIyAOStpcOGg6HIHhnnOZAdxkAr1U)
+#### [GucioDevs](https://www.youtube.com/channel/UC4MDTn6WkqvBfBW_4cFZp2g/videos)
+* [Unity 3D Platformer Tutorials](https://www.youtube.com/watch?v=oK_NzdVSxaQ&list=PLq3pyCh4J1B2va_ftIthSpUaQH0LycRA-)
+* [Generating Levels from Textures](https://www.youtube.com/watch?v=ITIxV_gJD50&list=PLq3pyCh4J1B3zdZ2uSHIVBoIqfNwenTeh)
 #### [quill18creates](https://www.youtube.com/user/quill18creates/playlists)
 
 * [C# for Complete Beginners](https://www.youtube.com/watch?v=eycAAKpoJxA&list=PLbghT7MmckI7JAftgv0CUdU4RLNivG6wY)
@@ -202,6 +207,9 @@ Source code for tutorials can be found [here](https://github.com/SebLague)
 
 * [Unity Tutorial: Nation & Character Select](https://www.youtube.com/watch?v=CgvFsl135Fc&list=PLj0TSSTwoqAyqqDVE5zSWk4gbK_wdUyPv)
 
+### [UnityChat](https://www.youtube.com/channel/UCB0lit2giNffl1hi1a4k6Ag)
+
+* [Strategy Games](https://www.youtube.com/watch?v=_FqTQZY3qZo&list=PLcGWkWha2wFd5Azr14ZJjvfnAmUKM_3E7)
 ### Text
 #### [Catlike Coding](http://catlikecoding.com/)
 This website has a few tutorial series that are pretty informative.
