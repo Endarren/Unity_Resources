@@ -35,3 +35,6 @@
 ### [xOctoManx](https://www.youtube.com/user/xOctoManx/videos)
 
 * [Unity 5 Tutorials: Particle Systems](https://www.youtube.com/watch?v=yYctRzw_SU0&list=PLj0TSSTwoqAw1j_FFf2Pg9fYuNX5wVSwf) - Cartoon Explosion, Healing Spell Effect, Ground Slam Effect, Sparkles, Animated Burning Characters, Force Shield Spell C#, Bubble Effect, Circle & Helix with Code, and Clouds & Smoke
+
+### [Tyler Wissler](https://www.youtube.com/channel/UCI_KwX0k_XGbNmqPou8ryzw)
+* [Particle System Tutorial](https://www.youtube.com/watch?v=rRQAOhbasVA&list=PLnUPOj4B5SaDeekdqa0292mQSYWefUS7i&index=23)
