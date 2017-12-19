@@ -1,3 +1,5 @@
+
+* [Raycast occasionally won't hit colliders on Mecanim animated characters](https://answers.unity.com/questions/746716/raycast-occasionally-wont-hit-colliders-on-mecanim.html)
 * [How to make a car apply damage on collision](http://answers.unity3d.com/questions/17318/how-to-make-car-apply-damage-on-collision-an-objec.html)
 * [Reflect Objects in 2D](http://www.theappguruz.com/blog/reflect-object-in-unity2d)
 * [How to Calculate force needed to jump towards target point](https://forum.unity.com/threads/how-to-calculate-force-needed-to-jump-towards-target-point.372288/)
