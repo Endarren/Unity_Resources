@@ -42,6 +42,7 @@
 * [Unity 5 - Game Effects VFX - Make Particles Follow a Path](https://www.youtube.com/watch?v=tZ5dSmsggFc)
 * [Unity 2017 - Game Effects VFX - Tornado Effect](https://www.youtube.com/watch?v=_VG_if3saBw)
 * [Unity 5 - Game Effects VFX - Ice Attack](https://www.youtube.com/watch?v=XqWZZejtjIk) - Advanced
+* [Unity 2017 - Game VFX - Realistic Rain Effect](https://www.youtube.com/watch?v=Ph3FvxJJ8AA)
 
 ### [imn nam](https://www.youtube.com/channel/UC74Ictcvlnz9WiEfpyhmiXA) - Youtube channel.  Videos do not include audio explanations of how to make the effects.
 * [Game effect tutorial - Sword Slash](https://www.youtube.com/watch?v=wFgS5pzG1Qs) - Includes using Autodeck
