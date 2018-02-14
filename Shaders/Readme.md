@@ -30,3 +30,5 @@
 * [Ice Shader / Material in Unity](https://www.youtube.com/watch?v=Kdpt-Cev7uM)
 # Guides
 * [Unity 5.x Shaders and Effects Cookbook](https://github.com/smkplus/ShaderBooks/blob/master/Unity%205.x%20Shaders%20and%20Effects%20Cookbook.pdf)
+
+* [Using Mask to cut a hole in an image](https://forum.unity.com/threads/using-mask-to-cut-a-hole-in-an-image.286489/)
