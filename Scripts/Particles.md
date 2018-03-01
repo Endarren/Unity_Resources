@@ -1,5 +1,5 @@
 * [Introduction To Unity: Particle Systems](https://www.raywenderlich.com/113049/introduction-unity-particle-systems) - A very detailed introduction to Particle Systems.
-
+* [Particle scales with camera distance](https://answers.unity.com/questions/1241404/particle-scales-with-camera-distance.html) - A very detailed introduction to Particle Systems.
 
 ## How to make
 
