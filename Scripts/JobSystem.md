@@ -14,3 +14,6 @@ Also uses Entity Component System.
 
 * [Voxelman](https://github.com/keijiro/Voxelman)
 A visual effect using the job system and the Entity Component System.
+
+* [Unity Fluid Sim](https://github.com/RoryDungan/unity-fluid-sim)
+A fluid simulator using the job system.
