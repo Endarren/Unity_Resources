@@ -17,3 +17,6 @@ A visual effect using the job system and the Entity Component System.
 
 * [Unity Fluid Sim](https://github.com/RoryDungan/unity-fluid-sim)
 A fluid simulator using the job system.
+
+* [RaycastCommand Demo](https://github.com/Endarren/Unity_RaycastCommand_Demo)
+An example of how to use the RaycastCommand.
