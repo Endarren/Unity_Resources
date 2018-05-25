@@ -1,5 +1,9 @@
 * [Unity UI Source Code](https://github.com/Pinkuburu/Unity-Technologies-ui) - This is the actually source code for the Unity UI.  You can use this to understand how it works or make your own variations.
 
+* [Shiny Effect for GUI](https://github.com/mob-sakai/ShinyEffectForUGUI)
+
+* [UI Effects](https://github.com/mob-sakai/UIEffect) A collection of effects that can be applied to the UI.
+
 * [Text is blurry in web build](https://answers.unity.com/questions/465647/text-is-blurry-in-web-build.html)
 
 * [Flexible Grid Layout](https://forum.unity.com/threads/flexible-grid-layout.296074/)
