@@ -7,3 +7,4 @@
 * [Light Shafts](https://github.com/robertcupisz/LightShafts)
 * [Lightflood](https://github.com/huwb/lightflood)
 * [Cinelights](https://github.com/laurenth-unity/Cinelights)
+* [Unity Light Animation Script](https://github.com/LinaAdkins/UnityLightAnimationScript)
