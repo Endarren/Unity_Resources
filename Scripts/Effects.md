@@ -1,6 +1,7 @@
 [Keijiro](https://github.com/keijiro) A github user who has made several interesting effects in Unity.
 
-
+* [Unity Abstract Wire](https://github.com/qine/unity-abstract-wire)
+* [Unity Skidmarks](https://github.com/Nition/UnitySkidmarks)
 ## Portal
 * [Unity Portal Rendering](https://github.com/pr0g/unity-portal-rendering)
 
