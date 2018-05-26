@@ -12,7 +12,9 @@
 
 * [Flexible Grid Layout](https://forum.unity.com/threads/flexible-grid-layout.296074/)
 
+## Text
 
+* [Type Text](https://github.com/synchrok/TypeText)
 
 ## Effects
 
