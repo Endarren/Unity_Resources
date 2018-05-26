@@ -15,6 +15,7 @@
 ## Text
 
 * [Type Text](https://github.com/synchrok/TypeText)
+* [Text Mesh Effects](https://github.com/KPDwyer/TextMeshEffects)
 
 ## Effects
 
