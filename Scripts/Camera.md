@@ -3,3 +3,5 @@
 
 * [Detect object in a specific part of the screen](https://answers.unity.com/questions/495102/detect-object-in-a-specific-part-of-the-screen.html)
 
+* [Third Person Camera](https://github.com/RelentlessAF/third-person-camera)   Tomb Raider/ The Witcher-esque Camera movement for Unity 3D 
+
