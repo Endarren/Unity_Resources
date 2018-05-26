@@ -14,6 +14,7 @@
 * [Dynamic Outline Mesh Combining](https://github.com/TheBusyBiscuit/Unity-DynamicOutline-MeshCombining)
 
 ## Mesh Generation
+* [Crest Oceanreader](https://github.com/huwb/crest-oceanrender)
 * [Procedurally generated spike mesh](https://github.com/tenevdev/procedural-spikes)
 * [Curved Mesh Generator](https://github.com/nrj/UnityCurvedMeshGenerator)
 * [Procedurally Generate a Sphere](https://stackoverflow.com/questions/4081898/procedurally-generate-a-sphere-mesh)
