@@ -1,11 +1,25 @@
 * [Unity UI Source Code](https://github.com/Pinkuburu/Unity-Technologies-ui) - This is the actually source code for the Unity UI.  You can use this to understand how it works or make your own variations.
 
-* [Shiny Effect for GUI](https://github.com/mob-sakai/ShinyEffectForUGUI)
-
-* [UI Effects](https://github.com/mob-sakai/UIEffect) - A collection of effects that can be applied to the UI.
+## Trouble Shooting
 
 * [Text is blurry in web build](https://answers.unity.com/questions/465647/text-is-blurry-in-web-build.html)
 
+* [How to listen for UI resize events](https://answers.unity.com/questions/807412/how-to-listen-for-ui-resize-events.html)
+
+
+
+## Layouts
+
 * [Flexible Grid Layout](https://forum.unity.com/threads/flexible-grid-layout.296074/)
 
-* [How to listen for UI resize events](https://answers.unity.com/questions/807412/how-to-listen-for-ui-resize-events.html)
+
+
+## Effects
+
+* [UI Effects](https://github.com/mob-sakai/UIEffect) - A collection of effects that can be applied to the UI.
+
+* [Unity-SwipeableView](https://github.com/m4tcha/Unity-SwipeableView)
+
+* [Shiny Effect for GUI](https://github.com/mob-sakai/ShinyEffectForUGUI)
+
+
