@@ -1,4 +1,5 @@
 
+
 * [Burning Dissolve Shader](http://www.codeavarice.com/dev-blog/tutorial-burning-edges-dissolve-shader-in-unity)
 * [Isoline Shader](https://github.com/keijiro/Isaura)
 * [Contact Shadow](https://github.com/keijiro/ContactShadows)
@@ -19,6 +20,7 @@
 * [Translucent](https://github.com/PlexusDuMenton/TranslucentShader)
 * [Hologram Shader](https://github.com/andydbc/HologramShader)
 * [Holographic and Camouflage](https://github.com/abhishekjain1991/Holographic_and_Camouflage_shaders)
+* [Frosted Glass](https://github.com/andydbc/unity-frosted-glass)
 # Water
 * [2D Water Shader](https://github.com/real-marco-b/unity-water-shader2d)
 * [Reflective Transparent Water](https://laboratoriesx86.wordpress.com/2014/05/02/shader-reflective-transparent-water-like-unity-indie/)
