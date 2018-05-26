@@ -6,6 +6,8 @@
 
 * [Lightmap Switching Tool](https://github.com/laurenth-unity/lightmap-switching-tool)
 
+* [Light Probe Placement](https://github.com/laurenth-unity/LightProbesPlacement)
+
 ## Effects
 * [Light Shafts](https://github.com/robertcupisz/LightShafts)
 * [Lightflood](https://github.com/huwb/lightflood)
