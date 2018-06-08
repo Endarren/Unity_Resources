@@ -24,3 +24,6 @@ A fluid simulator using the job system.
 
 * [RaycastCommand Demo](https://github.com/Endarren/Unity_RaycastCommand_Demo)
 An example of how to use the RaycastCommand.
+
+* [Unity Path AI](https://github.com/anueves1/Unity-Path-AI)
+An ECS example using navmesh agents.
