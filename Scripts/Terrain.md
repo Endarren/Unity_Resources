@@ -5,3 +5,4 @@
 * [Enhanced Foliage](https://github.com/marmitaTH/unity-enhanced-foliage)
 * [TerrainAnalyzer](https://github.com/superjamesmccafferty/TerrainAnalyzer)
 * [Spherical Terrain](https://github.com/tjbaron/UnityTerrain)
+* [FOV Terrain Generator](https://github.com/ScienceExp/Unity-FOV-Terrain-Generator)
