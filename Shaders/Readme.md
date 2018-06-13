@@ -21,6 +21,10 @@
 * [Hologram Shader](https://github.com/andydbc/HologramShader)
 * [Holographic and Camouflage](https://github.com/abhishekjain1991/Holographic_and_Camouflage_shaders)
 * [Frosted Glass](https://github.com/andydbc/unity-frosted-glass)
+# Force Field
+
+* [Force Field FX](https://github.com/vux427/ForceFieldFX)
+
 # Water
 * [2D Water Shader](https://github.com/real-marco-b/unity-water-shader2d)
 * [Reflective Transparent Water](https://laboratoriesx86.wordpress.com/2014/05/02/shader-reflective-transparent-water-like-unity-indie/)
