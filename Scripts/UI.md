@@ -5,6 +5,7 @@
 * [Text is blurry in web build](https://answers.unity.com/questions/465647/text-is-blurry-in-web-build.html)
 
 * [How to listen for UI resize events](https://answers.unity.com/questions/807412/how-to-listen-for-ui-resize-events.html)
+* [Why does my sprite on Android get blurry?](https://answers.unity.com/questions/908412/why-does-my-sprite-on-android-device-get-blurry.html)
 
 
 ## Windows
