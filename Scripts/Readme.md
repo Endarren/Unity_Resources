@@ -13,16 +13,6 @@ Here are some scripts and projects that I've found useful.
 * [How to replace bad words in C#](https://forum.unity.com/threads/how-to-replace-bad-words-in-c.277673/)
 * [Bad Word Filter](https://forum.unity.com/threads/c-bad-words-filter.312198/)
 
-## Line of Sight
-* [Viewpoint Computation](https://github.com/robertoranon/Unity-ViewpointComputation)
-* [Line of Sight](https://github.com/eoger/unity-lineofsight)
-* [gutoplusgamedev's LineOfSight.cs](https://gist.github.com/gutoplusgamedev/d29b63bfa74395c335b9)
-* [2D Line of Sight](https://github.com/f15gdsy/2D-Light-of-Sight-Unity)
-* [LuisResco Line of Sight](https://github.com/LuisResco/unity-line-of-sight-v1)
-* [Sight Cone](https://gist.github.com/grimmdev/76668ee44bf7c62bdc26)
-* [Player FOV](https://github.com/Dechichi01/PlayerFOV)
-* [EllipticalViewCone](http://ringofblades.com/Blades/Code/EllipticalViewCone.cs)
-* [Field of View](https://github.com/dim971/FieldOfView-Unity)
 
 ## Projectiles
 
