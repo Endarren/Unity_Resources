@@ -20,6 +20,8 @@
 
 * [Machine Learning Rogue Like](https://github.com/UnityTechnologies/MachineLearningRoguelike)
 
+* [Classic StarCraft in Unity](https://github.com/coconauts/startcraft-unity3d)
+
 
 # Demos
 
