@@ -6,7 +6,9 @@
 * [Angry Birds style game](https://github.com/dgkanatsios/AngryBirdsStyleGame)
 * [Flappy Bird Style Game](https://github.com/dgkanatsios/FlappyBirdStyleGame)
 
-* [Match Three Game](https://github.com/dgkanatsios/MatchThreeGame)
+* [Match Three Game](https://github.com/dgkanatsios/MatchThreeGame
+
+* [Unity Fruit Cutter](https://github.com/tutsplus/UnityFruitCutter)
 
 * [Hogwarts](https://github.com/OpenHogwarts/hogwarts)
 
