@@ -4,6 +4,7 @@
 * [Pokemon Red in Unity](https://github.com/thatrs/Pokemon-Red-Unity)
 * [Pokemon Unity](https://github.com/PokemonUnity/PokemonUnity)
 * [Angry Birds style game](https://github.com/dgkanatsios/AngryBirdsStyleGame)
+* [Flappy Bird Style Game](https://github.com/dgkanatsios/FlappyBirdStyleGame)
 
 # Game Kits
 
