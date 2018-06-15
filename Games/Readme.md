@@ -6,6 +6,8 @@
 * [Angry Birds style game](https://github.com/dgkanatsios/AngryBirdsStyleGame)
 * [Flappy Bird Style Game](https://github.com/dgkanatsios/FlappyBirdStyleGame)
 
+* [Match Three Game](https://github.com/dgkanatsios/MatchThreeGame)
+
 # Game Kits
 
 * [Tactical Role Playing Game Maker](https://github.com/Narratech/TRPGMaker)
