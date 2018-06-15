@@ -13,7 +13,7 @@
 * [Hogwarts](https://github.com/OpenHogwarts/hogwarts)
 
 * [Darkest Dungeon Unity](https://github.com/Reinisch/Darkest-Dungeon-Unity)
-
+* [Prosperity Wars](https://github.com/Nashet/Prosperity-Wars)
 # Game Kits
 
 * [Tactical Role Playing Game Maker](https://github.com/Narratech/TRPGMaker)
