@@ -18,6 +18,8 @@
 
 * [Tactical Role Playing Game Maker](https://github.com/Narratech/TRPGMaker)
 
+* [Machine Learning Rogue Like](https://github.com/UnityTechnologies/MachineLearningRoguelike)
+
 
 # Demos
 
