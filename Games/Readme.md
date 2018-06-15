@@ -8,6 +8,8 @@
 
 * [Match Three Game](https://github.com/dgkanatsios/MatchThreeGame)
 
+* [Hogwarts](https://github.com/OpenHogwarts/hogwarts)
+
 # Game Kits
 
 * [Tactical Role Playing Game Maker](https://github.com/Narratech/TRPGMaker)
