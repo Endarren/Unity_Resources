@@ -1,5 +1,5 @@
 * [Make Object move in a Figure 8 Programtically](http://forum.unity3d.com/threads/making-an-object-move-in-a-figure-8-programatically.38007/)
-
+* [Unity Navi person module](https://github.com/zouhunter/unity-navi-person-module)
 * [How to jump through box colliders but jump on top of them](https://answers.unity.com/questions/429885/how-to-jump-through-box-colliders-but-jump-on-top.html) - One-way platforms
 
 * [Unity3D Orbit around orbiting object](https://gamedev.stackexchange.com/questions/61981/unity3d-orbit-around-orbiting-object-transform-rotatearound)
