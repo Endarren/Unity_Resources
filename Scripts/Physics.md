@@ -10,3 +10,5 @@ Does a raycast along the path of a projectile's arc.
 * [Propulsion Physics](https://github.com/calebhc/propulsion-physics)
 * [Fake Hanging Chains](https://github.com/forestrf/Fake-hanging-chains)
 * [Jello Physics](https://github.com/kwanchangnim/Jello-Physics)
+
+* [LinHowe Game Algorithm -Collision Detection](https://github.com/IceLanguage/LinHoweGameAlgorithm/tree/master/Assets/Scripts/06-collisionDetection)
