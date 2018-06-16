@@ -3,6 +3,9 @@ Here are some scripts and projects that I've found useful.
 * [Mesh](https://github.com/Endarren/Unity_Resources/blob/master/Scripts/Mesh.md)
 * [AI](https://github.com/Endarren/Unity_Resources/blob/master/Scripts/AI.md)
 
+
+* [LinHowe Game Algorithms](https://github.com/IceLanguage/LinHoweGameAlgorithm)
+
 * [Unity Beat Detection](https://github.com/allanpichardo/Unity-Beat-Detection)
 
 * [Gun Outline Tutorial Using Unity 3D and Gimp White Weapon Outline](https://www.youtube.com/watch?v=yPLV3x6sjG0)
