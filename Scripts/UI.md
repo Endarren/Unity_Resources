@@ -29,3 +29,6 @@
 * [Shiny Effect for GUI](https://github.com/mob-sakai/ShinyEffectForUGUI)
 
 
+## Maps
+
+* [Unity Minimap Module](https://github.com/zouhunter/unity-minimap-module)
