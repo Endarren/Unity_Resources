@@ -7,6 +7,7 @@ Here are some scripts and projects that I've found useful.
 * [LinHowe Game Algorithms](https://github.com/IceLanguage/LinHoweGameAlgorithm)
 
 * [Unity Beat Detection](https://github.com/allanpichardo/Unity-Beat-Detection)
+* [Inspect System](https://github.com/DuckBoss/InspectSystem-Unity)
 
 * [Gun Outline Tutorial Using Unity 3D and Gimp White Weapon Outline](https://www.youtube.com/watch?v=yPLV3x6sjG0)
 * [Fog of War](https://github.com/krazzei/FoW_shadow_map) Shows how to do a fog of war using scripting and shaders.
