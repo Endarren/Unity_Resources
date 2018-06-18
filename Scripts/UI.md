@@ -1,5 +1,6 @@
 * [Unity UI Source Code](https://github.com/Pinkuburu/Unity-Technologies-ui) - This is the actually source code for the Unity UI.  You can use this to understand how it works or make your own variations.
 
+* [Unity UI Best Practices](https://github.com/dariarodionova/Unity-UI-best-practices-/blob/master/Unity%20UI%20best%20practices.md)
 ## Trouble Shooting
 
 * [Text is blurry in web build](https://answers.unity.com/questions/465647/text-is-blurry-in-web-build.html)
