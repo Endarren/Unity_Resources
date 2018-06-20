@@ -17,6 +17,10 @@
 * [Robot Eye Shader](https://github.com/danielzeller/Robot-eye-shader-Unity-)
 * [Cel Shading in Unity 5](http://timvolp.blogspot.com/2015/03/cel-shading-in-unity-5.html)
 * [Light Field Rendering](https://github.com/BastiaanGrisel/LightFieldRendering)
+# Toon
+
+* [UnityChanToonShaderVer2 project](https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project)
+* [UnityChanToonShaderVer2](https://github.com/Lumak/UnityChanToonShaderVer2)
 
 # Transparent
 * [Translucent](https://github.com/PlexusDuMenton/TranslucentShader)
