@@ -7,6 +7,7 @@ A list of useful sites and pages for those working with the Unity Engine.  These
 - [Search Tools](#searchtools)
 - [Trouble Shooting](#troubleshooting)
 - [Performance Tips](#performance-tips)
+- [Tools](https://github.com/Endarren/Unity_Resources/blob/master/Tools/Readme.md)
 
 ## Tutorial Sites
 Note:  Not all tutorials each site has are listed here.
