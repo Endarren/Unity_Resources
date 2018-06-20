@@ -50,10 +50,7 @@ Here are some scripts and projects that I've found useful.
 
 ## Script Sites
 * [UnityLibrary](https://github.com/UnityCommunity/UnityLibrary)
-### Raycasting
-* [A solution for accurate raycasting without mesh colliders](https://forum.unity.com/threads/a-solution-for-accurate-raycasting-without-mesh-colliders.134554/)
-* [Raycast without Colliders](https://forum.unity.com/threads/raycast-without-colliders.14378/)
-* [Cone Cast](trinit.es/unity/scripts/csharp/raycast/Conecast.cs) 
+
 ### Other
 * [How to write a GUI editor for Graph or Tree structures](https://stackoverflow.com/questions/17593101/how-to-write-a-gui-editor-for-graph-or-tree-structures)
 * [Unity UI Extensions](https://bitbucket.org/maulikkaloliya/unity-ui-extensions-new/src/54637fbbd9fc6418ac4febffef0c65b7b0f3b2d0/Scripts/?at=develop_5.3)
