@@ -1,4 +1,5 @@
-Here are some scripts and projects that I've found useful. 
+# Scripts
+Here are some scripts and projects that I have found useful. They have been organized by topic, so it will be easier to find what you are looking for.
 # Table of Contents
 * [AI](https://github.com/Endarren/Unity_Resources/blob/master/Scripts/AI.md)
 * [Animator](https://github.com/Endarren/Unity_Resources/blob/master/Scripts/Animator.md)
@@ -13,6 +14,7 @@ Here are some scripts and projects that I've found useful.
 * [Particles](https://github.com/Endarren/Unity_Resources/blob/master/Scripts/Particles.md)
 * [Physics](https://github.com/Endarren/Unity_Resources/blob/master/Scripts/Physics.md)
 * [Terrain](https://github.com/Endarren/Unity_Resources/blob/master/Scripts/Terrain.md)
+* [Script Sites](#script-sites)
 
 ## Misc
 * [LinHowe Game Algorithms](https://github.com/IceLanguage/LinHoweGameAlgorithm)
