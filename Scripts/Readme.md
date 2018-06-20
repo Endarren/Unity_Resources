@@ -1,7 +1,14 @@
 Here are some scripts and projects that I've found useful. 
-* [Camera](https://github.com/Endarren/Unity_Resources/blob/master/Scripts/Camera.md)
-* [Mesh](https://github.com/Endarren/Unity_Resources/blob/master/Scripts/Mesh.md)
 * [AI](https://github.com/Endarren/Unity_Resources/blob/master/Scripts/AI.md)
+* [Animator](https://github.com/Endarren/Unity_Resources/blob/master/Scripts/Animator.md)
+* [Camera](https://github.com/Endarren/Unity_Resources/blob/master/Scripts/Camera.md)
+* [Effects](https://github.com/Endarren/Unity_Resources/blob/master/Scripts/Effects.md)
+* [Job System](https://github.com/Endarren/Unity_Resources/blob/master/Scripts/JobSystem.md)
+* [Light](https://github.com/Endarren/Unity_Resources/blob/master/Scripts/Light.md)
+* [Mesh](https://github.com/Endarren/Unity_Resources/blob/master/Scripts/Mesh.md)
+* [Particles](https://github.com/Endarren/Unity_Resources/blob/master/Scripts/Particles.md)
+* [Physics](https://github.com/Endarren/Unity_Resources/blob/master/Scripts/Physics.md)
+* [Terrain](https://github.com/Endarren/Unity_Resources/blob/master/Scripts/Terrain.md)
 
 
 * [LinHowe Game Algorithms](https://github.com/IceLanguage/LinHoweGameAlgorithm)
