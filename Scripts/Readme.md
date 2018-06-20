@@ -40,7 +40,7 @@ Here are some scripts and projects that I've found useful.
 ## Unity Inside
 * [How weights of 2D Blending are calculated](https://answers.unity.com/questions/1206428/how-weights-of-2d-blending-are-calculated.html) - This is how the mecanim blend tree works.  It's a little complicated.  You can find the research on it [here](http://runevision.com/thesis/rune_skovbo_johansen_thesis.pdf) in chapter 6.3 if you really want to.  Again, this is complicated.
 
-## Scripts
+## Script Sites
 * [UnityLibrary](https://github.com/UnityCommunity/UnityLibrary)
 ### Raycasting
 * [A solution for accurate raycasting without mesh colliders](https://forum.unity.com/threads/a-solution-for-accurate-raycasting-without-mesh-colliders.134554/)
