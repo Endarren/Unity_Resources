@@ -1,5 +1,5 @@
 Here are some scripts and projects that I've found useful. 
-#Table of Contents
+# Table of Contents
 * [AI](https://github.com/Endarren/Unity_Resources/blob/master/Scripts/AI.md)
 * [Animator](https://github.com/Endarren/Unity_Resources/blob/master/Scripts/Animator.md)
 * [Camera](https://github.com/Endarren/Unity_Resources/blob/master/Scripts/Camera.md)
@@ -11,7 +11,7 @@ Here are some scripts and projects that I've found useful.
 * [Physics](https://github.com/Endarren/Unity_Resources/blob/master/Scripts/Physics.md)
 * [Terrain](https://github.com/Endarren/Unity_Resources/blob/master/Scripts/Terrain.md)
 
-##Misc
+## Misc
 * [LinHowe Game Algorithms](https://github.com/IceLanguage/LinHoweGameAlgorithm)
 
 * [Unity Beat Detection](https://github.com/allanpichardo/Unity-Beat-Detection)
