@@ -15,6 +15,11 @@ These are scripts used to store and represent data or data structures.
 * [Unity Linked List](https://github.com/derzorngottes/unity_linked_list)
 
 # Trees
+
+## Minmax Tree
+
+* [Minmax Implementation](https://fr.coursera.org/lecture/data-structures-design-patterns/minimax-implementation-t7RCW)
+
 ## KD Tree
 * [kd Tree](https://github.com/nobnak/KdTree)
 * [Closest Point on Mesh](https://github.com/StudioTechtrics/closestPointOnMesh)
