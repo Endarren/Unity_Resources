@@ -1,5 +1,5 @@
 # Unity_Resources
-A list of useful sites and pages for those working with the Unity Engine.  These lists are still underwork.  If you have any suggestions, please post them as an Issue and I will look into them.
+A list of useful sites and pages for those working with the Unity Engine.  These lists are still underwork.  If you have any suggestions, please post them as an Issue and I will look into them.  Because of the amount of items, I am breaking the lists into multiple pages.
 
 ## Table of Contents
 - [Tutorial Sites](#tutorial-sites)
