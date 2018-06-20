@@ -2,10 +2,10 @@
 A list of useful sites and pages for those working with the Unity Engine.  These lists are still underwork.  If you have any suggestions, please post them as an Issue and I will look into them.  Because of the amount of items, I am breaking the lists into multiple pages.
 
 ## Table of Contents
-- [Tutorial Sites](#tutorial-sites)
+- [Tutorial Sites](https://github.com/Endarren/Unity_Resources/tree/master/Tutorials)
 - [Scripts](https://github.com/Endarren/Unity_Resources/tree/master/Scripts)
 - [Search Tools](#searchtools)
-- [Trouble Shooting](https://github.com/Endarren/Unity_Resources/tree/master/Tutorials)
+- [Trouble Shooting](#Trouble-shooting)
 - [Performance Tips](#performance-tips)
 - [Shaders](https://github.com/Endarren/Unity_Resources/tree/master/Shaders)
 - [Tools](https://github.com/Endarren/Unity_Resources/blob/master/Tools/Readme.md)
