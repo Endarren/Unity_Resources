@@ -39,3 +39,31 @@ Here are some scripts and projects that I've found useful.
 
 ## Unity Inside
 * [How weights of 2D Blending are calculated](https://answers.unity.com/questions/1206428/how-weights-of-2d-blending-are-calculated.html) - This is how the mecanim blend tree works.  It's a little complicated.  You can find the research on it [here](http://runevision.com/thesis/rune_skovbo_johansen_thesis.pdf) in chapter 6.3 if you really want to.  Again, this is complicated.
+
+## Scripts
+* [UnityLibrary](https://github.com/UnityCommunity/UnityLibrary)
+### Raycasting
+* [A solution for accurate raycasting without mesh colliders](https://forum.unity.com/threads/a-solution-for-accurate-raycasting-without-mesh-colliders.134554/)
+* [Raycast without Colliders](https://forum.unity.com/threads/raycast-without-colliders.14378/)
+* [Cone Cast](trinit.es/unity/scripts/csharp/raycast/Conecast.cs) 
+### Other
+* [How to write a GUI editor for Graph or Tree structures](https://stackoverflow.com/questions/17593101/how-to-write-a-gui-editor-for-graph-or-tree-structures)
+* [Unity UI Extensions](https://bitbucket.org/maulikkaloliya/unity-ui-extensions-new/src/54637fbbd9fc6418ac4febffef0c65b7b0f3b2d0/Scripts/?at=develop_5.3)
+* [Heat Maps](https://bitbucket.org/Unity-Technologies/heatmaps)
+* [Unity RPG](https://bitbucket.org/generalbrolys/rpg-unity/src/9a3695e636ff?at=master)
+* [HydraCommon](https://bitbucket.org/thisishydra/hydracommon/src/3ad5f7c37ffc?at=master) - Collection of utility scripts and extensions.
+### [Armedunity](http://armedunity.com/index.php?)
+(FORUM) Requires account to see posted code, but accounts are free.
+* [Terrain Deformation in real time](https://armedunity.com/topic/5-unity3d-terrain-deformation-real-time/)
+* [Cone of Sight](https://armedunity.com/topic/10352-cone-of-sight/)
+### [Unity 3D Script Library](http://unity3dscriptlibrary.codeplex.com/)
+### [Unify Community](http://wiki.unity3d.com/index.php/Main_Page)
+* Has many scripts, but has not been updated lately.  At least with anything Unity related.  I still recommend checking it out.
+### [Trinit](http://trinit.es/unity/)
+(TEXT) Code was written in Spanish (I think).
+* [Cone Cast](trinit.es/unity/scripts/csharp/raycast/Conecast.cs) 
+### [C# Character Motor](https://gist.github.com/zephjc/5641540)
+## Coding
+
+* [Check if a layer is in a LayerMask](https://answers.unity.com/questions/50279/check-if-layer-is-in-layermask.html)
+
