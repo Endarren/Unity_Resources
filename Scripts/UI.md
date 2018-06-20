@@ -8,6 +8,9 @@
 * [How to listen for UI resize events](https://answers.unity.com/questions/807412/how-to-listen-for-ui-resize-events.html)
 * [Why does my sprite on Android get blurry?](https://answers.unity.com/questions/908412/why-does-my-sprite-on-android-device-get-blurry.html)
 
+## Lists
+
+* [Recyclable ListView](https://github.com/tomazsaraiva/addcomponent-unity-recyclable-listview)
 
 ## Windows
 * [Unity Simple File Browser](https://github.com/yasirkula/UnitySimpleFileBrowser) - This is also on the asset store for free.
