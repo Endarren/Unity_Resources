@@ -3,11 +3,11 @@ A list of useful sites and pages for those working with the Unity Engine.  These
 
 ## Table of Contents
 - [Tutorial Sites](#tutorial-sites)
-- [Scripts](#scripts)
 - [Scripts](https://github.com/Endarren/Unity_Resources/tree/master/Scripts)
 - [Search Tools](#searchtools)
 - [Trouble Shooting](#troubleshooting)
 - [Performance Tips](#performance-tips)
+- [Shaders](https://github.com/Endarren/Unity_Resources/tree/master/Shaders)
 - [Tools](https://github.com/Endarren/Unity_Resources/blob/master/Tools/Readme.md)
 
 ## Tutorial Sites
