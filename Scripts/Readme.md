@@ -14,7 +14,6 @@ Here are some scripts and projects that I've found useful.
 ## Misc
 * [LinHowe Game Algorithms](https://github.com/IceLanguage/LinHoweGameAlgorithm)
 
-* [Unity Beat Detection](https://github.com/allanpichardo/Unity-Beat-Detection)
 * [Inspect System](https://github.com/DuckBoss/InspectSystem-Unity)
 
 * [Gun Outline Tutorial Using Unity 3D and Gimp White Weapon Outline](https://www.youtube.com/watch?v=yPLV3x6sjG0)
