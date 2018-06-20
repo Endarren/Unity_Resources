@@ -20,6 +20,8 @@
 * [The Last of Us: Human Enemy AI - Video](http://www.gdcvault.com/play/1020338/The-Last-of-Us-Human)
 
 * [Complex Behaviours for Autonomous](http://pievisdev.blogspot.com/2015/05/complex-behaviours-for-autonomous.html)
+
+* [Programming a Hearthstone agent using Monte Carlo Tree Search](https://daim.idi.ntnu.no/masteroppgaver/014/14750/masteroppgave.pdf)
 ## Types of AI
 
 ### GOAP (Goal Oriented Action Planning)
