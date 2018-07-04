@@ -1,5 +1,5 @@
 
-
+* [Custom Shader Graph nodes](https://github.com/gilescoope/shader-graph-nodes)
 * [Unity Mobile Shaders](https://github.com/QianMo/Unity-Mobile-Shader)
 
 * [Burning Dissolve Shader](http://www.codeavarice.com/dev-blog/tutorial-burning-edges-dissolve-shader-in-unity)
