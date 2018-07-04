@@ -8,6 +8,10 @@
 * [Unity Portal Rendering](https://github.com/pr0g/unity-portal-rendering)
 * [Brackey's Portals In Unity](https://github.com/Brackeys/Portal-In-Unity)
 
+## Lightning
+
+* [Fractal Lightning](https://github.com/noobdawn/Fractal-Lightning-Unity)
+
 ## Lines and Curves
 * [Bezier Laser](https://github.com/sunduk/BezierLaser)
 
