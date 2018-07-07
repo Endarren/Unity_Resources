@@ -4,6 +4,11 @@
 * [Unity Skidmarks](https://github.com/Nition/UnitySkidmarks)
 
 * [Unity Replay System](https://github.com/RyanAlexanderSingh/UnityReplaySystem)
+
+## Fog
+
+* [Unity Volumetric Fog](https://github.com/SiiMeR/unity-volumetric-fog)
+
 ## Portal
 * [Unity Portal Rendering](https://github.com/pr0g/unity-portal-rendering)
 * [Brackey's Portals In Unity](https://github.com/Brackeys/Portal-In-Unity)
