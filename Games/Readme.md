@@ -1,6 +1,8 @@
 
 # Example Projects
 
+* [Learning Unity First Person Shooter](https://github.com/shacharoz/Learning-Unity-First-Person-Shooter)
+
 * [Pokemon Red in Unity](https://github.com/thatrs/Pokemon-Red-Unity)
 * [Pokemon Unity](https://github.com/PokemonUnity/PokemonUnity)
 * [Angry Birds style game](https://github.com/dgkanatsios/AngryBirdsStyleGame)
