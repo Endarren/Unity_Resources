@@ -1,6 +1,8 @@
 
 # Example Projects
 
+* [UnityDemo Splatoon](https://github.com/xieliujian/UnityDemo_Splatoon)
+
 * [Learning Unity First Person Shooter](https://github.com/shacharoz/Learning-Unity-First-Person-Shooter)
 
 * [Pokemon Red in Unity](https://github.com/thatrs/Pokemon-Red-Unity)
