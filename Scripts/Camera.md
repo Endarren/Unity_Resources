@@ -5,3 +5,5 @@
 
 * [Third Person Camera](https://github.com/RelentlessAF/third-person-camera)   Tomb Raider/ The Witcher-esque Camera movement for Unity 3D 
 
+* [Advanced Camera Controls](https://github.com/Xerios/AdvancedCameraControls)
+
