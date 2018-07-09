@@ -5,6 +5,10 @@
 
 * [Unity Replay System](https://github.com/RyanAlexanderSingh/UnityReplaySystem)
 
+## Decal/ Splat
+
+* [Unity Splatter Effect](https://github.com/axelbjornsson/UnitySplatterEffect)
+
 ## Fog
 
 * [Unity Volumetric Fog](https://github.com/SiiMeR/unity-volumetric-fog)
