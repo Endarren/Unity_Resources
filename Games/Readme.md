@@ -17,6 +17,8 @@
 * [Darkest Dungeon Unity](https://github.com/Reinisch/Darkest-Dungeon-Unity)
 * [Prosperity Wars](https://github.com/Nashet/Prosperity-Wars)
 
+* [Card Game Simulator](https://github.com/finol-digital/Card-Game-Simulator)
+
 * [Mafia Unity](https://github.com/OpenMafia/MafiaUnity)
 # Game Kits
 
