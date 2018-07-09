@@ -16,6 +16,8 @@
 
 * [Darkest Dungeon Unity](https://github.com/Reinisch/Darkest-Dungeon-Unity)
 * [Prosperity Wars](https://github.com/Nashet/Prosperity-Wars)
+
+* [Mafia Unity](https://github.com/OpenMafia/MafiaUnity)
 # Game Kits
 
 * [Tactical Role Playing Game Maker](https://github.com/Narratech/TRPGMaker)
