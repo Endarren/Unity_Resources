@@ -5,6 +5,11 @@
 
 * [Unity Replay System](https://github.com/RyanAlexanderSingh/UnityReplaySystem)
 
+
+## Sprite
+
+* [Sprite Glow](https://github.com/Elringus/SpriteGlow)
+
 ## Decal/ Splat
 
 * [Unity Splatter Effect](https://github.com/axelbjornsson/UnitySplatterEffect)
