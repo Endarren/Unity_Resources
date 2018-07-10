@@ -4,11 +4,12 @@ This repository holds links to articles, tutorials, and code that I have found h
 # Table of Contents
 - [Tutorial Sites](https://github.com/Endarren/Unity_Resources/tree/master/Tutorials)
 - [Scripts](https://github.com/Endarren/Unity_Resources/tree/master/Scripts)
+- [Tools](https://github.com/Endarren/Unity_Resources/blob/master/Tools/Readme.md) - Various tools to help you build your game.
 - [Search Tools](#searchtools)
 - [Trouble Shooting](#Trouble-shooting)
 - [Performance Tips](#performance-tips)
 - [Shaders](https://github.com/Endarren/Unity_Resources/tree/master/Shaders)
-- [Tools](https://github.com/Endarren/Unity_Resources/blob/master/Tools/Readme.md)
+
 
 
 
