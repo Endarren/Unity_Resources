@@ -1,4 +1,6 @@
 
+* [Unity Visualizations](https://github.com/WorldOfZero/UnityVisualizations)
+
 * [Custom Shader Graph nodes](https://github.com/gilescoope/shader-graph-nodes)
 * [Unity Mobile Shaders](https://github.com/QianMo/Unity-Mobile-Shader)
 
