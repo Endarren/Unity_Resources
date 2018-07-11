@@ -4,6 +4,7 @@
 # Environment
 
 * [RoadArchitect](https://github.com/MicroGSD/RoadArchitect)
+* [Unity Enhanced Foilage](https://github.com/marmitaTH/unity-enhanced-foliage)
 
 # Visual Scripting
 
