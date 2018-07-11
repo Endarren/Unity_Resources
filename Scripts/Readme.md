@@ -19,6 +19,8 @@ Here are some scripts and projects that I have found useful. They have been orga
 ## Misc
 * [LinHowe Game Algorithms](https://github.com/IceLanguage/LinHoweGameAlgorithm)
 
+
+* [Unity Simple Modifier System](https://github.com/DreamHarvesters/unity-simple-modifier-system)
 * [Inspect System](https://github.com/DuckBoss/InspectSystem-Unity)
 
 * [Gun Outline Tutorial Using Unity 3D and Gimp White Weapon Outline](https://www.youtube.com/watch?v=yPLV3x6sjG0)
