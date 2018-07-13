@@ -22,7 +22,7 @@
 * [Mesh Presentations](https://github.com/parahunter/mesh-presentation)
 * [Making a Custom Planet Ring in Unity](https://www.youtube.com/watch?v=Rze4GEFrYYs) - Creating a ring mesh, with visibility on both sides, at start.
 * [Planet ring editing in play mode](https://www.youtube.com/watch?v=WmWMC6iq7Y0) - Continuation of "Making a Custom Planet Ring in Unity"
-
+* [Procedural Planet](https://github.com/paolorussian/proceduralplanet)
 * [Unity Road Generator](https://github.com/JPBotelho/Unity-Road-Generator) - Creates a road mesh using Catmul-Rom splines.
 
 ## Modification
