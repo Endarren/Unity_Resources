@@ -19,6 +19,7 @@ Here are some scripts and projects that I have found useful. They have been orga
 ## Misc
 * [LinHowe Game Algorithms](https://github.com/IceLanguage/LinHoweGameAlgorithm)
 
+* [Unity Item System](https://github.com/DylanYasen/unity-item-system)
 
 * [Unity Simple Modifier System](https://github.com/DreamHarvesters/unity-simple-modifier-system)
 * [Inspect System](https://github.com/DuckBoss/InspectSystem-Unity)
