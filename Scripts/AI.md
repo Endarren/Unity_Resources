@@ -38,3 +38,5 @@
 ### Machine Learning
 * [Unity - Machine Learning Rogue Like](https://github.com/UnityTechnologies/MachineLearningRoguelike)
 * [MarcoMeter - Unity ML Environments](https://github.com/MarcoMeter/Unity-ML-Environments)
+
+* [Unity Tensorflow Keras](https://github.com/tcmxx/UnityTensorflowKeras) - Unity In Editor Deep Learning Tools. Using KerasSharp, TensorflowSharp, Unity MLAgent. In-Editor training and no python needed. 
