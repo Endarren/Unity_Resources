@@ -1,4 +1,6 @@
 
+* [Shading Effects](https://github.com/rakahn777/ShadingEffect)
+
 * [Unity Visualizations](https://github.com/WorldOfZero/UnityVisualizations)
 
 * [Custom Shader Graph nodes](https://github.com/gilescoope/shader-graph-nodes)
