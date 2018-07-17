@@ -2,11 +2,6 @@
 # Example Projects
 
 * [UnityDemo Splatoon](https://github.com/xieliujian/UnityDemo_Splatoon)
-
-* [Learning Unity First Person Shooter](https://github.com/shacharoz/Learning-Unity-First-Person-Shooter)
-
-* [Pokemon Red in Unity](https://github.com/thatrs/Pokemon-Red-Unity)
-* [Pokemon Unity](https://github.com/PokemonUnity/PokemonUnity)
 * [Angry Birds style game](https://github.com/dgkanatsios/AngryBirdsStyleGame)
 * [Flappy Bird Style Game](https://github.com/dgkanatsios/FlappyBirdStyleGame)
 
@@ -23,7 +18,17 @@
 
 * [Mafia Unity](https://github.com/OpenMafia/MafiaUnity)
 
+
+## FPS
+
 * [Multiplayer FPS](https://github.com/Armour/Multiplayer-FPS) - A First Person Shooter game with multiplayer support.
+* [Learning Unity First Person Shooter](https://github.com/shacharoz/Learning-Unity-First-Person-Shooter)
+
+## Pokemon
+* [Pokemon Red in Unity](https://github.com/thatrs/Pokemon-Red-Unity)
+* [Pokemon Unity](https://github.com/PokemonUnity/PokemonUnity)
+* [Pokemon Game](https://github.com/shashankgupta06/Pokemon-Game)
+
 # Game Kits
 
 * [Tactical Role Playing Game Maker](https://github.com/Narratech/TRPGMaker)
