@@ -11,7 +11,7 @@
 
 
 # [Matt Smith](https://github.com/dr-matt-smith)
-His github has several projects demoing how to do things in Unity.
+He is a senior lecturer at the Institute of Technology Blanchardstown, Dublin.  His github has several projects demoing how to do things in Unity.
 
 * [Unity Cookbook 2018 ch 1 - Assets](https://github.com/dr-matt-smith/unity-cookbook-2018-ch01)
 * [Unity Cookbook 2018 ch 2 - UI](https://github.com/dr-matt-smith/unity-cookbook-2018-ch02)
