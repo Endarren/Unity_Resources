@@ -26,6 +26,8 @@ Here are some scripts and projects that I have found useful. They have been orga
 
 * [Gun Outline Tutorial Using Unity 3D and Gimp White Weapon Outline](https://www.youtube.com/watch?v=yPLV3x6sjG0)
 * [Fog of War](https://github.com/krazzei/FoW_shadow_map) Shows how to do a fog of war using scripting and shaders.
+
+* [Unity City Layout](https://github.com/sonicth/UnityCityLayout)
 ## Tools
 * [Unity Toolbag](https://github.com/nickgravelyn/UnityToolbag)
 
