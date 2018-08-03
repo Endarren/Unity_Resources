@@ -31,6 +31,7 @@
 
 ## Lines and Curves
 * [Bezier Laser](https://github.com/sunduk/BezierLaser)
+* [UnityFoggyBoundary](https://github.com/vdvman1/UnityFoggyBoundary)
 
 ## Lightsaber / Beamsaber
 * [Unity Laser Lines](https://github.com/williamrjackson/UnityLaserLines)
