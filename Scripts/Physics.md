@@ -1,6 +1,10 @@
 
 * [Mechanics Lab](https://github.com/dpreid/mechanicsLab) - A collection of various effects using physics.  
 
+## Liquids
+
+* [Liquid Simulation](https://github.com/ivuecode/Liquid-Simulation)
+
 ## Raycasting
 * [A solution for accurate raycasting without mesh colliders](https://forum.unity.com/threads/a-solution-for-accurate-raycasting-without-mesh-colliders.134554/)
 * [Raycast without Colliders](https://forum.unity.com/threads/raycast-without-colliders.14378/)
