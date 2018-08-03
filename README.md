@@ -19,14 +19,7 @@ This repository holds links to articles, tutorials, and code that I have found h
 * [GitHub](github.com) - An obvious one, especially if you are reading this page.
 * [UnityList](http://unitylist.com/) - A search engine that looks over sites with Unity content to find what you are looking for.
 
-## Trouble Shooting
 
-* [Error: m_CoroutineEnumeratorGCHandle == 0](https://answers.unity.com/questions/158917/error-quotmcoroutineenumeratorgchandle-0quot.html)
-* [Internal Error: Too many pairs created, new pairs will be ignored](https://answers.unity.com/questions/359835/internal-error-too-many-pairs-created-new-pairs-wi.html)
-* [Mecanim issue Animator has not been initialized](https://forum.unity.com/threads/mecanim-issue-animator-has-not-been-initialized.158874/)
-
-* [Destroying asset is not permitted to avoid data lose](https://answers.unity.com/questions/164283/destroying-assets-is-not-permitted-to-avoid-data-l.html)
-* [Solved Screen Position out of View Frustum](https://forum.unity.com/threads/solved-screen-position-out-of-view-frustum.60851/)
 ## Performance Tips
 ### [Gamasutra](https://www.gamasutra.com/)
 * [C# Memory Management for Unity Developers](https://www.gamasutra.com/blogs/WendelinReich/20131109/203841/C_Memory_Management_for_Unity_Developers_part_1_of_3.php)
