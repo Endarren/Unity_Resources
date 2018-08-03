@@ -1,12 +1,18 @@
 * [Unity UI Source Code](https://github.com/Pinkuburu/Unity-Technologies-ui) - This is the actually source code for the Unity UI.  You can use this to understand how it works or make your own variations.
 
 * [Unity UI Best Practices](https://github.com/dariarodionova/Unity-UI-best-practices-/blob/master/Unity%20UI%20best%20practices.md)
+
+
+* [Unity Controls Tips](https://github.com/BogaDev/Unity-ControlsTips)
+
 ## Trouble Shooting
 
 * [Text is blurry in web build](https://answers.unity.com/questions/465647/text-is-blurry-in-web-build.html)
 * [How to Make a Game Responsive for All Mobile Resolutions](https://stackoverflow.com/questions/46652333/how-to-make-a-game-responsive-for-all-mobile-resolutions)
 * [How to listen for UI resize events](https://answers.unity.com/questions/807412/how-to-listen-for-ui-resize-events.html)
 * [Why does my sprite on Android get blurry?](https://answers.unity.com/questions/908412/why-does-my-sprite-on-android-device-get-blurry.html)
+
+
 
 ## Lists
 
