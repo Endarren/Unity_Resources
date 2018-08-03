@@ -18,6 +18,7 @@
 
 * [Unity Volumetric Fog](https://github.com/SiiMeR/unity-volumetric-fog)
 * [Vapor](https://github.com/ArthurBrussee/Vapor)
+* [UnityVolumetricFogDemo](https://github.com/uhiko512/UnityVolumetricFogDemo)
 
 ## Portal
 * [Unity Portal Rendering](https://github.com/pr0g/unity-portal-rendering)
