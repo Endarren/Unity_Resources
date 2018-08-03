@@ -10,3 +10,5 @@ Posts on the error message.
 
 * [https://answers.unity.com/questions/1274772/some-objects-were-not-cleaned-up-when-closing-the-4.html](https://answers.unity.com/questions/1274772/some-objects-were-not-cleaned-up-when-closing-the-4.html)
 
+[https://feedback.unity3d.com/suggestions/improve-some-objects-were-not-cleaned-up-when-closing-the-scene-error-message](https://feedback.unity3d.com/suggestions/improve-some-objects-were-not-cleaned-up-when-closing-the-scene-error-message)
+
