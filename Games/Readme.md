@@ -14,7 +14,7 @@
 * [Darkest Dungeon Unity](https://github.com/Reinisch/Darkest-Dungeon-Unity)
 * [Prosperity Wars](https://github.com/Nashet/Prosperity-Wars)
 
-* [Card Game Simulator](https://github.com/finol-digital/Card-Game-Simulator)
+
 
 * [Mafia Unity](https://github.com/OpenMafia/MafiaUnity)
 
@@ -23,6 +23,10 @@
 
 * [Unity SimCity](https://github.com/geronimo-lisboa/unity-simcity)
 
+## Card Games
+* [Card Game Simulator](https://github.com/finol-digital/Card-Game-Simulator)
+* [Gwent Clone](https://github.com/Muskson/gwent-clone)
+* [Card Example](https://github.com/rygo6/CardExample-Unity)
 
 
 ## FPS
