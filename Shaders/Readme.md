@@ -21,6 +21,7 @@
 * [Robot Eye Shader](https://github.com/danielzeller/Robot-eye-shader-Unity-)
 * [Cel Shading in Unity 5](http://timvolp.blogspot.com/2015/03/cel-shading-in-unity-5.html)
 * [Light Field Rendering](https://github.com/BastiaanGrisel/LightFieldRendering)
+
 # Painting
 
 * [Painting Objects in Unity](https://www.patreon.com/posts/quick-game-art-15265060)
@@ -52,3 +53,10 @@
 * [Unity 5.x Shaders and Effects Cookbook](https://github.com/smkplus/ShaderBooks/blob/master/Unity%205.x%20Shaders%20and%20Effects%20Cookbook.pdf)
 
 * [Using Mask to cut a hole in an image](https://forum.unity.com/threads/using-mask-to-cut-a-hole-in-an-image.286489/)
+
+
+
+# Collections
+
+* [100 Days Of Shaders](https://github.com/perebalsach/100DaysOfShaders)
+
