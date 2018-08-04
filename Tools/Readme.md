@@ -9,6 +9,9 @@
 
 # Environment
 * [Unity Enhanced Foilage](https://github.com/marmitaTH/unity-enhanced-foliage)
+
+* [House Gen](https://github.com/jkarbows/HouseGen)
+
 ## Roads
 * [RoadArchitect](https://github.com/MicroGSD/RoadArchitect)
 * [RoadCreator](https://github.com/MCrafterzz/roadcreator)
