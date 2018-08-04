@@ -14,7 +14,7 @@
 * [Darkest Dungeon Unity](https://github.com/Reinisch/Darkest-Dungeon-Unity)
 * [Prosperity Wars](https://github.com/Nashet/Prosperity-Wars)
 
-
+* [Hidden Object Game](https://github.com/cabrennan/HiddenObjGame)
 
 * [Mafia Unity](https://github.com/OpenMafia/MafiaUnity)
 
