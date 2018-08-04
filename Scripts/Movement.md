@@ -10,6 +10,11 @@
 * [Understanding Steering Behaviors](https://gamedevelopment.tutsplus.com/series/understanding-steering-behaviors--gamedev-12732)
 
 # Character Controller
+
+## Code
+* [C# Character Motor](https://gist.github.com/zephjc/5641540)
+
+## Articles
 * [Object Push Character Controller](https://answers.unity.com/questions/502798/object-push-character-controller.html)
 * [Controller Move Doesn't stay grouned when walking down a slope](https://answers.unity.com/questions/388137/controllermove-doesnt-stay-grounded-when-walking-d.html)
 * [How to keep a Character controller grounded without constantly applying gravity](https://answers.unity.com/questions/333155/how-to-keep-charactercontroller-grounded-without-c.html)
