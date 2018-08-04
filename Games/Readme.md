@@ -30,6 +30,7 @@
 ## Card Games
 * [Card Game Simulator](https://github.com/finol-digital/Card-Game-Simulator)
 * [Gwent Clone](https://github.com/Muskson/gwent-clone)
+* [Gwent Card](https://github.com/664235822/GwentCard) - Japanese
 * [Card Example](https://github.com/rygo6/CardExample-Unity)
 
 
