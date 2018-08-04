@@ -7,3 +7,5 @@
 
 * [Advanced Camera Controls](https://github.com/Xerios/AdvancedCameraControls)
 
+
+* [Pixel Camera Behaviour](https://github.com/jwkontti/Unity-PixelCameraBehaviour/blob/master/PixelCameraBehaviour.cs)
