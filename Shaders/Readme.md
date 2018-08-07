@@ -22,6 +22,10 @@
 * [Cel Shading in Unity 5](http://timvolp.blogspot.com/2015/03/cel-shading-in-unity-5.html)
 * [Light Field Rendering](https://github.com/BastiaanGrisel/LightFieldRendering)
 
+# Effects
+
+* [TexturePanner](https://github.com/AdultLink/TexturePanner) - A shader that pans the texture across the material.
+
 # Painting
 
 * [Painting Objects in Unity](https://www.patreon.com/posts/quick-game-art-15265060)
