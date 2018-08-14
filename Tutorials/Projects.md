@@ -29,6 +29,7 @@ He is a senior lecturer at the Institute of Technology Blanchardstown, Dublin.  
 * [Unity Cookbook 2018 ch 14](https://github.com/dr-matt-smith/unity-cookbook-2018-ch14)
 * [Unity Cookbook 2018 ch 15](https://github.com/dr-matt-smith/unity-cookbook-2018-ch15)
 * [Unity Cookbook 2018 ch 16](https://github.com/dr-matt-smith/unity-cookbook-2018-ch16)
+* [Unity Cookbook 2018 ch 16 - VR](https://github.com/dr-matt-smith/unity-cookbook-2018-ch16-vr)
 * [Unity Cookbook 2018 ch 17](https://github.com/dr-matt-smith/unity-cookbook-2018-ch17)
 * [Unity Cookbook 2018 ch 18](https://github.com/dr-matt-smith/unity-cookbook-2018-ch18)
 * [Unity Cookbook 2018 ch 19](https://github.com/dr-matt-smith/unity-cookbook-2018-ch19)
