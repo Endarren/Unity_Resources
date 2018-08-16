@@ -33,3 +33,5 @@ An example of how to use the RaycastCommand.
 An ECS example using navmesh agents.
 
 * [Unity ECS Topdown Template](https://github.com/nickkorta/Unity_ECSTopdownTemplate) - A Top Down game template using the entity component system.
+
+* [Unity ECS Basic Platform Game](https://github.com/MathijsvandeVen/Unity-ECS-Basic-Platform-Game)
