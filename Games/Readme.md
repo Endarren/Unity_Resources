@@ -3,6 +3,7 @@ Here are some game projects that are underwork in Unity.
 
 # Example Projects
 
+* [BotMender](https://github.com/Trigary/BotMender)
 * [UnityDemo Splatoon](https://github.com/xieliujian/UnityDemo_Splatoon)
 * [Angry Birds style game](https://github.com/dgkanatsios/AngryBirdsStyleGame)
 * [Flappy Bird Style Game](https://github.com/dgkanatsios/FlappyBirdStyleGame)
