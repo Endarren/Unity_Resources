@@ -60,3 +60,5 @@ This website has a few tutorial series that are pretty informative.
 
 #### [How to Project Decals](http://blog.wolfire.com/2009/06/how-to-project-decals/) 
 - This is not a Unity tutorial, but the basic principles are the same.
+
+* [Leveraging Unity and Unreal](https://github.com/stricmp/leveraging-unity-and-unreal-engine)
