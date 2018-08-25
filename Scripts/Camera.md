@@ -7,5 +7,6 @@
 
 * [Advanced Camera Controls](https://github.com/Xerios/AdvancedCameraControls)
 
+* [First Person Unity Camera](https://github.com/PanMig/First-Person-Unity-Camera)
 
 * [Pixel Camera Behaviour](https://github.com/jwkontti/Unity-PixelCameraBehaviour/blob/master/PixelCameraBehaviour.cs)
