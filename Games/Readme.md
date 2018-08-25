@@ -21,6 +21,7 @@ Here are some game projects that are underwork in Unity.
 
 * [Mafia Unity](https://github.com/OpenMafia/MafiaUnity)
 
+* [Megaman Unity](https://github.com/ManuelIribe18/Megaman_Unity)
 
 * [Railroad Station Tychoon](https://github.com/Pilus/RailroadStationTychoon)
 
