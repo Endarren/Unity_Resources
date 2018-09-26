@@ -21,6 +21,7 @@
 * [Robot Eye Shader](https://github.com/danielzeller/Robot-eye-shader-Unity-)
 * [Cel Shading in Unity 5](http://timvolp.blogspot.com/2015/03/cel-shading-in-unity-5.html)
 * [Light Field Rendering](https://github.com/BastiaanGrisel/LightFieldRendering)
+* [Unity Wave Equation](https://github.com/AsehesL/UnityWaveEquation)
 
 # Effects
 
