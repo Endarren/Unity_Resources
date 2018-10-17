@@ -39,6 +39,8 @@
 
 * [Shiny Effect for GUI](https://github.com/mob-sakai/ShinyEffectForUGUI)
 
+* [Unmask for UGUI](https://github.com/mob-sakai/UnmaskForUGUI)
+
 
 ## Maps
 
