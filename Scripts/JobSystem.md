@@ -35,3 +35,5 @@ An ECS example using navmesh agents.
 * [Unity ECS Topdown Template](https://github.com/nickkorta/Unity_ECSTopdownTemplate) - A Top Down game template using the entity component system.
 
 * [Unity ECS Basic Platform Game](https://github.com/MathijsvandeVen/Unity-ECS-Basic-Platform-Game)
+
+* [Unity ECS Tutorial](https://github.com/kushinn/Unity_ECS_Tutorials) A simple tutorial on how to set up and use ECS in Unity.
