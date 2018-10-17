@@ -40,3 +40,4 @@
 
 ## Outline
 * [Outline Effect](https://github.com/cakeslice/Outline-Effect)
+* [Rimlight](https://github.com/AdultLink/Rimlight)
