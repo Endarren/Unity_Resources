@@ -35,6 +35,7 @@
 
 * [UnityChanToonShaderVer2 project](https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project)
 * [UnityChanToonShaderVer2](https://github.com/Lumak/UnityChanToonShaderVer2)
+* [Dafirex Toon Shader](https://github.com/Dafirex/Unity-Shaders)
 
 # Transparent
 * [Translucent](https://github.com/PlexusDuMenton/TranslucentShader)
