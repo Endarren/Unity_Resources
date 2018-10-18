@@ -26,6 +26,8 @@
 
 * [Flexible Grid Layout](https://forum.unity.com/threads/flexible-grid-layout.296074/)
 
+* [Circle Menu](https://github.com/dworkinnn/circle_menu)
+
 ## Text
 
 * [Type Text](https://github.com/synchrok/TypeText)
