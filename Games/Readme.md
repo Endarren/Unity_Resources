@@ -47,6 +47,7 @@ Here are some game projects that are underwork in Unity.
 * [Pokemon Red in Unity](https://github.com/thatrs/Pokemon-Red-Unity)
 * [Pokemon Unity](https://github.com/PokemonUnity/PokemonUnity)
 * [Pokemon Game](https://github.com/shashankgupta06/Pokemon-Game)
+* [Pokemon Battle Simulator](https://github.com/RandomDo/Pokemon-Battle-Simulator)
 
 # Game Kits
 
