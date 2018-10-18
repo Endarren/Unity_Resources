@@ -1,4 +1,6 @@
 
+* [Unity Mesh Simplify](https://github.com/ecidevilin/UnityMeshSimplify)
+
 ## Cutting Meshes
 * [Ezy Slice](https://github.com/DavidArayan/EzySlice)
 * [Curved Mesh Generator](https://github.com/nrj/UnityCurvedMeshGenerator)
