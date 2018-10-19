@@ -12,6 +12,8 @@
 
 * [House Gen](https://github.com/jkarbows/HouseGen)
 
+* [World of Warcraft Editor in Unity](https://github.com/CucFlavius/wowedit_unity)
+
 ## Roads
 * [RoadArchitect](https://github.com/MicroGSD/RoadArchitect)
 * [RoadCreator](https://github.com/MCrafterzz/roadcreator)
