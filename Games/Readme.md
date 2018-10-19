@@ -14,7 +14,7 @@ Here are some game projects that are underwork in Unity.
 * [Unity Fruit Cutter](https://github.com/tutsplus/UnityFruitCutter)
 
 * [Hogwarts](https://github.com/OpenHogwarts/hogwarts)
-
+* [Attack on Titan fan game](https://github.com/Symon799/AoT_FanGame)
 * [Darkest Dungeon Unity](https://github.com/Reinisch/Darkest-Dungeon-Unity)
 * [Prosperity Wars](https://github.com/Nashet/Prosperity-Wars)
 
