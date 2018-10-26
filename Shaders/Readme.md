@@ -63,6 +63,6 @@
 
 
 # Collections
-
+* [Unity Shaders](https://github.com/knapeczadam/Unity-Shaders) - Collection of over 300 shaders.
 * [100 Days Of Shaders](https://github.com/perebalsach/100DaysOfShaders)
 
