@@ -45,6 +45,7 @@
 
 * [UI and Shader](https://github.com/blueberryzzz/UIAndShader) Contains: Simple Round Image, Circle List, and Chunk Disappearing Image
 
+* [UIAnimSequencer](https://github.com/Luomu/UIAnimSequencer) - Animation tool for the UI
 
 ## Maps
 
