@@ -9,6 +9,8 @@
 
 * [Unity DLC System](https://github.com/TheLazyLemur/Unity_DLC_System)
 
+* [Unity Bone Tools](https://github.com/ecidevilin/UnityBoneTools) - Allows bones in rigs to be seen in the scene.
+
 # Environment
 * [Unity Enhanced Foilage](https://github.com/marmitaTH/unity-enhanced-foliage)
 
