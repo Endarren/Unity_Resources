@@ -2,7 +2,7 @@
 
 ## Examples
 
-* [Leo ECS Example](https://github.com/Leopotam/ecs) - Simple implementation 
+
 * [Svelto ECS Examples - Survival](https://github.com/sebas77/Svelto.ECS.Examples.Survival)
 
 * [Unity ECS Demos](https://github.com/bwheatley/Unity_ECS_Demos)
