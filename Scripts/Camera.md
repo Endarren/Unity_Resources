@@ -10,3 +10,5 @@
 * [First Person Unity Camera](https://github.com/PanMig/First-Person-Unity-Camera)
 
 * [Pixel Camera Behaviour](https://github.com/jwkontti/Unity-PixelCameraBehaviour/blob/master/PixelCameraBehaviour.cs)
+
+* [Camera Mesh Fitter](https://github.com/unity-packages/camera-mesh-fitter) - Positions mesh in front of the camera and fitting in the viewport.
