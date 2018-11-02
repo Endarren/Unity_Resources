@@ -41,3 +41,5 @@
 * [MarcoMeter - Unity ML Environments](https://github.com/MarcoMeter/Unity-ML-Environments)
 
 * [Unity Tensorflow Keras](https://github.com/tcmxx/UnityTensorflowKeras) - Unity In Editor Deep Learning Tools. Using KerasSharp, TensorflowSharp, Unity MLAgent. In-Editor training and no python needed. 
+
+* [droid](https://github.com/sintefneodroid/droid)
