@@ -28,6 +28,8 @@ Here are some game projects that are underwork in Unity.
 
 * [Unity SimCity](https://github.com/geronimo-lisboa/unity-simcity)
 
+* [UnityMMO](https://github.com/liuhaopen/UnityMMO) - An MMO in Unity example.  Written in Japanese, I think.
+
 ## Driving
 
 * [Driving Simulator](https://github.com/DingYiWen/Driving-simulator)
