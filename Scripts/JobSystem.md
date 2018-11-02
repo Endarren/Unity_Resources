@@ -42,3 +42,5 @@ An ECS example using navmesh agents.
 * [Unity ECS Basic Platform Game](https://github.com/MathijsvandeVen/Unity-ECS-Basic-Platform-Game)
 
 * [Unity ECS Tutorial](https://github.com/kushinn/Unity_ECS_Tutorials) A simple tutorial on how to set up and use ECS in Unity.
+
+* [Unity ECS Instanced Sprite Renderer](https://github.com/paullj/unity-ecs-instanced-sprite-renderer)
