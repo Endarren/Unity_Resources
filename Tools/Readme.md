@@ -11,6 +11,10 @@
 
 * [Unity Bone Tools](https://github.com/ecidevilin/UnityBoneTools) - Allows bones in rigs to be seen in the scene.
 
+# Animation
+
+* [Unity Runtime Animation Recorder](https://github.com/newyellow/Unity-Runtime-Animation-Recorder) - Creates animation clips of game object during run time.
+
 # Environment
 * [Unity Enhanced Foilage](https://github.com/marmitaTH/unity-enhanced-foliage)
 
