@@ -27,5 +27,7 @@
 * [Procedural Planet](https://github.com/paolorussian/proceduralplanet)
 * [Unity Road Generator](https://github.com/JPBotelho/Unity-Road-Generator) - Creates a road mesh using Catmul-Rom splines.
 
+* [Polyhydra](https://github.com/IxxyXR/Polyhydra)
+
 ## Modification
 * [Conforming a Mesh Path to Arbitrary Surface on Runtime](https://answers.unity.com/questions/46457/conforming-a-mesh-path-to-arbitrary-surface-runtim.html)
