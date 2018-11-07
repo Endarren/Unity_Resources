@@ -24,6 +24,8 @@ Here are some game projects that are underwork in Unity.
 
 * [Megaman Unity](https://github.com/ManuelIribe18/Megaman_Unity)
 
+* [Super Mario Bros NES](https://github.com/raulruizbarea/supermariobrosnesunity)
+
 * [Railroad Station Tychoon](https://github.com/Pilus/RailroadStationTychoon)
 
 * [Unity SimCity](https://github.com/geronimo-lisboa/unity-simcity)
