@@ -1,3 +1,10 @@
+# Forum Posts
+* [Calculating 2D Camera Bounds](https://answers.unity.com/questions/501893/calculating-2d-camera-bounds.html)
+* [Limit Camera Movement](https://answers.unity.com/questions/1243099/limit-camera-movement-1.html)
+* [Help with Camera Zoom, Rotate, and Follow Player](https://forum.unity.com/threads/last-bit-of-camera-help-with-zoom-rotate-and-follow-player-functionality.488236/)
+* [Mega Man 2 Camera Help](https://stackoverflow.com/questions/30024525/mega-man-2-camera-help-unity)
+
+# Scripts
 * [Third Person Camera Tutorial](https://github.com/Ardathalion/UnityThirdPersonCameraTutorial)
 * [WoW Camera](https://github.com/UnityCommunity/UnityLibrary/blob/master/Assets/Scripts/Camera/WowCamera.cs)
 
