@@ -1,0 +1,41 @@
+
+* [Open Terminal](https://github.com/omid3098/OpenTerminal)
+
+* [JCS Unity Framework](https://github.com/jcs090218/JCSUnity_Framework)
+
+* [GameObject Brush](https://github.com/Kellojo/GameObject-Brush)
+
+* [Utiny Ripper](https://github.com/mafaca/UtinyRipper)
+
+* [Unity DLC System](https://github.com/TheLazyLemur/Unity_DLC_System)
+
+* [Unity Bone Tools](https://github.com/ecidevilin/UnityBoneTools) - Allows bones in rigs to be seen in the scene.
+
+# Animation
+
+* [Unity Runtime Animation Recorder](https://github.com/newyellow/Unity-Runtime-Animation-Recorder) - Creates animation clips of game object during run time.
+
+# Environment
+* [Unity Enhanced Foilage](https://github.com/marmitaTH/unity-enhanced-foliage)
+
+* [House Gen](https://github.com/jkarbows/HouseGen)
+
+* [World of Warcraft Editor in Unity](https://github.com/CucFlavius/wowedit_unity)
+
+* [Tiled Ground Generator](https://github.com/Maximetinu/Tiled-Ground-Generator)
+
+## Roads
+* [RoadArchitect](https://github.com/MicroGSD/RoadArchitect)
+* [RoadCreator](https://github.com/MCrafterzz/roadcreator)
+
+
+
+# Visual Scripting
+
+* [Constellation](https://github.com/ConstellationLanguage/Constellation)
+* [Diamond](https://assetstore.unity.com/packages/tools/visual-scripting/diamond-visual-scripting-92738)
+* [Ice Kori](https://github.com/molingyu/IceKori)
+
+# Editor Tools
+
+* [UnityEditorScripts](https://github.com/korintic/UnityEditorScripts) - Includes capture main camera.
