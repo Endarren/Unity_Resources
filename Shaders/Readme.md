@@ -23,13 +23,24 @@
 * [Light Field Rendering](https://github.com/BastiaanGrisel/LightFieldRendering)
 * [Unity Wave Equation](https://github.com/AsehesL/UnityWaveEquation)
 
+# Dissolve
+* [Sphere Dissolve](https://github.com/AdultLink/SphereDissolve)
+* [Vertical Dissolve](https://github.com/AdultLink/VerticalDissolve)
+
 # Effects
 
 * [TexturePanner](https://github.com/AdultLink/TexturePanner) - A shader that pans the texture across the material.
+* [Holo Shield](https://github.com/AdultLink/HoloShield)
 
 # Painting
 
 * [Painting Objects in Unity](https://www.patreon.com/posts/quick-game-art-15265060)
+
+# Portal
+* [Unity Occlusion and Portal Shader](https://github.com/DoubleL222/Unity_Occlusion_And_Portal_Shader)
+
+# Rimlight
+* [AdultLink Rimlight](https://github.com/AdultLink/Rimlight)
 
 # Toon
 
@@ -37,6 +48,8 @@
 * [UnityChanToonShaderVer2](https://github.com/Lumak/UnityChanToonShaderVer2)
 * [Dafirex Toon Shader](https://github.com/Dafirex/Unity-Shaders)
 * [Xiexes Unity Shaders](https://github.com/Xiexe/Xiexes-Unity-Shaders)
+* [Arktoon Shaders](https://github.com/synqark/Arktoon-Shaders)
+* [VRC Poiyomi Master Toon Shader](https://github.com/poiyomi/VRC-PoiyomiMasterToonShader)
 
 # Transparent
 * [Translucent](https://github.com/PlexusDuMenton/TranslucentShader)
@@ -62,8 +75,11 @@
 * [Using Mask to cut a hole in an image](https://forum.unity.com/threads/using-mask-to-cut-a-hole-in-an-image.286489/)
 
 
+# Shader Graph
+* [Shader Graph Examples](https://github.com/keijiro/ShaderGraphExamples)
 
 # Collections
 * [Unity Shaders](https://github.com/knapeczadam/Unity-Shaders) - Collection of over 300 shaders.
 * [100 Days Of Shaders](https://github.com/perebalsach/100DaysOfShaders)
+* [Syns Unity Shaders](https://github.com/synlogic/Syns-Unity-Shaders) - Toon, Water, Avatar, Scanlines
 

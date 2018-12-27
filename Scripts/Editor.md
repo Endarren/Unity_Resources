@@ -9,3 +9,9 @@
 #Node Window
 
 * [Node Graph Frame](https://github.com/zouhunter/unity-nodegraph-frame)
+
+
+* [Reorderable Inspector](https://github.com/SubjectNerd-Unity/ReorderableInspector)
+
+# Replacements
+* [ColorBands](https://github.com/rstecca/ColorBands) - Improved version of Gradient.
