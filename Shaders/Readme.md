@@ -1,4 +1,6 @@
 
+* [Arrays Shaders in Unity 5-4](https://www.alanzucconi.com/2016/10/24/arrays-shaders-unity-5-4/)
+* [Array Shader for Heat Maps](http://www.alanzucconi.com/2016/01/27/arrays-shaders-heatmaps-in-unity3d/)
 * [Shading Effects](https://github.com/rakahn777/ShadingEffect)
 
 * [Unity Visualizations](https://github.com/WorldOfZero/UnityVisualizations)
@@ -23,6 +25,9 @@
 * [Light Field Rendering](https://github.com/BastiaanGrisel/LightFieldRendering)
 * [Unity Wave Equation](https://github.com/AsehesL/UnityWaveEquation)
 
+
+
+
 # Dissolve
 * [Sphere Dissolve](https://github.com/AdultLink/SphereDissolve)
 * [Vertical Dissolve](https://github.com/AdultLink/VerticalDissolve)
@@ -31,6 +36,7 @@
 
 * [TexturePanner](https://github.com/AdultLink/TexturePanner) - A shader that pans the texture across the material.
 * [Holo Shield](https://github.com/AdultLink/HoloShield)
+* [How to make an air ripple](https://answers.unity.com/questions/1179181/how-can-i-create-an-air-ripple-effect.html)
 
 # Painting
 
@@ -41,6 +47,10 @@
 
 # Rimlight
 * [AdultLink Rimlight](https://github.com/AdultLink/Rimlight)
+
+# UI
+
+* [Radial Progress Bar](https://github.com/AdultLink/RadialProgressBar)
 
 # Toon
 
