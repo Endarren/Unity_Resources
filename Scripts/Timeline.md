@@ -4,6 +4,8 @@
 
 * [Unity 3DCG Timeline Samples](https://github.com/genki-ist/Unity3DCG_timeline_samples)
 
+* [Extending Timeline: A Practical Guide](https://blogs.unity3d.com/2018/09/05/extending-timeline-a-practical-guide/)
+
 
 * [PFTimeline](https://github.com/pofulu/PFTimeline) - a video player UI for the timeline.
 # Tools
@@ -11,6 +13,8 @@
 * [Unity Record and Repeat](https://github.com/fx-lange/unity-record-and-repeat)
 
 * [Timeline Tool](https://github.com/pofulu/TimelineTool) - Provides an easy way to change the Playable Director bindings and clips at runtime.
+
+
 
 # Custom Tracks
 

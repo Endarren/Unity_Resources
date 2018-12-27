@@ -19,11 +19,17 @@
 * [Tactical and Strategical AI](http://www.cse.scu.edu/~tschwarz/COEN129/PPT/Tactical%20and%20Strategical%20AI.pdf) - PDF of a power point slide presentation.
 * [The Last of Us: Human Enemy AI](http://gamelabgraz.com/wp-content/uploads/2017/02/Humam-AI-summary.pdf) - Simple research paper.  Not very detailed or complicated.
 * [The Last of Us: Human Enemy AI - Video](http://www.gdcvault.com/play/1020338/The-Last-of-Us-Human)
-
+* [Unity Artifical Intelligence Programming, Fourth Edition](https://github.com/PacktPublishing/Unity-Artificial-Intelligence-Programming-Fourth-Edition)
 * [Complex Behaviours for Autonomous](http://pievisdev.blogspot.com/2015/05/complex-behaviours-for-autonomous.html)
 
 * [Programming a Hearthstone agent using Monte Carlo Tree Search](https://daim.idi.ntnu.no/masteroppgaver/014/14750/masteroppgave.pdf)
+
+## Tools
+
+* [qAI](https://github.com/jlreymendez/qAI) - xNode based tool for designing AI graphs like behaviour trees and finite state machines.
 ## Types of AI
+
+* [AI System](https://github.com/BuildingBetterGames/AISystem) - Opensource AI system using ECS.
 
 ### GOAP (Goal Oriented Action Planning)
 * [GOAP](https://github.com/sploreg/goap)
@@ -39,6 +45,7 @@
 ### Machine Learning
 * [Unity - Machine Learning Rogue Like](https://github.com/UnityTechnologies/MachineLearningRoguelike)
 * [MarcoMeter - Unity ML Environments](https://github.com/MarcoMeter/Unity-ML-Environments)
+* [Maze Game AI](https://github.com/tavik000/MazeGameAI)
 
 * [Unity Tensorflow Keras](https://github.com/tcmxx/UnityTensorflowKeras) - Unity In Editor Deep Learning Tools. Using KerasSharp, TensorflowSharp, Unity MLAgent. In-Editor training and no python needed. 
 
