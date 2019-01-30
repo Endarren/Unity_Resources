@@ -10,7 +10,7 @@ Here are some links to pages on the Job System.  There are also some references 
   * [Unity Test - Job System](https://github.com/douduck08/UnityTest-JobSystem)
   Does a test comparing how moving cubes in a wave differ between the old approach and the job approach.
   
-
+* [Conway Game of Life](https://github.com/Endarren/Conway-Game-of-Life-NP) - Implementation of Conway Game of Life using Job system.
   
 * [UniteAustinTechnicalPresentation](https://github.com/Unity-Technologies/UniteAustinTechnicalPresentation)
 This is the game scene show in the announcement.
