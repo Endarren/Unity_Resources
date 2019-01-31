@@ -7,32 +7,27 @@ Here are some game projects that are underwork in Unity.
 * [BotMender](https://github.com/Trigary/BotMender)
 * [UnityDemo Splatoon](https://github.com/xieliujian/UnityDemo_Splatoon)
 * [Angry Birds style game](https://github.com/dgkanatsios/AngryBirdsStyleGame)
-* [Flappy Bird Style Game](https://github.com/dgkanatsios/FlappyBirdStyleGame)
-
 * [Match Three Game](https://github.com/dgkanatsios/MatchThreeGame)
-
-* [Unity Fruit Cutter](https://github.com/tutsplus/UnityFruitCutter)
-
 * [Hogwarts](https://github.com/OpenHogwarts/hogwarts)
 * [Attack on Titan fan game](https://github.com/Symon799/AoT_FanGame)
 * [Darkest Dungeon Unity](https://github.com/Reinisch/Darkest-Dungeon-Unity)
-* [Prosperity Wars](https://github.com/Nashet/Prosperity-Wars)
-
 * [Hidden Object Game](https://github.com/cabrennan/HiddenObjGame)
-
 * [Mafia Unity](https://github.com/OpenMafia/MafiaUnity)
-
 * [Megaman Unity](https://github.com/ManuelIribe18/Megaman_Unity)
-
 * [Super Mario Bros NES](https://github.com/raulruizbarea/supermariobrosnesunity)
+* [UnityMMO](https://github.com/liuhaopen/UnityMMO) - An MMO in Unity example.  Written in Japanese, I think.
+* [Bright Souls](https://github.com/leotgo/BrightSouls) - An indie game based on Dark Souls.
+
+## Simulator
 
 * [Railroad Station Tychoon](https://github.com/Pilus/RailroadStationTychoon)
-
+* [Prosperity Wars](https://github.com/Nashet/Prosperity-Wars)
 * [Unity SimCity](https://github.com/geronimo-lisboa/unity-simcity)
 
-* [UnityMMO](https://github.com/liuhaopen/UnityMMO) - An MMO in Unity example.  Written in Japanese, I think.
+## Arcade
 
-* [Bright Souls](https://github.com/leotgo/BrightSouls) - An indie game based on Dark Souls.
+* [Flappy Bird Style Game](https://github.com/dgkanatsios/FlappyBirdStyleGame)
+* [Unity Fruit Cutter](https://github.com/tutsplus/UnityFruitCutter)
 
 ## Driving
 
