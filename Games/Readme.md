@@ -32,6 +32,8 @@ Here are some game projects that are underwork in Unity.
 
 * [UnityMMO](https://github.com/liuhaopen/UnityMMO) - An MMO in Unity example.  Written in Japanese, I think.
 
+* [Bright Souls](https://github.com/leotgo/BrightSouls) - An indie game based on Dark Souls.
+
 ## Driving
 
 * [Driving Simulator](https://github.com/DingYiWen/Driving-simulator)
