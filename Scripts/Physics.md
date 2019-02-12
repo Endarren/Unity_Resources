@@ -52,3 +52,8 @@ Does a raycast along the path of a projectile's arc.
 
 ## Custom Collision Detection
 * [Unity Quadtree Collision Detection](https://github.com/MrTrueChina/Unity-Quadtree-Collision-Detection)
+
+# 2D
+
+## Raycasting
+* [How to use Physics2D Overlap Capsule and Capsule Cast](https://forum.unity.com/threads/how-to-use-the-new-physics2d-overlapcapsule-capsulecast.455232/) 
