@@ -28,7 +28,9 @@
 * [RoadArchitect](https://github.com/MicroGSD/RoadArchitect)
 * [RoadCreator](https://github.com/MCrafterzz/roadcreator)
 
+# Material
 
+* [Create Colored Material](https://github.com/Endarren/Create_Color_Material) - Allows user to create a simple colored material using a list of premade colors or your own color.
 
 # Visual Scripting
 
