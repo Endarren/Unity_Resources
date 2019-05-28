@@ -52,14 +52,7 @@
 
 * [Radial Progress Bar](https://github.com/AdultLink/RadialProgressBar)
 
-# Toon
 
-* [UnityChanToonShaderVer2 project](https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project)
-* [UnityChanToonShaderVer2](https://github.com/Lumak/UnityChanToonShaderVer2)
-* [Dafirex Toon Shader](https://github.com/Dafirex/Unity-Shaders)
-* [Xiexes Unity Shaders](https://github.com/Xiexe/Xiexes-Unity-Shaders)
-* [Arktoon Shaders](https://github.com/synqark/Arktoon-Shaders)
-* [VRC Poiyomi Master Toon Shader](https://github.com/poiyomi/VRC-PoiyomiMasterToonShader)
 
 # Transparent
 * [Translucent](https://github.com/PlexusDuMenton/TranslucentShader)
