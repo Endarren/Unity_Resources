@@ -9,3 +9,11 @@
 
 * [Procedural Generation 3D Terrain](https://github.com/killicolin/Procedural-Generation-3D-Terrain-Unity-)
 * [Unity Terrain Painter](https://github.com/drParadox312/Unity-TerrainPainter)
+* [Terrain Splitter](https://github.com/ExpressoBits/STerrainSplit)
+* [Procedural Terrain](https://github.com/Daniel466/Procedural-Terrain-Generation-with-Unity)
+* [Terrain Topology Algorithms](https://github.com/Scrawk/Terrain-Topology-Algorithms)
+* [Terrain Stamps](https://github.com/Roland09/Terrain-Stamps)
+* [Terrain Modifier](https://github.com/mogoson/TerrainModifier)
+* [Terrain Heatmaps](https://github.com/EdwardAndrew/UnityTerrainHeatmaps)
+* [NavMesh Component Terrain Link Generator](https://github.com/Fove/NavMeshComponentTerrainLinkGenerator)
+* [Terrain Streaming](https://github.com/ferdbold/unity-terrain-streaming)
