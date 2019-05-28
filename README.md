@@ -6,7 +6,7 @@ This repository holds links to articles, tutorials, and code that I have found h
 - [Scripts](https://github.com/Endarren/Unity_Resources/tree/master/Scripts) - Scripts from various sources that have been useful.  
 - [Games](https://github.com/Endarren/Unity_Resources/tree/master/Games) - A list of games, both original or ports, that people have made or are making in Unity.
 - [Tools](https://github.com/Endarren/Unity_Resources/blob/master/Tools/Readme.md) - Various tools to help you build your game.
-- [Shaders](https://github.com/Endarren/Unity_Resources/tree/master/Shaders)
+- [Shaders](https://github.com/Endarren/Unity_Resources/tree/master/Shaders) - Various shaders and shader tutorials made by others.
 - [Search Tools](#searchtools)
 - [Trouble Shooting](#Trouble-shooting)
 - [Performance Tips](#performance-tips)
