@@ -4,3 +4,5 @@
 * [Low poly Water](https://github.com/maxwerhahn/Lowpoly-water-for-Unity)
 * [Wave Propagation Water Ripple](https://github.com/ya7gisa0/Unity-Wave-Propagation-Water-Ripple)
 * [NVJOB Water Shader](https://github.com/nvjob/NVJOB-Water-Shader-simple-and-fast)
+* [Unity Water Surface](https://github.com/hecomi/UnityWaterSurface)
+* [Optically Realistic Water](https://github.com/muckSponge/Optically-Realistic-Water)
