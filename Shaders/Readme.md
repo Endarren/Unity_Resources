@@ -76,8 +76,5 @@
 # Shader Graph
 * [Shader Graph Examples](https://github.com/keijiro/ShaderGraphExamples)
 
-# Collections
-* [Unity Shaders](https://github.com/knapeczadam/Unity-Shaders) - Collection of over 300 shaders.
-* [100 Days Of Shaders](https://github.com/perebalsach/100DaysOfShaders)
-* [Syns Unity Shaders](https://github.com/synlogic/Syns-Unity-Shaders) - Toon, Water, Avatar, Scanlines
+
 
