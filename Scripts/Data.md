@@ -35,6 +35,7 @@ These are scripts used to store and represent data or data structures.
 * [Quad Tree in Unity3D](https://github.com/BeBeetleBird/QuadTree-in-Unity3d)
 * [Simple Quad Tree](https://github.com/Amre-Amer/QuadTree)
 * [Unity Quad Tree Planet](https://github.com/Tiggilyboo/UnityQuadTreePlanet)
+* [Quad Tree Wulcat](https://github.com/wulcat/QuadTree-in-Unity3d)
 
 ## Octree
 * [Unity Octree](https://github.com/douduck08/Unity-Octree)
