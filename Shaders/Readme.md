@@ -26,7 +26,7 @@
 * [Unity Wave Equation](https://github.com/AsehesL/UnityWaveEquation)
 
 
-
+* [Camouflage Shader](https://github.com/JPBotelho/Camouflage-Shader)
 
 # Dissolve
 * [Sphere Dissolve](https://github.com/AdultLink/SphereDissolve)
