@@ -77,3 +77,7 @@
 
 # Slope Detection
 * [Angle of Slope Ground Under Player](http://thehiddensignal.com/unity-angle-of-sloped-ground-under-player/)
+
+# Custom Movement
+
+* [Unity Source Movement](https://github.com/Olezen/UnitySourceMovement) - A movement system similar to the Source Engine
