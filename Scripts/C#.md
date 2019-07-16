@@ -1,5 +1,6 @@
 
 * [Unity 3D C# Syntax guidelines](https://github.com/samuelgoldenbaum/unity3D-csharp-syntax-guidelines)
+* [Unity C# Style Guide](https://github.com/jsc334/Unity-Style-Guide)
 ## Resources
 * [Dot Net Perls](www.dotnetperls.com)
   Contains tutorials on many C# topics.
