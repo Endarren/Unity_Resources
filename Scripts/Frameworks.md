@@ -7,3 +7,5 @@
 * [GInventory](https://github.com/mathiassiig/GInventory)
 
 * [Fydar's RPG Core](https://github.com/Fydar/RPGCore)
+
+* [Unity Gameplay Ability System](https://github.com/sjai013/UnityGameplayAbilitySystem)
