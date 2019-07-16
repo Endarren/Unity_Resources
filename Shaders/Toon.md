@@ -1,4 +1,4 @@
-* [UnityChanToonShaderVer2 project](https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project)
+* [UnityChanToonShaderVer2 project](https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project) - An offical and more advanced version of Unity-chan shaders and can be used for pretty much any project.
 * [UnityChanToonShaderVer2](https://github.com/Lumak/UnityChanToonShaderVer2)
 * [Dafirex Toon Shader](https://github.com/Dafirex/Unity-Shaders)
 * [Xiexes Unity Shaders](https://github.com/Xiexe/Xiexes-Unity-Shaders)
