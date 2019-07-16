@@ -198,3 +198,7 @@ Source code for tutorials can be found [here](https://github.com/SebLague)
 ### [UnityChat](https://www.youtube.com/channel/UCB0lit2giNffl1hi1a4k6Ag)
 
 * [Strategy Games](https://www.youtube.com/watch?v=_FqTQZY3qZo&list=PLcGWkWha2wFd5Azr14ZJjvfnAmUKM_3E7)
+
+### Other
+
+* [Beaver Joe](https://github.com/zheyuanzhou/Youtube-Unity-Tutorial)
