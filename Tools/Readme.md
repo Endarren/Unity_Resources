@@ -1,4 +1,6 @@
 
+* [Legacy Particle System Update](https://github.com/zxsean/Legacy-Particle-System-Updater) - Replaces legacy particle emitters with the particle system.  Read the ReadMe to see what versions of Unity it works on.
+
 * [AppCenter](https://github.com/microsoft/appcenter-sdk-unity)
 
 * [Open Terminal](https://github.com/omid3098/OpenTerminal)
