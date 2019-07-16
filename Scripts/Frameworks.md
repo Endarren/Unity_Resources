@@ -6,4 +6,4 @@
 
 * [GInventory](https://github.com/mathiassiig/GInventory)
 
-* [Actors Unity3D Framework](https://github.com/dimmpixeye/Actors-Unity3d-Framework)
+* [Fydar's RPG Core](https://github.com/Fydar/RPGCore)
