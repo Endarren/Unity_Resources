@@ -8,3 +8,4 @@
 * [Unity Arc System Works Shader](https://github.com/Aerthas/UNITY-Arc-system-Works-Shader)
 * [Custom Toon Shader - Dafirex](https://github.com/Dafirex/Unity-Shaders)
 * [MToon](https://github.com/Santarh/MToon)
+* [HDRP Simple Toon Shader](https://github.com/togucchi/HDRPSimpleToonShader)
