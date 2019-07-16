@@ -4,6 +4,9 @@
 
 
 * [Unity Utilities](https://github.com/LifeandStyleMedia/UnityUtilities)
+# Random
+
+* [Weighted Random](https://github.com/m3rt32/WeightedRandom)
 
 # Expression Parsing
 * [Fydar's Expresser](https://github.com/Fydar/Expresser)
