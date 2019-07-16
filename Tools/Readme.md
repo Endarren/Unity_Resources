@@ -1,4 +1,6 @@
 
+* [AppCenter](https://github.com/microsoft/appcenter-sdk-unity)
+
 * [Open Terminal](https://github.com/omid3098/OpenTerminal)
 
 * [JCS Unity Framework](https://github.com/jcs090218/JCSUnity_Framework)
