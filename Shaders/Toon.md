@@ -9,3 +9,6 @@
 * [Custom Toon Shader - Dafirex](https://github.com/Dafirex/Unity-Shaders)
 * [MToon](https://github.com/Santarh/MToon)
 * [HDRP Simple Toon Shader](https://github.com/togucchi/HDRPSimpleToonShader)
+
+# Guides
+* [Cel Shading in Unity 5](http://timvolp.blogspot.com/2015/03/cel-shading-in-unity-5.html)
