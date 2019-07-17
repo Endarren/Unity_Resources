@@ -22,6 +22,9 @@
 
 * [Camouflage Shader](https://github.com/JPBotelho/Camouflage-Shader)
 
+# Post Processing
+* [Unity Post Processing Effects Plus](https://github.com/ExpressoBits/UPPE-Plus)
+
 # Dissolve
 * [Sphere Dissolve](https://github.com/AdultLink/SphereDissolve)
 * [Vertical Dissolve](https://github.com/AdultLink/VerticalDissolve)
