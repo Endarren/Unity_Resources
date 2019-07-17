@@ -76,6 +76,6 @@
 # Shader Graph
 * [Custom Shader Graph nodes](https://github.com/gilescoope/shader-graph-nodes)
 * [Shader Graph Examples](https://github.com/keijiro/ShaderGraphExamples)
-
+* [Shader Graph Example Library (Offical)](https://github.com/UnityTechnologies/ShaderGraph_ExampleLibrary)
 
 
