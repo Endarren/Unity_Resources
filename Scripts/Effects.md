@@ -5,7 +5,7 @@
 
 * [Unity Replay System](https://github.com/RyanAlexanderSingh/UnityReplaySystem)
 
-
+* [Photosynthesizer](https://github.com/alexismorin/Photosynthesizer) - Procedural sprout foliage in a scene.
 ## Sprite
 
 * [Sprite Glow](https://github.com/Elringus/SpriteGlow)
