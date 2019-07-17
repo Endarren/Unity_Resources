@@ -36,7 +36,7 @@ Here are some game projects that are underwork in Unity.
 * [Driving Simulator](https://github.com/DingYiWen/Driving-simulator)
 
 ## Card Games
-* [Card Game Simulator](https://github.com/finol-digital/Card-Game-Simulator)
+* [Card Game Simulator](https://github.com/finol-digital/Card-Game-Simulator) - Includes links to documentation
 * [Gwent Clone](https://github.com/Muskson/gwent-clone)
 * [Gwent Card](https://github.com/664235822/GwentCard) - Japanese
 * [Card Example](https://github.com/rygo6/CardExample-Unity)
