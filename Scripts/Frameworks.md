@@ -9,3 +9,5 @@
 * [Fydar's RPG Core](https://github.com/Fydar/RPGCore)
 
 * [Unity Gameplay Ability System](https://github.com/sjai013/UnityGameplayAbilitySystem)
+
+* [Supreme ECS Rx](https://github.com/yy1985710/SupremeEcsRx) - A game framework based on ECS with dependency inject and unirx.
