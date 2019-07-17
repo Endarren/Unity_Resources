@@ -3,6 +3,8 @@
 * [procedural-landmass-generation](https://github.com/benjohns1/procedural-landmass-generation)
 
 * [Procedural Generation](https://github.com/AlexSerodio/procedural-generation-unity) Contains multiple use cases.
+# Object Placement
+* [Photosynthesizer](https://github.com/alexismorin/Photosynthesizer) - Procedural sprout foliage in a scene.
 # Mazes
 
 * [3D-Maze-Generator](https://github.com/FergusLeah/3D-Maze-Generator)
