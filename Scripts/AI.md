@@ -39,7 +39,8 @@
 ### FMS (Finite-State Machine)
 * [SwissArmyLib - Automata](https://github.com/ArchonInteractive/SwissArmyLib/tree/master/Archon.SwissArmyLib/Automata)
 * [Finite State Machine - Unify Wiki](http://wiki.unity3d.com/index.php?title=Finite_State_Machine)
-
+### Utility Theory
+* [AI Decision System](https://github.com/vichasselmann/aidecisionsystem)
 ### Behaviour Tree
 * [Behaviac](https://github.com/Tencent/behaviac)
 ### Machine Learning
