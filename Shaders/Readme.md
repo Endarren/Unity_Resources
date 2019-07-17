@@ -2,13 +2,9 @@
 * [Arrays Shaders in Unity 5-4](https://www.alanzucconi.com/2016/10/24/arrays-shaders-unity-5-4/)
 * [Array Shader for Heat Maps](http://www.alanzucconi.com/2016/01/27/arrays-shaders-heatmaps-in-unity3d/)
 * [Shading Effects](https://github.com/rakahn777/ShadingEffect)
-
 * [Unity Visualizations](https://github.com/WorldOfZero/UnityVisualizations)
-
 * [Custom Shader Graph nodes](https://github.com/gilescoope/shader-graph-nodes)
 * [Unity Mobile Shaders](https://github.com/QianMo/Unity-Mobile-Shader)
-
-* [Burning Dissolve Shader](http://www.codeavarice.com/dev-blog/tutorial-burning-edges-dissolve-shader-in-unity)
 * [Isoline Shader](https://github.com/keijiro/Isaura)
 * [Contact Shadow](https://github.com/keijiro/ContactShadows)
 * [Binary Image Filter](https://github.com/keijiro/KinoBinary)
@@ -18,10 +14,8 @@
 * [Inverse-project depth](https://github.com/keijiro/DepthInverseProjection)
 * [Radar Shader](http://unitycoder.com/blog/2012/10/25/radar-shader/)
 * [See Through walls](https://pastebin.com/5mYKhp4h)
-
 * [Mesh Melt Shader](http://unitycoder.com/blog/2015/03/24/mesh-melt-shader-test/)
 * [Robot Eye Shader](https://github.com/danielzeller/Robot-eye-shader-Unity-)
-* [Cel Shading in Unity 5](http://timvolp.blogspot.com/2015/03/cel-shading-in-unity-5.html)
 * [Light Field Rendering](https://github.com/BastiaanGrisel/LightFieldRendering)
 * [Unity Wave Equation](https://github.com/AsehesL/UnityWaveEquation)
 
@@ -31,6 +25,7 @@
 # Dissolve
 * [Sphere Dissolve](https://github.com/AdultLink/SphereDissolve)
 * [Vertical Dissolve](https://github.com/AdultLink/VerticalDissolve)
+* [Burning Dissolve Shader](http://www.codeavarice.com/dev-blog/tutorial-burning-edges-dissolve-shader-in-unity)
 
 # Effects
 
