@@ -1,6 +1,6 @@
 ## Scripts
 * [Collapsible Ground](https://github.com/MaxwellGengYF/Unity-Collapsible-Ground)
-* [Infinite Terrain](https://github.com/avidvid/UnityTerrain)
+
 * [Interactive Erosion](https://github.com/Scrawk/Interactive-Erosion)
 
 * [TerrainAnalyzer](https://github.com/superjamesmccafferty/TerrainAnalyzer)
