@@ -3,7 +3,7 @@
 * [Array Shader for Heat Maps](http://www.alanzucconi.com/2016/01/27/arrays-shaders-heatmaps-in-unity3d/)
 * [Shading Effects](https://github.com/rakahn777/ShadingEffect)
 * [Unity Visualizations](https://github.com/WorldOfZero/UnityVisualizations)
-* [Custom Shader Graph nodes](https://github.com/gilescoope/shader-graph-nodes)
+
 * [Unity Mobile Shaders](https://github.com/QianMo/Unity-Mobile-Shader)
 * [Isoline Shader](https://github.com/keijiro/Isaura)
 * [Contact Shadow](https://github.com/keijiro/ContactShadows)
@@ -74,6 +74,7 @@
 
 
 # Shader Graph
+* [Custom Shader Graph nodes](https://github.com/gilescoope/shader-graph-nodes)
 * [Shader Graph Examples](https://github.com/keijiro/ShaderGraphExamples)
 
 
