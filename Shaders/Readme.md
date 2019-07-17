@@ -78,4 +78,5 @@
 * [Shader Graph Examples](https://github.com/keijiro/ShaderGraphExamples)
 * [Shader Graph Example Library (Offical)](https://github.com/UnityTechnologies/ShaderGraph_ExampleLibrary)
 
-
+# Tools
+* [Shader Man](https://github.com/smkplus/ShaderMan) - Convert ShaderToy to Unity HLSL/CG 
