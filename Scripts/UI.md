@@ -28,6 +28,10 @@
 
 * [Circle Menu](https://github.com/dworkinnn/circle_menu)
 
+## Image
+
+* [Unity Runtime Sprite Sheets Generator](https://github.com/DaVikingCode/UnityRuntimeSpriteSheetsGenerator) - Creates spritesheets in runtime.  Uses some Unity.UI code for this.
+
 ## Text
 
 * [Type Text](https://github.com/synchrok/TypeText)
