@@ -2,7 +2,7 @@
 * [Collapsible Ground](https://github.com/MaxwellGengYF/Unity-Collapsible-Ground)
 * [Infinite Terrain](https://github.com/avidvid/UnityTerrain)
 * [Interactive Erosion](https://github.com/Scrawk/Interactive-Erosion)
-* [Enhanced Foliage](https://github.com/marmitaTH/unity-enhanced-foliage)
+
 * [TerrainAnalyzer](https://github.com/superjamesmccafferty/TerrainAnalyzer)
 * [Spherical Terrain](https://github.com/tjbaron/UnityTerrain)
 * [FOV Terrain Generator](https://github.com/ScienceExp/Unity-FOV-Terrain-Generator)
@@ -17,3 +17,10 @@
 * [Terrain Heatmaps](https://github.com/EdwardAndrew/UnityTerrainHeatmaps)
 * [NavMesh Component Terrain Link Generator](https://github.com/Fove/NavMeshComponentTerrainLinkGenerator)
 * [Terrain Streaming](https://github.com/ferdbold/unity-terrain-streaming)
+
+## Foliage
+* [Enhanced Foliage](https://github.com/marmitaTH/unity-enhanced-foliage)
+* [Photosynthesizer](https://github.com/alexismorin/Photosynthesizer) - Procedural sprout foliage in a scene.
+
+## Stamps
+* [Terrain Stamps](https://github.com/Roland09/Terrain-Stamps)
