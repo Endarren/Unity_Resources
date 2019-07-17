@@ -50,3 +50,7 @@
 * [Unity Tensorflow Keras](https://github.com/tcmxx/UnityTensorflowKeras) - Unity In Editor Deep Learning Tools. Using KerasSharp, TensorflowSharp, Unity MLAgent. In-Editor training and no python needed. 
 
 * [droid](https://github.com/sintefneodroid/droid)
+
+## Examples
+
+* [Miner FSM](https://github.com/igna92ts/unity_miner_fsm)
