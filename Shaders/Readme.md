@@ -38,6 +38,8 @@
 * [Holo Shield](https://github.com/AdultLink/HoloShield)
 * [How to make an air ripple](https://answers.unity.com/questions/1179181/how-can-i-create-an-air-ripple-effect.html)
 
+* [Parey Look Unity Shaders](https://github.com/pareylook/unity_shaders) - Contains a trail, custom unlit disolve, panner, and a shield shader.
+
 # Painting
 
 * [Painting Objects in Unity](https://www.patreon.com/posts/quick-game-art-15265060)
