@@ -4,5 +4,7 @@
 * [GPU Noise for Unity](https://github.com/heyx3/GPUNoiseForUnity)
 * [Cloud Noise Gen](https://github.com/Fewes/CloudNoiseGen)
 
+* [Cubic Noise](https://github.com/jobtalle/CubicNoise)
+
 # Spritesheet
 * [Unity Runtime Sprite Sheets Generator](https://github.com/DaVikingCode/UnityRuntimeSpriteSheetsGenerator) - Creates spritesheets in runtime.  Uses some Unity.UI code for this.
