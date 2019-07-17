@@ -1,1 +1,2 @@
 * [Turbulance Library](https://github.com/jesta88/Turbulence-Library) -  This is pretty old, so be careful using it.
+* [Keijiro Noise Shader](https://github.com/keijiro/NoiseShader)
