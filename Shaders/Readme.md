@@ -19,7 +19,7 @@
 * [Light Field Rendering](https://github.com/BastiaanGrisel/LightFieldRendering)
 * [Unity Wave Equation](https://github.com/AsehesL/UnityWaveEquation)
 
-
+* [Color Collection](https://github.com/XJINE/Unity_ColorCollection)
 * [Camouflage Shader](https://github.com/JPBotelho/Camouflage-Shader)
 
 # Post Processing
