@@ -9,6 +9,7 @@
 * [Subdivide a Mesh](https://answers.unity.com/questions/259127/does-anyone-have-any-code-to-subdivide-a-mesh-and.html)
 * [Explode a Mesh into Polygons](https://answers.unity.com/questions/338819/explode-a-mesh-into-polygons-efffect.html)
 * [Create Mesh by Defining Points](https://answers.unity.com/questions/585948/create-mesh-by-defining-points.html)
+* [Unity Plane Mesh Splitter](https://github.com/artnas/Unity-Plane-Mesh-Splitter)
 
 ## Saving Meshes
 * [Mesh Saver](https://github.com/pharan/Unity-MeshSaver)
