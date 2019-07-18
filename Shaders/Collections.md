@@ -4,3 +4,5 @@
 * [Syns Unity Shaders](https://github.com/synlogic/Syns-Unity-Shaders) - Toon, Water, Avatar, Scanlines
 
 * [Unity Shader Effect](https://github.com/fchsg/UnityShaderEffect) - Commonly used shader effects
+
+* [Fenrir Shader](https://github.com/FenrirSun/fenrir_shader)
