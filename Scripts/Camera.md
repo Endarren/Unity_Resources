@@ -12,11 +12,11 @@
 
 * [Detect object in a specific part of the screen](https://answers.unity.com/questions/495102/detect-object-in-a-specific-part-of-the-screen.html)
 
-
-* [Pixel Camera Behaviour](https://github.com/jwkontti/Unity-PixelCameraBehaviour/blob/master/PixelCameraBehaviour.cs)
-
 * [Camera Mesh Fitter](https://github.com/unity-packages/camera-mesh-fitter) - Positions mesh in front of the camera and fitting in the viewport.
 * [Advanced Camera Controls](https://github.com/Xerios/AdvancedCameraControls) - RTS like camera
+## Pixel
+* [DeadSimple Pixel Perfect Camera](https://github.com/cmilr/DeadSimple-Pixel-Perfect-Camera)
+* [Pixel Camera Behaviour](https://github.com/jwkontti/Unity-PixelCameraBehaviour/blob/master/PixelCameraBehaviour.cs)
 
 ## Shaking
 
