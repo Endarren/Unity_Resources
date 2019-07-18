@@ -5,3 +5,5 @@
 * [Google Ads](https://github.com/googleads/googleads-mobile-unity)
 
 * [Vibration](https://github.com/BenoitFreslon/Vibration) - iOS and Android
+
+* [UI Widgets](https://github.com/UnityTech/UIWidgets)
