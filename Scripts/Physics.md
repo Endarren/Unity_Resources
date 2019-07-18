@@ -15,6 +15,7 @@
 
 ## General
 * [Mechanics Lab](https://github.com/dpreid/mechanicsLab) - A collection of various effects using physics.  
+* [Wave Buoyancy](https://github.com/dbrizov/Unity-WaterBuoyancy)
 
 ## Liquids
 ### Code
