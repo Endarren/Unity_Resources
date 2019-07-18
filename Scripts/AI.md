@@ -55,3 +55,4 @@
 ## Examples
 
 * [Miner FSM](https://github.com/igna92ts/unity_miner_fsm)
+* [Racer AI](https://github.com/jcbang/RacerAI) - AI for racing games
