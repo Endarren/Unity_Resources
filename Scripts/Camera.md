@@ -8,7 +8,7 @@
 
 * [Multi Target Camera](https://github.com/lopespm/unity-camera-multi-target)
 
-* [Camera Shake](https://github.com/IronWarrior/UnityCameraShake)
+
 
 * [Detect object in a specific part of the screen](https://answers.unity.com/questions/495102/detect-object-in-a-specific-part-of-the-screen.html)
 
@@ -16,7 +16,10 @@
 
 * [Advanced Camera Controls](https://github.com/Xerios/AdvancedCameraControls) - RTS like camera
 
+## Shaking
 
+* [Ewersp's Camera Shake](https://github.com/ewersp/CameraShake)
+* [IronWarrior's Camera Shake](https://github.com/IronWarrior/UnityCameraShake)
 
 * [Pixel Camera Behaviour](https://github.com/jwkontti/Unity-PixelCameraBehaviour/blob/master/PixelCameraBehaviour.cs)
 
