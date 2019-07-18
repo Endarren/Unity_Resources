@@ -8,7 +8,7 @@
 
 * [Multi Target Camera](https://github.com/lopespm/unity-camera-multi-target)
 
-
+* [Camera Shake](https://github.com/IronWarrior/UnityCameraShake)
 
 * [Detect object in a specific part of the screen](https://answers.unity.com/questions/495102/detect-object-in-a-specific-part-of-the-screen.html)
 
