@@ -22,7 +22,7 @@ Here are some game projects that are underwork in Unity.
 * [Dune of Arrakis](https://github.com/daniloabella18/Dune-of-Arrakis-Unity3D)
 
 * [Rhythm Game Project](https://github.com/erlhuang/rhythm-game-project)
-
+* [Another Unity Thing](https://github.com/zombietfk/AnotherUnityThing) - ARPG
 # Remakes of existing games
 
 * [Darkest Dungeon Unity](https://github.com/Reinisch/Darkest-Dungeon-Unity)
