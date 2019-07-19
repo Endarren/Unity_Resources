@@ -10,11 +10,11 @@ Here are some game projects that are underwork in Unity.
 * [Match Three Game](https://github.com/dgkanatsios/MatchThreeGame)
 * [Hogwarts](https://github.com/OpenHogwarts/hogwarts)
 * [Attack on Titan fan game](https://github.com/Symon799/AoT_FanGame)
-* [Darkest Dungeon Unity](https://github.com/Reinisch/Darkest-Dungeon-Unity)
+
 * [Hidden Object Game](https://github.com/cabrennan/HiddenObjGame)
 * [Mafia Unity](https://github.com/OpenMafia/MafiaUnity)
-* [Megaman Unity](https://github.com/ManuelIribe18/Megaman_Unity)
-* [Super Mario Bros NES](https://github.com/raulruizbarea/supermariobrosnesunity)
+
+
 * [UnityMMO](https://github.com/liuhaopen/UnityMMO) - An MMO in Unity example.  Written in Japanese, I think.
 * [Bright Souls](https://github.com/leotgo/BrightSouls) - An indie game based on Dark Souls.
 
@@ -22,6 +22,15 @@ Here are some game projects that are underwork in Unity.
 * [Dune of Arrakis](https://github.com/daniloabella18/Dune-of-Arrakis-Unity3D)
 
 * [Rhythm Game Project](https://github.com/erlhuang/rhythm-game-project)
+
+# Remakes of existing games
+
+* [Darkest Dungeon Unity](https://github.com/Reinisch/Darkest-Dungeon-Unity)
+* [Megaman Unity](https://github.com/ManuelIribe18/Megaman_Unity)
+
+## Mario
+* [Super Mario Bros NES](https://github.com/raulruizbarea/supermariobrosnesunity)
+* [Super Mario Bros](https://github.com/Claudiocdj/Super-Mario-Bros-Unity)
 
 ## Simulator
 
