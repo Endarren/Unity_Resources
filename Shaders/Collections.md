@@ -6,3 +6,5 @@
 * [Unity Shader Effect](https://github.com/fchsg/UnityShaderEffect) - Commonly used shader effects
 
 * [Fenrir Shader](https://github.com/FenrirSun/fenrir_shader)
+
+* [Unity Shader Lib](https://github.com/YuriAICruz/Unity-ShaderLib)
