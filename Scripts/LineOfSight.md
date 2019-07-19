@@ -8,5 +8,5 @@
 * [Player FOV](https://github.com/Dechichi01/PlayerFOV)
 * [EllipticalViewCone](http://ringofblades.com/Blades/Code/EllipticalViewCone.cs)
 * [Field of View & Fog of War](https://github.com/Kellojo/Unity---Field-of-View-Fog-of-War)
-
+* [Sebastian Lague - Field of View](https://github.com/philippds/field-of-view_unity)
 * [Stealth Mechanic](https://github.com/coxlin/StealthMechanic) - Uses colliders for detecting if the player is in the light
