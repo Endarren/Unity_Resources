@@ -19,6 +19,7 @@ Here are some game projects that are underwork in Unity.
 * [Bright Souls](https://github.com/leotgo/BrightSouls) - An indie game based on Dark Souls.
 
 * [3D Mininig Game](https://github.com/DaKo51/3D-Mining-Game)
+* [Dune of Arrakis](https://github.com/daniloabella18/Dune-of-Arrakis-Unity3D)
 
 ## Simulator
 
