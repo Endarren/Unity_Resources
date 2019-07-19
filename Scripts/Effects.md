@@ -1,4 +1,4 @@
-[Keijiro](https://github.com/keijiro) A github user who has made several interesting effects in Unity.
+
 
 * [Unity Abstract Wire](https://github.com/qine/unity-abstract-wire)
 * [Unity Skidmarks](https://github.com/Nition/UnitySkidmarks)
@@ -6,6 +6,9 @@
 * [Unity Replay System](https://github.com/RyanAlexanderSingh/UnityReplaySystem)
 
 * [Photosynthesizer](https://github.com/alexismorin/Photosynthesizer) - Procedural sprout foliage in a scene.
+
+# People
+[Keijiro](https://github.com/keijiro) A github user who has made several interesting effects in Unity.
 ## Sprite
 
 * [Sprite Glow](https://github.com/Elringus/SpriteGlow)
