@@ -1,3 +1,5 @@
+I am thinking about how to organize this page better and I am open to suggestions.
+
 * [Basic Pathtracer](https://github.com/LGhassen/basic_pathtracer)
 
 * [uRaymarching](https://github.com/hecomi/uRaymarching)
