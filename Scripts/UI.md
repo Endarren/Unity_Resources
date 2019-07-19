@@ -5,6 +5,8 @@
 
 * [Unity Controls Tips](https://github.com/BogaDev/Unity-ControlsTips)
 
+* [Unity - WinForms](https://github.com/Meragon/Unity-WinForms) - Wrapper for Windows forms.
+
 ## Trouble Shooting
 
 * [Text is blurry in web build](https://answers.unity.com/questions/465647/text-is-blurry-in-web-build.html)
