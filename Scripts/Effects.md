@@ -7,6 +7,7 @@
 
 * [Photosynthesizer](https://github.com/alexismorin/Photosynthesizer) - Procedural sprout foliage in a scene.
 * [Spektr Lightning](https://github.com/keijiro/SpektrLightning)
+* [Kawase Light Streak](https://github.com/nobnak/KawaseLightStreakUnity)
 # People
 [Keijiro](https://github.com/keijiro) A github user who has made several interesting effects in Unity.
 ## Sprite
