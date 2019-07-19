@@ -17,7 +17,7 @@ Here are some scripts and projects that I have found useful. They have been orga
 * [Script Sites](#script-sites)
 
 ## Misc
-
+* [Mykaelos Unity Library](https://github.com/Mykaelos/MykaelosUnityLibrary)
 * [Useful Easy Weapon Scripts](https://github.com/PortreeMathsTutor/Useful-Easy-Weapon-Scripts) - A collection of simple scripts.
 * [LinHowe Game Algorithms](https://github.com/IceLanguage/LinHoweGameAlgorithm)
 
