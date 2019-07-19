@@ -23,6 +23,7 @@
 
 * [Color Collection](https://github.com/XJINE/Unity_ColorCollection)
 * [Camouflage Shader](https://github.com/JPBotelho/Camouflage-Shader)
+* [Fur Shader](https://github.com/Mushus/unity-fursharder)
 
 # Post Processing
 * [Unity Post Processing Effects Plus](https://github.com/ExpressoBits/UPPE-Plus)
