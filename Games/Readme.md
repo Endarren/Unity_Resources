@@ -21,6 +21,8 @@ Here are some game projects that are underwork in Unity.
 * [3D Mininig Game](https://github.com/DaKo51/3D-Mining-Game)
 * [Dune of Arrakis](https://github.com/daniloabella18/Dune-of-Arrakis-Unity3D)
 
+* [Rhythm Game Project](https://github.com/erlhuang/rhythm-game-project)
+
 ## Simulator
 
 * [Railroad Station Tychoon](https://github.com/Pilus/RailroadStationTychoon)
