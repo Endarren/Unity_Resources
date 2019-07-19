@@ -23,7 +23,12 @@
 
 * [Color Collection](https://github.com/XJINE/Unity_ColorCollection)
 * [Camouflage Shader](https://github.com/JPBotelho/Camouflage-Shader)
-* [Fur Shader](https://github.com/Mushus/unity-fursharder)
+# Fur
+* [Sorumi - Fur Shader](https://github.com/Sorumi/UnityFurShader)
+* [Mushus - Fur Shader](https://github.com/Mushus/unity-fursharder)
+* [Stanford Bunny Fur](https://github.com/chenjd/Stanford-Bunny-Fur-With-Unity)
+* [Fur Rendering](https://github.com/jose-villegas/FurRendering)
+* [CgFX Shader Compilation](https://github.com/steaklive/CgFX-Shader-Compilation/tree/master/Assets/Scenes/Shell%20Rendering%20Shader)
 
 # Post Processing
 * [Unity Post Processing Effects Plus](https://github.com/ExpressoBits/UPPE-Plus)
