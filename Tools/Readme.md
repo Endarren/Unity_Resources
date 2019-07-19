@@ -45,3 +45,5 @@
 # Editor Tools
 
 * [UnityEditorScripts](https://github.com/korintic/UnityEditorScripts) - Includes capture main camera.
+
+* [Watch](https://github.com/wowbroforce/Watch) - Watches selected objects and variables in the scene.
