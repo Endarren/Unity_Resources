@@ -8,3 +8,4 @@
 * [Fenrir Shader](https://github.com/FenrirSun/fenrir_shader)
 
 * [Unity Shader Lib](https://github.com/YuriAICruz/Unity-ShaderLib)
+* [CgFX Shader Compilation](https://github.com/steaklive/CgFX-Shader-Compilation)
