@@ -4,3 +4,5 @@
 * [Unity MS Speech SDK](https://github.com/ActiveNick/Unity-MS-SpeechSDK)
 
 * [Audio Importer](https://github.com/Hello-Meow/AudioImporter)
+
+* [Lip Sync Lite](https://github.com/larrymario/LipSyncLite)
