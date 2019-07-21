@@ -16,7 +16,8 @@ Here are some game projects that are underwork in Unity.
 * [3D Mininig Game](https://github.com/DaKo51/3D-Mining-Game)
 * [Dune of Arrakis](https://github.com/daniloabella18/Dune-of-Arrakis-Unity3D)
 
-
+# RTS (Real Time Strategy)
+* [Hyperion](https://github.com/fededevi/Hyperion)
 # Horror
 * [Doppelganger Effect](https://github.com/ddrocco/doppelganger_effect)
 # Rythm Games
