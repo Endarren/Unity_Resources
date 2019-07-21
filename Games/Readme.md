@@ -25,6 +25,7 @@ Here are some game projects that are underwork in Unity.
 # RPG (Role-Playing Game)
 * [Unity RPG](https://github.com/Denzic/UnityRPG)
 * [Another Unity Thing](https://github.com/zombietfk/AnotherUnityThing) - ARPG
+* [JRPG](https://github.com/blkFinch/JRPG)
 
 # Remakes of existing games
 
