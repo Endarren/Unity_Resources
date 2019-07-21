@@ -26,6 +26,7 @@
 * [Enhanced Foliage](https://github.com/marmitaTH/unity-enhanced-foliage)
 * [Photosynthesizer](https://github.com/alexismorin/Photosynthesizer) - Procedural sprout foliage in a scene.
 * [Hedera](https://github.com/radiatoryang/hedera) - paint 3D ivy in the Editor
+* [Unity Enhanced Foilage](https://github.com/marmitoTH/unity-enhanced-foliage) - Out of date, but may have some use.
 
 ## Stamps
 * [Terrain Stamps](https://github.com/Roland09/Terrain-Stamps)
