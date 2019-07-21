@@ -17,7 +17,8 @@ Here are some game projects that are underwork in Unity.
 * [Dune of Arrakis](https://github.com/daniloabella18/Dune-of-Arrakis-Unity3D)
 
 
-
+# Horror
+* [Doppelganger Effect](https://github.com/ddrocco/doppelganger_effect)
 # Rythm Games
 * [Rhythm Game Project](https://github.com/erlhuang/rhythm-game-project)
 * [RhythmSystem](https://github.com/williamrjackson/RhythmSystem) Beat Saber clone.
