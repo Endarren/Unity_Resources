@@ -1,7 +1,7 @@
 I am thinking about how to organize this page better and I am open to suggestions.
 
 * [Basic Pathtracer](https://github.com/LGhassen/basic_pathtracer)
-
+* [Lens Shader](https://github.com/haoboxuxu/UnityLensShader)
 * [uRaymarching](https://github.com/hecomi/uRaymarching)
 * [Arrays Shaders in Unity 5-4](https://www.alanzucconi.com/2016/10/24/arrays-shaders-unity-5-4/)
 * [Array Shader for Heat Maps](http://www.alanzucconi.com/2016/01/27/arrays-shaders-heatmaps-in-unity3d/)
