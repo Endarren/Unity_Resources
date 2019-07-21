@@ -17,7 +17,7 @@ Here are some game projects that are underwork in Unity.
 * [Dune of Arrakis](https://github.com/daniloabella18/Dune-of-Arrakis-Unity3D)
 
 # RTS (Real Time Strategy)
-* [Hyperion](https://github.com/fededevi/Hyperion)
+* [Hyperion](https://github.com/fededevi/Hyperion) - Space based RTS.  It is old, but has a lot of code that could be used as a starting point.
 # Horror
 * [Doppelganger Effect](https://github.com/ddrocco/doppelganger_effect)
 # Rythm Games
