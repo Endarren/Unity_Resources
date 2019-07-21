@@ -6,7 +6,7 @@
 * [TerrainAnalyzer](https://github.com/superjamesmccafferty/TerrainAnalyzer)
 * [Spherical Terrain](https://github.com/tjbaron/UnityTerrain)
 * [FOV Terrain Generator](https://github.com/ScienceExp/Unity-FOV-Terrain-Generator)
-
+* [Terrain Deformation](https://armedunity.com/topic/5-unity3d-terrain-deformation-real-time/)
 
 * [Unity Terrain Painter](https://github.com/drParadox312/Unity-TerrainPainter)
 * [Terrain Splitter](https://github.com/ExpressoBits/STerrainSplit)
