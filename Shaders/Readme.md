@@ -7,7 +7,7 @@ I am thinking about how to organize this page better and I am open to suggestion
 * [Array Shader for Heat Maps](http://www.alanzucconi.com/2016/01/27/arrays-shaders-heatmaps-in-unity3d/)
 * [Shading Effects](https://github.com/rakahn777/ShadingEffect)
 * [Unity Visualizations](https://github.com/WorldOfZero/UnityVisualizations)
-
+* [Pattern Shaders](https://github.com/shaggun/Pattern-Shaders)
 * [Unity Mobile Shaders](https://github.com/QianMo/Unity-Mobile-Shader)
 * [Isoline Shader](https://github.com/keijiro/Isaura)
 * [Contact Shadow](https://github.com/keijiro/ContactShadows)
