@@ -11,6 +11,5 @@
 # Visual Novel
 
 * [DEVN Dialogue Editor](https://github.com/DillonHandyside/DEVN-DialogueEditorForVisualNovels)
-* [Fungus](https://github.com/snozbot/fungus) - Includes other features in addition to dialog. http://fungusgames.com/
-** Also on the asset store.  https://assetstore.unity.com/packages/templates/systems/fungus-34184
+* [Fungus](https://github.com/snozbot/fungus) - Includes other features in addition to dialog. http://fungusgames.com/ Also on the asset store.  https://assetstore.unity.com/packages/templates/systems/fungus-34184
 
