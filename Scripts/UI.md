@@ -29,7 +29,6 @@
 ## Layouts
 
 * [Flexible Grid Layout](https://forum.unity.com/threads/flexible-grid-layout.296074/)
-
 * [Circle Menu](https://github.com/dworkinnn/circle_menu)
 
 ## Image
@@ -41,24 +40,19 @@
 * [Type Text](https://github.com/synchrok/TypeText)
 * [Text Mesh Effects](https://github.com/KPDwyer/TextMeshEffects)
 
-## Effects
-
-* [UI Effects](https://github.com/mob-sakai/UIEffect) - A collection of effects that can be applied to the UI.
-
-* [Unity-SwipeableView](https://github.com/m4tcha/Unity-SwipeableView)
-
-* [Shiny Effect for GUI](https://github.com/mob-sakai/ShinyEffectForUGUI)
-
-* [Unmask for UGUI](https://github.com/mob-sakai/UnmaskForUGUI)
-
-* [UI and Shader](https://github.com/blueberryzzz/UIAndShader) Contains: Simple Round Image, Circle List, and Chunk Disappearing Image
-
-* [Image Effect Graph](https://github.com/iBicha/ImageEffectGraph)
-
-* [UIAnimSequencer](https://github.com/Luomu/UIAnimSequencer) - Animation tool for the UI
-
-* [Particle Effect for UGUI](https://github.com/mob-sakai/ParticleEffectForUGUI) - Particle System for the UI.
-
 ## Maps
 
 * [Unity Minimap Module](https://github.com/zouhunter/unity-minimap-module)
+
+# Effects
+
+* [UI Effects](https://github.com/mob-sakai/UIEffect) - A collection of effects that can be applied to the UI.
+* [Unity-SwipeableView](https://github.com/m4tcha/Unity-SwipeableView)
+* [Shiny Effect for GUI](https://github.com/mob-sakai/ShinyEffectForUGUI)
+* [Unmask for UGUI](https://github.com/mob-sakai/UnmaskForUGUI)
+* [UI and Shader](https://github.com/blueberryzzz/UIAndShader) Contains: Simple Round Image, Circle List, and Chunk Disappearing Image
+* [Image Effect Graph](https://github.com/iBicha/ImageEffectGraph)
+* [UIAnimSequencer](https://github.com/Luomu/UIAnimSequencer) - Animation tool for the UI
+* [Particle Effect for UGUI](https://github.com/mob-sakai/ParticleEffectForUGUI) - Particle System for the UI.
+
+
