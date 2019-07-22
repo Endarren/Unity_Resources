@@ -10,6 +10,10 @@
 * [Kawase Light Streak](https://github.com/nobnak/KawaseLightStreakUnity)
 # People
 [Keijiro](https://github.com/keijiro) A github user who has made several interesting effects in Unity.
+[Alan Zucconi](https://www.alanzucconi.com/) - Has blog posts on effects, mostly involving shaders.
+# Effects
+
+* [Alan Zucconi - Fortnite Procedural Animations](https://www.alanzucconi.com/2018/09/17/shader-showcase-saturday-10/)
 ## Sprite
 
 * [Sprite Glow](https://github.com/Elringus/SpriteGlow)
