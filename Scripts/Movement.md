@@ -18,7 +18,7 @@
 
 ## Code
 * [C# Character Motor](https://gist.github.com/zephjc/5641540)
-
+* [SuperCharacterController](https://github.com/IronWarrior/SuperCharacterController) - Archieved and no longer updated.
 * [UNet Controller](https://github.com/Heep042/UNet-Controller) - Network version of Character Controller.
 
 ## Articles
