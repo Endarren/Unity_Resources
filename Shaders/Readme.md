@@ -10,7 +10,7 @@ I am thinking about how to organize this page better and I am open to suggestion
 
 * [Contact Shadow](https://github.com/keijiro/ContactShadows)
 * [Binary Image Filter](https://github.com/keijiro/KinoBinary)
-* [Contour Line Filter](https://github.com/keijiro/KinoContour)
+
 * [Planar Reflection Effect](https://github.com/keijiro/AdamPlaneReflection)
 * [Analog Video Artifacts](https://github.com/keijiro/KinoTube)
 * [Inverse-project depth](https://github.com/keijiro/DepthInverseProjection)
@@ -21,8 +21,8 @@ I am thinking about how to organize this page better and I am open to suggestion
 
 * [Color Collection](https://github.com/XJINE/Unity_ColorCollection)
 * [Camouflage Shader](https://github.com/JPBotelho/Camouflage-Shader)
-
-
+# Edge Detection
+* [Contour Line Filter](https://github.com/keijiro/KinoContour)
 # Heat Map
 * [Arrays Shaders in Unity 5-4](https://www.alanzucconi.com/2016/10/24/arrays-shaders-unity-5-4/)
 * [Array Shader for Heat Maps](http://www.alanzucconi.com/2016/01/27/arrays-shaders-heatmaps-in-unity3d/)
@@ -68,8 +68,6 @@ I am thinking about how to organize this page better and I am open to suggestion
 
 # UI
 * [AdultLink - Radial Progress Bar](https://github.com/AdultLink/RadialProgressBar)
-
-
 
 # Transparent
 * [Translucent](https://github.com/PlexusDuMenton/TranslucentShader)
