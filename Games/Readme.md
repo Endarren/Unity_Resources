@@ -16,6 +16,13 @@ Here are some game projects that are underwork in Unity.
 * [3D Mininig Game](https://github.com/DaKo51/3D-Mining-Game)
 * [Dune of Arrakis](https://github.com/daniloabella18/Dune-of-Arrakis-Unity3D)
 
+# Block Breaker
+* [Block Break Original](https://github.com/CompleteUnityDeveloper/Block-Breaker-Original)
+* [Complete Unity Developer - Block Breaker](https://github.com/CompleteUnityDeveloper/05-Block-Breaker)
+* [JtMeulen - Block Breaker](https://github.com/JtMeulen/unity-block-breaker)
+* [S4ND1X - Block Breaker](https://github.com/S4ND1X/UnityProjects-BlockBreaker)
+
+
 # RTS (Real Time Strategy)
 * [Hyperion](https://github.com/fededevi/Hyperion) - Space based RTS.  It is old, but has a lot of code that could be used as a starting point.
 # Horror
