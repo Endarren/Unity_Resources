@@ -37,14 +37,14 @@ I am thinking about how to organize this page better and I am open to suggestion
 * [Screenspace Ubershader](https://github.com/Leviant/ScreenSpace_Ubershader)
 
 # Dissolve
-* [Sphere Dissolve](https://github.com/AdultLink/SphereDissolve)
-* [Vertical Dissolve](https://github.com/AdultLink/VerticalDissolve)
+* [AdultLink - Sphere Dissolve](https://github.com/AdultLink/SphereDissolve)
+* [AdultLink - Vertical Dissolve](https://github.com/AdultLink/VerticalDissolve)
 * [Burning Dissolve Shader](http://www.codeavarice.com/dev-blog/tutorial-burning-edges-dissolve-shader-in-unity)
 
 # Effects
 
-* [TexturePanner](https://github.com/AdultLink/TexturePanner) - A shader that pans the texture across the material.
-* [Holo Shield](https://github.com/AdultLink/HoloShield)
+* [AdultLink - TexturePanner](https://github.com/AdultLink/TexturePanner) - A shader that pans the texture across the material.
+* [AdultLink - Holo Shield](https://github.com/AdultLink/HoloShield)
 * [How to make an air ripple](https://answers.unity.com/questions/1179181/how-can-i-create-an-air-ripple-effect.html)
 
 * [Parey Look Unity Shaders](https://github.com/pareylook/unity_shaders) - Contains a trail, custom unlit disolve, panner, and a shield shader.
@@ -57,11 +57,11 @@ I am thinking about how to organize this page better and I am open to suggestion
 * [Unity Occlusion and Portal Shader](https://github.com/DoubleL222/Unity_Occlusion_And_Portal_Shader)
 
 # Rimlight
-* [AdultLink Rimlight](https://github.com/AdultLink/Rimlight)
+* [AdultLink - Rimlight](https://github.com/AdultLink/Rimlight)
 
 # UI
 
-* [Radial Progress Bar](https://github.com/AdultLink/RadialProgressBar)
+* [AdultLink - Radial Progress Bar](https://github.com/AdultLink/RadialProgressBar)
 
 
 
