@@ -25,6 +25,10 @@ I am thinking about how to organize this page better and I am open to suggestion
 
 * [Color Collection](https://github.com/XJINE/Unity_ColorCollection)
 * [Camouflage Shader](https://github.com/JPBotelho/Camouflage-Shader)
+
+# Parallax
+* [Alan Zucconi - Parallax Shader](https://www.alanzucconi.com/2019/01/01/parallax-shader/)
+
 # Fur
 * [Sorumi - Fur Shader](https://github.com/Sorumi/UnityFurShader)
 * [Mushus - Fur Shader](https://github.com/Mushus/unity-fursharder)
