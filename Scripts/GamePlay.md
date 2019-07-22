@@ -7,3 +7,4 @@
 # Inventory
 
 * [Unity Simple Inventory System](https://github.com/HectorPulido/UnitySimpleInventorySystem)
+* [GInventory](https://github.com/mathiassiig/GInventory)
