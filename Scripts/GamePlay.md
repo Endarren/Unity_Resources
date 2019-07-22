@@ -3,3 +3,7 @@
 
 
 * [Unity-Chan Battle](https://github.com/HuangqunStudio/UnityChanBattle)
+
+# Inventory
+
+* [Unity Simple Inventory System](https://github.com/HectorPulido/UnitySimpleInventorySystem)
