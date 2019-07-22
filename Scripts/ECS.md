@@ -26,7 +26,7 @@ An ECS example using navmesh agents.
 
 
 # Games
-* [Cool ECS Game](https://github.com/skhamis/cool_ecs_game) - A Management game made using ECS
+* [Cool ECS Game](https://github.com/skhamis/cool_ecs_game) - A Management game made using ECS - Removed since 7/22/2019
 * [Shooter With ECS](https://github.com/RLefrancoise/ShooterWithECS)
 * [ECS Game of Life](https://github.com/alexnown/EcsGameOfLife)
 * [Unity ECS Topdown Template](https://github.com/nickkorta/Unity_ECSTopdownTemplate) - A Top Down game template using the entity component system.
