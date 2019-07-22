@@ -78,10 +78,10 @@ I am thinking about how to organize this page better and I am open to suggestion
 * [Frosted Glass](https://github.com/andydbc/unity-frosted-glass)
 ## See Through
 * [See Through walls](https://pastebin.com/5mYKhp4h)
-# Force Field
+## Force Field
 * [Force Field FX](https://github.com/vux427/ForceFieldFX)
 
-# Ice
+## Ice
 * [Unity shader tutorial - Creating realistic ice](https://www.youtube.com/watch?v=-z-issgoZ4o)
 * [Ice Shader / Material in Unity](https://www.youtube.com/watch?v=Kdpt-Cev7uM)
 # Guides
