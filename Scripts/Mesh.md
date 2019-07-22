@@ -22,6 +22,7 @@
 
 # Combining Meshes
 * [Dynamic Outline Mesh Combining](https://github.com/TheBusyBiscuit/Unity-DynamicOutline-MeshCombining)
+* [Mesh Combiner](https://github.com/mogoson/MeshCombiner)
 
 # Mesh Generation
 * [Crest Oceanreader](https://github.com/huwb/crest-oceanrender)
