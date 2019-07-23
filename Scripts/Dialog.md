@@ -1,6 +1,7 @@
 
 * [Diplomata Unity ](https://github.com/brunurd/diplomata-unity) - multi language dialogues content management system and editor extension
 * [Yarn Spinner](https://github.com/thesecretlab/YarnSpinner) - This was used in Night In The Woods.
+* [Merino](https://github.com/radiatoryang/merino) - Write Yarn scripts in the Unity Editor.
 * [Ricardo Bustos2 - Unity Dialogue System](https://github.com/RicardoBustos2/UnityDialogueSystem)
 * [Unity Rumor](https://github.com/exodrifter/unity-rumor) - Dialogue using custom API in text files.
 * [Dialogue Smiith](https://github.com/code51/dialoguesmith) - Dialogue tree editor.
