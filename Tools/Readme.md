@@ -47,3 +47,6 @@
 * [UnityEditorScripts](https://github.com/korintic/UnityEditorScripts) - Includes capture main camera.
 
 * [Watch](https://github.com/wowbroforce/Watch) - Watches selected objects and variables in the scene.
+
+* [Sprite Dicing](https://github.com/Elringus/SpriteDicing) - Unity extension for reusing sprite texture areas https://forum.unity.com/threads/542863
+
