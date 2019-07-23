@@ -92,6 +92,7 @@ I am thinking about how to organize this page better and I am open to suggestion
 * [Custom Shader Graph nodes](https://github.com/gilescoope/shader-graph-nodes)
 * [Shader Graph Examples](https://github.com/keijiro/ShaderGraphExamples)
 * [Shader Graph Example Library (Offical)](https://github.com/UnityTechnologies/ShaderGraph_ExampleLibrary)
+* [Duckboss - ShaderGraphs](https://github.com/DuckBoss/ShaderGraphs_Unity2018) -  Includes as of 7/23/2019 - Flickering Emission, Glowing Emission, Glowing Scan, Hologram, Noise Glow, Simple Dissolve, Simple Graph, and Snow Accumulation.
 
 # Tools
 * [Shader Man](https://github.com/smkplus/ShaderMan) - Convert ShaderToy to Unity HLSL/CG 
