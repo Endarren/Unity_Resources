@@ -5,7 +5,7 @@ Here are some game projects that are underwork in Unity.
 
 * [Turn Based Game](https://github.com/VietTho1989/TurnBasedGame)
 * [BotMender](https://github.com/Trigary/BotMender)
-* [UnityDemo Splatoon](https://github.com/xieliujian/UnityDemo_Splatoon)
+
 * [Angry Birds style game](https://github.com/dgkanatsios/AngryBirdsStyleGame)
 * [Match Three Game](https://github.com/dgkanatsios/MatchThreeGame)
 * [Hogwarts](https://github.com/OpenHogwarts/hogwarts)
@@ -15,7 +15,9 @@ Here are some game projects that are underwork in Unity.
 * [Bright Souls](https://github.com/leotgo/BrightSouls) - An indie game based on Dark Souls.
 * [3D Mininig Game](https://github.com/DaKo51/3D-Mining-Game)
 * [Dune of Arrakis](https://github.com/daniloabella18/Dune-of-Arrakis-Unity3D)
-
+# Splatoon
+* [UnityDemo Splatoon](https://github.com/xieliujian/UnityDemo_Splatoon)
+* [Splatoon-2d](https://github.com/NamanHegde38/splatoon-2d)
 # Block Breaker
 * [Block Break Original](https://github.com/CompleteUnityDeveloper/Block-Breaker-Original)
 * [Complete Unity Developer - Block Breaker](https://github.com/CompleteUnityDeveloper/05-Block-Breaker)
