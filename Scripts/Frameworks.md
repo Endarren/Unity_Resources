@@ -16,3 +16,4 @@
 
 # Object Pool
 * [Danand - Generic Pool](https://github.com/Danand/GenericPool)
+* [Rfrixy - Generic Unity Object Pool](https://github.com/Rfrixy/Generic-Unity-Object-Pooler)
