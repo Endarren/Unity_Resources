@@ -3,6 +3,8 @@
 
 
 * [Procedural Generation](https://github.com/AlexSerodio/procedural-generation-unity) Contains multiple use cases.
+
+* [Generative Racer](https://github.com/pulinho/generative-racer)
 # City
 * [wave function collapse](https://github.com/marian42/wavefunctioncollapse) - infinite, procedurally generated city.
 * [Procedural City by Phoechat](https://github.com/pboechat/ProceduralCity)
