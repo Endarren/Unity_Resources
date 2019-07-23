@@ -30,6 +30,7 @@ Here are some game projects that are underwork in Unity.
 * [Hyperion](https://github.com/fededevi/Hyperion) - Space based RTS.  It is old, but has a lot of code that could be used as a starting point.
 # Horror
 * [Doppelganger Effect](https://github.com/ddrocco/doppelganger_effect)
+* [Room 613](https://github.com/IliaBahmutov/Room613)
 # Rythm Games
 * [Rhythm Game Project](https://github.com/erlhuang/rhythm-game-project)
 * [RhythmSystem](https://github.com/williamrjackson/RhythmSystem) Beat Saber clone.
