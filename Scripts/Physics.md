@@ -1,6 +1,7 @@
 # Table of Contents
 - [Examples](#Examples)
 - [General](#General)
+- [Buoyancy](#Buoyancy)
 - [Liquids](#Liquids)
 - [Raycasting](#Raycasting)
 - [Force](#Force)
