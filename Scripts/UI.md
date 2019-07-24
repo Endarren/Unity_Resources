@@ -31,7 +31,8 @@
 
 * [Flexible Grid Layout](https://forum.unity.com/threads/flexible-grid-layout.296074/)
 * [Circle Menu](https://github.com/dworkinnn/circle_menu)
-
+## Panels
+* [Unity Dynamic Panels(https://github.com/yasirkula/UnityDynamicPanels)
 ## Image
 
 * [Unity Runtime Sprite Sheets Generator](https://github.com/DaVikingCode/UnityRuntimeSpriteSheetsGenerator) - Creates spritesheets in runtime.  Uses some Unity.UI code for this.
