@@ -63,5 +63,6 @@
 * [Image Effect Graph](https://github.com/iBicha/ImageEffectGraph)
 * [UIAnimSequencer](https://github.com/Luomu/UIAnimSequencer) - Animation tool for the UI
 * [Particle Effect for UGUI](https://github.com/mob-sakai/ParticleEffectForUGUI) - Particle System for the UI.
+* [Page Turning UI Effect](https://github.com/lobeyjon/PageTurningUIEffect)
 
 
