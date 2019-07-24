@@ -26,6 +26,9 @@
 * [Aillieo Unity Dynamic ScrollView](https://github.com/aillieo/UnityDynamicScrollView)
 * [Unity Dynamic Scroll Rect](https://github.com/Mukarillo/UnityDynamicScrollRect)
 * [Recyclable ListView](https://github.com/tomazsaraiva/addcomponent-unity-recyclable-listview)
+* [Mukarillo - Unity Dynamic ScrollRect](https://github.com/Mukarillo/UnityDynamicScrollRect)
+
+
 
 ## Windows
 * [Unity Simple File Browser](https://github.com/yasirkula/UnitySimpleFileBrowser) - This is also on the asset store for free.
