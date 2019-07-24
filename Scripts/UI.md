@@ -2,7 +2,7 @@
 
 * [Unity UI Best Practices](https://github.com/dariarodionova/Unity-UI-best-practices-/blob/master/Unity%20UI%20best%20practices.md)
 
-
+* [Automatic UI Anchoring For Unity](https://github.com/AndrewCodes200/Automatic-UI-Anchoring-For-Unity-3D)
 * [Unity Controls Tips](https://github.com/BogaDev/Unity-ControlsTips)
 
 * [Unity - WinForms](https://github.com/Meragon/Unity-WinForms) - Wrapper for Windows forms.
