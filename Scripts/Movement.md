@@ -54,12 +54,17 @@
 * [How to Speed up Pathfinding with jump point search algorithm](https://gamedevelopment.tutsplus.com/tutorials/how-to-speed-up-a-pathfinding-with-the-jump-point-search-algorithm--gamedev-5818)
 
 # Nav Mesh
-* [Unity 5.6+ Nav Mesh Feature Demo](https://github.com/UnityTechnologies/NavMesh-Feature-Demo) - Contains examples and implementations of Unity's nav mesh.
+
+## Articles
 * [Navmesh Flee AI from Player](https://answers.unity.com/questions/868003/navmesh-flee-ai-flee-from-player.html)
 * [Make Multiple Enemies take Different Paths](https://stackoverflow.com/questions/26644196/unity-navmesh-make-multiple-enemies-take-different-paths)
 * [Keep Enemy X Distance from Player](https://answers.unity.com/questions/479342/navmeshagent-keep-enemy-x-distance-from-player.html)
 * [Destination vs SetDestination](https://answers.unity.com/questions/702110/navmeshagentdestination-vs-setdestination-.html)
 * [Pathfinding and local avoidance for rpg and rts games using Unity](https://www.gamedev.net/articles/programming/general-and-gameplay-programming/pathfinding-and-local-avoidance-for-rpgrts-games-using-unity-r3703)
+## Projects/Code
+* [Unity 5.6+ Nav Mesh Feature Demo](https://github.com/UnityTechnologies/NavMesh-Feature-Demo) - Contains examples and implementations of Unity's nav mesh.
+* [Navigation Forward Sample](https://github.com/vncastanheira/NavigationForwardSample)
+
 
 * [Unity Cookbook 2018 - Chapter 15 Nav Mesh](https://github.com/dr-matt-smith/unity-cookbook-2018-ch15)
 # Move Along Curve
