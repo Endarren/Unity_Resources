@@ -13,7 +13,8 @@
 * [How to Make a Game Responsive for All Mobile Resolutions](https://stackoverflow.com/questions/46652333/how-to-make-a-game-responsive-for-all-mobile-resolutions)
 * [How to listen for UI resize events](https://answers.unity.com/questions/807412/how-to-listen-for-ui-resize-events.html)
 * [Why does my sprite on Android get blurry?](https://answers.unity.com/questions/908412/why-does-my-sprite-on-android-device-get-blurry.html)
-
+# Frameworks
+* [Fairy GUI](https://github.com/fairygui/FairyGUI-unity)
 # Elements
 ## Charts
 
