@@ -1,3 +1,4 @@
+* [Crest](https://github.com/crest-ocean/crest/tree/master/crest/Assets/Crest/Crest/Shaders) - The Crest Ocean project has some water shaders.
 # Surface
 * [2D Water Shader](https://github.com/real-marco-b/unity-water-shader2d)
 * [Reflective Transparent Water](https://laboratoriesx86.wordpress.com/2014/05/02/shader-reflective-transparent-water-like-unity-indie/)
