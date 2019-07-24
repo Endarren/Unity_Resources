@@ -15,7 +15,11 @@
 
 ## General
 * [Mechanics Lab](https://github.com/dpreid/mechanicsLab) - A collection of various effects using physics.  
+
+
+## Buoyancy
 * [Wave Buoyancy](https://github.com/dbrizov/Unity-WaterBuoyancy)
+* [Crest](https://github.com/crest-ocean/crest) - Crest has some buoyancy functionality.
 
 ## Liquids
 ### Code
