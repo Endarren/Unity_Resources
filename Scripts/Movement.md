@@ -1,4 +1,4 @@
-* [Unity Pedestrian Simulator](https://github.com/trinhthanhtrung/unity-pedestrian-sim)
+
 * [Make Object move in a Figure 8 Programtically](http://forum.unity3d.com/threads/making-an-object-move-in-a-figure-8-programatically.38007/)
 * [Unity Navi person module](https://github.com/zouhunter/unity-navi-person-module)
 * [How to jump through box colliders but jump on top of them](https://answers.unity.com/questions/429885/how-to-jump-through-box-colliders-but-jump-on-top.html) - One-way platforms
@@ -59,6 +59,8 @@
 * [Unity 5.6+ Nav Mesh Feature Demo](https://github.com/UnityTechnologies/NavMesh-Feature-Demo) - Contains examples and implementations of Unity's nav mesh.
 * [Navigation Forward Sample](https://github.com/vncastanheira/NavigationForwardSample)
 * [Unity Cookbook 2018 - Chapter 15 Nav Mesh](https://github.com/dr-matt-smith/unity-cookbook-2018-ch15)
+* [Unity Pedestrian Simulator](https://github.com/trinhthanhtrung/unity-pedestrian-sim) - Simulates crowds using NavMesh.
+
 ## Articles
 * [Navmesh Flee AI from Player](https://answers.unity.com/questions/868003/navmesh-flee-ai-flee-from-player.html)
 * [Make Multiple Enemies take Different Paths](https://stackoverflow.com/questions/26644196/unity-navmesh-make-multiple-enemies-take-different-paths)
