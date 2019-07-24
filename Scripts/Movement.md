@@ -7,11 +7,19 @@
 * [Circling in Unity3D with RotateAround](https://www.gamasutra.com/blogs/CharlesCordingley/20150223/237038/Circling_in_Unity3D_with_RotateAround.php)
 * [How to adapt a pathfinding to a 2D Grid Platformer](https://gamedevelopment.tutsplus.com/tutorials/how-to-adapt-a-pathfinding-to-a-2d-grid-based-platformer-theory--cms-24662)
 # Tween
-
+## Code
 * [Duck Tween](https://github.com/dubit/duck-tween)
 # Steering Behaviours
+## Code
+* [Movement Algorithms](https://github.com/pingumen96/MovementAlgorithms)
+* [A* Helper](http://wiki.unity3d.com/index.php/AStarHelper)
+
+## Articles
 * [Understanding Steering Behaviors](https://gamedevelopment.tutsplus.com/series/understanding-steering-behaviors--gamedev-12732)
 
+* [How to Implement a Pathfinding with cocos2d Tutorial](https://www.raywenderlich.com/4970/how-to-implement-a-pathfinding-with-cocos2d-tutorial)
+
+* [How to Speed up Pathfinding with jump point search algorithm](https://gamedevelopment.tutsplus.com/tutorials/how-to-speed-up-a-pathfinding-with-the-jump-point-search-algorithm--gamedev-5818)
 
 
 
@@ -44,14 +52,6 @@
 * [Pathfinding concept, the basic](http://mgrenier.me/2011/06/pathfinding-concept-the-basics/)
 * [Pathfinding for 2D Platformer](http://ashblue.github.io/pathfinding-platformer/) - This is an example with source code in JavaScript, not made in Unity.  You can still use it to make your own implementation.
 
-# Steering Behaviours
-* [Movement Algorithms](https://github.com/pingumen96/MovementAlgorithms)
-
-* [A* Helper](http://wiki.unity3d.com/index.php/AStarHelper)
-* [How to Implement a Pathfinding with cocos2d Tutorial](https://www.raywenderlich.com/4970/how-to-implement-a-pathfinding-with-cocos2d-tutorial)
-
-
-* [How to Speed up Pathfinding with jump point search algorithm](https://gamedevelopment.tutsplus.com/tutorials/how-to-speed-up-a-pathfinding-with-the-jump-point-search-algorithm--gamedev-5818)
 
 # Nav Mesh
 
