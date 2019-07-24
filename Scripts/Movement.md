@@ -38,6 +38,7 @@
 * [Why does OnCollisionEnter not work between Character controller and rigidbody](https://answers.unity.com/questions/388494/why-does-oncollisionenter-not-work-between-a-chara.html)
 
 * [The Problem With Character Controllers In Unity3D And How I Solved It](https://mariusgames.com/3d-character-controller-db7cd3a7b4df)
+
 # Rigidbody
 ## Code
 * [QuickUnityTools - PhysicsMovement](https://github.com/adamgryu/QuickUnityTools/tree/master/Scripts/Physics)
@@ -86,5 +87,5 @@
 * [Angle of Slope Ground Under Player](http://thehiddensignal.com/unity-angle-of-sloped-ground-under-player/)
 
 # Custom Movement
-
+* [Brackey's 2D Character Controller](https://github.com/Brackeys/2D-Character-Controller) 
 * [Unity Source Movement](https://github.com/Olezen/UnitySourceMovement) - A movement system similar to the Source Engine
