@@ -51,7 +51,7 @@
 * [Unity Minimap Module](https://github.com/zouhunter/unity-minimap-module)
 
 # Effects
-
+* [UI Fader Pro](https://github.com/QFSW/Unity-UiFaderPro)
 * [UI Effects](https://github.com/mob-sakai/UIEffect) - A collection of effects that can be applied to the UI.
 * [Unity-SwipeableView](https://github.com/m4tcha/Unity-SwipeableView)
 * [Shiny Effect for GUI](https://github.com/mob-sakai/ShinyEffectForUGUI)
