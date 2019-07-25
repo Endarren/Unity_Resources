@@ -42,3 +42,4 @@
 ## Tools
 * [Terrain Scaling Tool](https://github.com/null511/Unity.TerrainScalingTool)
 * [Path Painting Tool](https://github.com/Roland09/PathPaintTool)
+* [Stamp Tool Extended](https://github.com/Roland09/StampToolExtended)
