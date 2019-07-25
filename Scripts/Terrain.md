@@ -17,6 +17,9 @@
 * [Terrain Heatmaps](https://github.com/EdwardAndrew/UnityTerrainHeatmaps)
 * [NavMesh Component Terrain Link Generator](https://github.com/Fove/NavMeshComponentTerrainLinkGenerator)
 * [Terrain Streaming](https://github.com/ferdbold/unity-terrain-streaming)
+## Infinite/Endless
+* [Stephen's Infinite Unity Terrain](https://github.com/StephenLujan/Stephen-s-Infinite-Unity-Terrain)
+
 ## Grass
 * [Elringus - Grass Bending](https://github.com/Elringus/GrassBending)
 ## Procedural
