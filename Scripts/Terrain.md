@@ -19,7 +19,7 @@
 * [Terrain Streaming](https://github.com/ferdbold/unity-terrain-streaming)
 ## Infinite/Endless
 * [Stephen's Infinite Unity Terrain](https://github.com/StephenLujan/Stephen-s-Infinite-Unity-Terrain)
-
+* [Auto Road Generator](https://github.com/Atezai/Auto-Road-Generator) - Is also supposed to create terrain for the road.
 ## Grass
 * [Elringus - Grass Bending](https://github.com/Elringus/GrassBending)
 ## Procedural
