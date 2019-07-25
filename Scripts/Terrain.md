@@ -17,7 +17,8 @@
 * [Terrain Heatmaps](https://github.com/EdwardAndrew/UnityTerrainHeatmaps)
 * [NavMesh Component Terrain Link Generator](https://github.com/Fove/NavMeshComponentTerrainLinkGenerator)
 * [Terrain Streaming](https://github.com/ferdbold/unity-terrain-streaming)
-
+## Grass
+* [Elringus - Grass Bending](https://github.com/Elringus/GrassBending)
 ## Procedural
 * [Procedural Generation 3D Terrain](https://github.com/killicolin/Procedural-Generation-3D-Terrain-Unity-)
 * [Procedural Terrain](https://github.com/Daniel466/Procedural-Terrain-Generation-with-Unity)
