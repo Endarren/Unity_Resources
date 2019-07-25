@@ -13,5 +13,6 @@
 * [UnityChanToonShaderVer2 project](https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project) - An offical and more advanced version of Unity-chan shaders and can be used for pretty much any project.
 * [UnityChanToonShaderVer2](https://github.com/Lumak/UnityChanToonShaderVer2)
 * [UnityChanToonShaderVer2 - Emissive Scroll](https://github.com/tomori-hikage/UnityChanToonShaderVer2_EmissiveScroll)
+* [UnityChanToonShaderVer2 - Vertical Dissolve](https://github.com/tomori-hikage/UnityChanToonShaderVer2_VerticalDissolve)
 # Guides
 * [Cel Shading in Unity 5](http://timvolp.blogspot.com/2015/03/cel-shading-in-unity-5.html)
