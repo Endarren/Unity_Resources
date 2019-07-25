@@ -32,3 +32,6 @@
 
 ## Stamps
 * [Terrain Stamps](https://github.com/Roland09/Terrain-Stamps)
+
+## Tools
+* [Terrain Scaling Tool](https://github.com/null511/Unity.TerrainScalingTool)
