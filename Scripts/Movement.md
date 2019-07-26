@@ -39,6 +39,11 @@
 
 * [The Problem With Character Controllers In Unity3D And How I Solved It](https://mariusgames.com/3d-character-controller-db7cd3a7b4df)
 
+# 2D Movement
+
+## Code
+* [Classic Rogue Movement](https://github.com/balaam/unity_classic_rogue_movement)
+
 # Rigidbody
 ## Code
 * [QuickUnityTools - PhysicsMovement](https://github.com/adamgryu/QuickUnityTools/tree/master/Scripts/Physics)
