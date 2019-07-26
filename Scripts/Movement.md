@@ -59,6 +59,7 @@
 * [Pathfinding for 2D Platformer](http://ashblue.github.io/pathfinding-platformer/) - This is an example with source code in JavaScript, not made in Unity.  You can still use it to make your own implementation.
 
 * [Isometric Pathfinding with A*](https://github.com/fzillo/Isometric_Pathfinding_with_AStar)
+* [Tilemap Pathfinder](https://github.com/robinwassen/tilemap-pathfinder) - A pathfinder that works with the Unity Tilemap.
 
 # Nav Mesh
 
