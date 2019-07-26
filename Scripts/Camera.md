@@ -38,3 +38,4 @@
 * [Gigadros - SoulsLike CameraManager](https://github.com/Gigadros/SoulsLike/blob/master/Soulslike/Assets/Scripts/Controller/CameraManager.cs) - Another souls like camera controller.  Does not handle collision or clipping.
 * [Datedsandwich - Souls-like CameraMovement](https://github.com/Datedsandwich/souls-like/blob/master/Assets/Scripts/Camera/CameraMovement.cs) - Souls like camera movement.  Handles collision and clipping.  Based on tutorial series by www.sharpaccent.com.
 * [Smeagle657 - Souls Like CameraManager](https://github.com/Smeagle657/nani/blob/master/Souls%20Like/Assets/Scripts/Controller/CameraManager.cs) - Another souls like camera controller.  Does not handle collision or clipping.
+* [CSaratakij - Souls CameraController](https://github.com/CSaratakij/Souls/blob/develop/Assets/Scripts/Camera/CameraController.cs) - Has lock on and uses raycast to check if there are no colliders in the way.
