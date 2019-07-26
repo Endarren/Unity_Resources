@@ -33,3 +33,4 @@
 * [Third Person Camera](https://github.com/RelentlessAF/third-person-camera)   Tomb Raider/ The Witcher-esque Camera movement for Unity 3D 
 * [WoW Camera](https://github.com/UnityCommunity/UnityLibrary/blob/master/Assets/Scripts/Camera/WowCamera.cs)
 * [SirObvious - Unity Third Person Camera](https://github.com/SirObvious/UnityThirdPersonCamera) - A Dark Souls like camera controller.  It is pretty old code and does deal with collisions or clipping.
+* [a1064137887 - DarkSoul Camera](https://github.com/a1064137887/DarkSoul/blob/master/Assets/Scripts/CameraController.cs) - A camera controller script from a Dark Souls like project.  This one does have some clipping and collision handling.
