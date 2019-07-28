@@ -10,3 +10,4 @@
 * [Tiled Map Generator](https://github.com/patrickalfa/Tiled-Map-Generator)
 * [Unity Tile Map Events](https://github.com/NTWalkers/unitytilemapevents)
 * [Blob Tile Map](https://github.com/bryanrtboy/BlobTileMap) - Creates a TileMap in Unity from a webcam. 
+* [Super Prefab Replacement](https://github.com/Seanba/SuperPrefabReplacement)
