@@ -18,7 +18,7 @@ I am thinking about how to organize this page better and I am open to suggestion
 
 * [Robot Eye Shader](https://github.com/danielzeller/Robot-eye-shader-Unity-)
 * [Light Field Rendering](https://github.com/BastiaanGrisel/LightFieldRendering)
-
+* [Edited Unity Shaders](https://github.com/Rhyperi/Rhy_EditedUnityShaders)
 * [Color Collection](https://github.com/XJINE/Unity_ColorCollection)
 * [Camouflage Shader](https://github.com/JPBotelho/Camouflage-Shader)
 # Edge Detection
