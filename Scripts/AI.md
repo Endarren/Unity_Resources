@@ -18,6 +18,8 @@
 
 * [Particle System](https://github.com/JoachimLaviolette/particle-system) - This is a prototype project that involves AI and particles.  It looks like it does detection and motion prediction with the particles for the AI to shot at them.
 
+* [Crystal AI](https://github.com/igiagkiozis/CrystalAI)
+
 ## Guides
 * [Tactical and Strategical AI](http://www.cse.scu.edu/~tschwarz/COEN129/PPT/Tactical%20and%20Strategical%20AI.pdf) - PDF of a power point slide presentation.
 * [The Last of Us: Human Enemy AI](http://gamelabgraz.com/wp-content/uploads/2017/02/Humam-AI-summary.pdf) - Simple research paper.  Not very detailed or complicated.
