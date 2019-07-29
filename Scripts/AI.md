@@ -18,7 +18,7 @@
 
 * [Particle System](https://github.com/JoachimLaviolette/particle-system) - This is a prototype project that involves AI and particles.  It looks like it does detection and motion prediction with the particles for the AI to shot at them.
 
-* [Crystal AI](https://github.com/igiagkiozis/CrystalAI)
+
 
 ## Guides
 * [Tactical and Strategical AI](http://www.cse.scu.edu/~tschwarz/COEN129/PPT/Tactical%20and%20Strategical%20AI.pdf) - PDF of a power point slide presentation.
@@ -46,6 +46,7 @@
 * [Finite State Machine - Unify Wiki](http://wiki.unity3d.com/index.php?title=Finite_State_Machine)
 ### Utility Theory
 * [AI Decision System](https://github.com/vichasselmann/aidecisionsystem)
+* [Crystal AI](https://github.com/igiagkiozis/CrystalAI)
 ### Behaviour Tree
 * [Behaviac](https://github.com/Tencent/behaviac)
 ### Machine Learning
