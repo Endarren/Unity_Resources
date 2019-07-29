@@ -65,6 +65,7 @@ Here are some game projects that are underwork in Unity.
 # Driving
 
 * [Driving Simulator](https://github.com/DingYiWen/Driving-simulator)
+* [Karting](https://github.com/SocketWeaver/karting) - Multiplayer racing game using SocketWeaver SDK
 
 # Card Games
 * [Card Game Simulator](https://github.com/finol-digital/Card-Game-Simulator) - Includes links to documentation
