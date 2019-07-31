@@ -15,6 +15,8 @@
 
 * [Unity Bone Tools](https://github.com/ecidevilin/UnityBoneTools) - Allows bones in rigs to be seen in the scene.
 
+* [Note Editor](https://github.com/setchi/NoteEditor) - A tool for rhythm games.
+
 # Animation
 
 * [Unity Runtime Animation Recorder](https://github.com/newyellow/Unity-Runtime-Animation-Recorder) - Creates animation clips of game object during run time.
