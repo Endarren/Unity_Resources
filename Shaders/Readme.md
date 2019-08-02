@@ -21,6 +21,8 @@ I am thinking about how to organize this page better and I am open to suggestion
 * [Edited Unity Shaders](https://github.com/Rhyperi/Rhy_EditedUnityShaders)
 * [Color Collection](https://github.com/XJINE/Unity_ColorCollection)
 * [Camouflage Shader](https://github.com/JPBotelho/Camouflage-Shader)
+
+* [Unity Outline Shader](https://github.com/IronWarrior/UnityOutlineShader)
 # Edge Detection
 * [Contour Line Filter](https://github.com/keijiro/KinoContour)
 # Heat Map
