@@ -6,6 +6,7 @@
 * [NVJOB Water Shader](https://github.com/nvjob/NVJOB-Water-Shader-simple-and-fast)
 * [Unity Water Surface](https://github.com/hecomi/UnityWaterSurface)
 * [Optically Realistic Water](https://github.com/muckSponge/Optically-Realistic-Water)
+* [Toon Water Shader](https://github.com/IronWarrior/ToonWaterShader)
 # Ripples and Waves
 * [Simple Water Ripple](https://forum.unity.com/threads/simple-water-ripple-shader.246961/)
 * [Unity Wave Equation](https://github.com/AsehesL/UnityWaveEquation)
