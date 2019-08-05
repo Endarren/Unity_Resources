@@ -1,19 +1,23 @@
 * [Space W](https://github.com/zameran/SpaceW)
-* [Procedural Cave Generator](https://github.com/AK-Saigyouji/Procedural-Cave-Generator)
+
 
 
 * [Procedural Generation](https://github.com/AlexSerodio/procedural-generation-unity) Contains multiple use cases.
 
 * [Generative Racer](https://github.com/pulinho/generative-racer)
+
+# Environment
 * [Procedural Landmass](https://github.com/raghav-kukreti/procedural-landmass)
-# City
+* [Unity Procedural Stair Builder](https://github.com/GregFrench/Unity-Procedural-Stair-Builder)
+* [Procedural Cave Generator](https://github.com/AK-Saigyouji/Procedural-Cave-Generator)
+## City
 * [wave function collapse](https://github.com/marian42/wavefunctioncollapse) - infinite, procedurally generated city.
 * [Procedural City by Phoechat](https://github.com/pboechat/ProceduralCity)
 * [Procedural City by ycheng14799](https://github.com/ycheng14799/proceduralCity)
-# Land
+## Land
 * [Procedural Island](https://github.com/AdamWhitehurst/Procedural-Island)
 * [procedural-landmass-generation](https://github.com/benjohns1/procedural-landmass-generation)
-# Mazes
+# #Mazes
 * [3D-Maze-Generator](https://github.com/FergusLeah/3D-Maze-Generator)
 * [UnityMazeGeneration](https://github.com/thederpykleptic/UnityMazeGeneration)
 # Object Placement
