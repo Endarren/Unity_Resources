@@ -1,3 +1,5 @@
+* [Animation Player](https://github.com/Baste-RainGames/AnimationPlayer) - Replacement for Animator
+
 # Animator
 * [Unity Animator Tutorial – Comprehensive Guide](https://gamedevacademy.org/unity-animator-tutorial/)
 * [How to Use Animator Controllers and Triggers](http://www.studica.com/blog/unity-tutorial-animator-controllers)
