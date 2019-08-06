@@ -25,6 +25,8 @@ I am thinking about how to organize this page better and I am open to suggestion
 * [Unity Outline Shader](https://github.com/IronWarrior/UnityOutlineShader)
 * [Volumetric Tracer](https://github.com/Fewes/VolumetricTracer)
 
+* [Black Hole Shader](https://github.com/conjLob/BlackHoleShader)
+
 # Edge Detection
 * [Contour Line Filter](https://github.com/keijiro/KinoContour)
 # Heat Map
