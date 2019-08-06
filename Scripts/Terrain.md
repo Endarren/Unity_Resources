@@ -31,6 +31,7 @@
 * [Procedural Terrain](https://github.com/Daniel466/Procedural-Terrain-Generation-with-Unity)
 * [Sotos82 Procedural Terrain Unity](https://github.com/sotos82/ProceduralTerrainUnity)
 * [CyanCode - Procedural Terrain Generator](https://github.com/CyanCode/Procedural-Terrain-Generator)
+* [Unity Automatic Terrain Generation](https://github.com/aiczk/Unity-Automatic-terrain-generation)
 
 ## Foliage
 * [Enhanced Foliage](https://github.com/marmitaTH/unity-enhanced-foliage)
