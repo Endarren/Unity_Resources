@@ -9,7 +9,7 @@
 * [Multi Target Camera](https://github.com/lopespm/unity-camera-multi-target)
 
 * [MSG Camera](https://github.com/mogoson/MGS-Camera)
-
+* [Unity Snap Camera to Canvas](https://github.com/JamesVeug/UnitySnapCameraToCanvas)
 * [Detect object in a specific part of the screen](https://answers.unity.com/questions/495102/detect-object-in-a-specific-part-of-the-screen.html)
 
 * [Camera Mesh Fitter](https://github.com/unity-packages/camera-mesh-fitter) - Positions mesh in front of the camera and fitting in the viewport.
