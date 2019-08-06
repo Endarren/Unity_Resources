@@ -23,6 +23,8 @@ I am thinking about how to organize this page better and I am open to suggestion
 * [Camouflage Shader](https://github.com/JPBotelho/Camouflage-Shader)
 
 * [Unity Outline Shader](https://github.com/IronWarrior/UnityOutlineShader)
+* [Volumetric Tracer](https://github.com/Fewes/VolumetricTracer)
+
 # Edge Detection
 * [Contour Line Filter](https://github.com/keijiro/KinoContour)
 # Heat Map
