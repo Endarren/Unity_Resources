@@ -69,6 +69,8 @@
 * [Unity Cookbook 2018 - Chapter 15 Nav Mesh](https://github.com/dr-matt-smith/unity-cookbook-2018-ch15)
 * [Unity Pedestrian Simulator](https://github.com/trinhthanhtrung/unity-pedestrian-sim) - Simulates crowds using NavMesh.
 
+* [NavMeshPlus](https://github.com/h8man/NavMeshPlus) - Modified version of the Nav Mesh extension scripts.
+
 ## Articles
 * [Navmesh Flee AI from Player](https://answers.unity.com/questions/868003/navmesh-flee-ai-flee-from-player.html)
 * [Make Multiple Enemies take Different Paths](https://stackoverflow.com/questions/26644196/unity-navmesh-make-multiple-enemies-take-different-paths)
