@@ -2,6 +2,8 @@
 * [Mesh Cloud Rendering](https://github.com/maajor/Mesh-Cloud-Rendering) - Reimplement Sea of Thieves's Cloud in Unity
 * [Mesh Utilities](https://github.com/P-5/MeshUtilities-Unity) - Includes decal, puncturing, splitting
 * [Unity Mesh Simplify](https://github.com/ecidevilin/UnityMeshSimplify)
+* [Dynamic Mesh](https://github.com/mariusrubo/Unity-Dynamic-Mesh)
+
 # Mesh Deforming
 * [Deform](https://github.com/keenanwoodall/Deform)
 
