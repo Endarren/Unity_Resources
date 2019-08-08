@@ -99,3 +99,4 @@
 * [Quake 3 Movement](https://github.com/WiggleWizard/quake3-movement-unity3d)
 * [Brackey's 2D Character Controller](https://github.com/Brackeys/2D-Character-Controller) 
 * [Unity Source Movement](https://github.com/Olezen/UnitySourceMovement) - A movement system similar to the Source Engine
+* [Gravity Player Controller](https://github.com/KaimaChen/How-To/blob/master/Project/Assets/Scripts/GravityPlayerController.cs)
