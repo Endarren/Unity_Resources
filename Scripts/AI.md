@@ -50,7 +50,8 @@
 ### Behaviour Tree
 * [Behaviac](https://github.com/Tencent/behaviac)
 ### Machine Learning
-* [Unity - Machine Learning Rogue Like](https://github.com/UnityTechnologies/MachineLearningRoguelike)
+* [Obstacle Tower Source](https://github.com/Unity-Technologies/obstacle-tower-source) - Official Example.  Tests machine learning with procedurally created levels.
+* [Unity - Machine Learning Rogue Like](https://github.com/UnityTechnologies/MachineLearningRoguelike) - Official Example
 * [MarcoMeter - Unity ML Environments](https://github.com/MarcoMeter/Unity-ML-Environments)
 * [Maze Game AI](https://github.com/tavik000/MazeGameAI)
 
