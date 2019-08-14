@@ -60,7 +60,7 @@
 
 * [Isometric Pathfinding with A*](https://github.com/fzillo/Isometric_Pathfinding_with_AStar)
 * [Tilemap Pathfinder](https://github.com/robinwassen/tilemap-pathfinder) - A pathfinder that works with the Unity Tilemap.
-
+* [Unity 2D Pathfinding Grid ECS Job](https://github.com/Omniaffix-Dave/Unity-2D-Pathfinding-Grid-ECS-Job) - A pure ECS 2D pathfinding solution.  Does not use navmesh.
 # Nav Mesh
 
 ## Code
