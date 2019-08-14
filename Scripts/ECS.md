@@ -25,6 +25,8 @@ Note:  Due to the large number of changes in ECS, some of these examples are out
 An ECS example using navmesh agents.
 * [Unity ECS Navmesh](https://unitylist.com/p/eng/Unity-ecs-navmesh)
 
+* [Unity 2D Pathfinding Grid ECS Job](https://github.com/Omniaffix-Dave/Unity-2D-Pathfinding-Grid-ECS-Job) - Uses pure ECS.
+
 
 # Games
 * [Cool ECS Game](https://github.com/skhamis/cool_ecs_game) - A Management game made using ECS - Removed since 7/22/2019
