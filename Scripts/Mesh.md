@@ -34,6 +34,7 @@
 * [Mesh Presentations](https://github.com/parahunter/mesh-presentation)
 * [Unity Road Generator](https://github.com/JPBotelho/Unity-Road-Generator) - Creates a road mesh using Catmul-Rom splines.
 * [Mesh Triangluation](https://github.com/IMGSaibh/MeshTriangluation) - Mesh-Triangluation in Unity with Raycast obstacle detection.  Comments are written in German.
+* [Tube Generator](https://github.com/sshumihin/TubeGenerator) - A tool for making pipe meshes.
 
 ## Spline
 * [Spline Mesh](https://github.com/benoit-dumas/SplineMesh)
