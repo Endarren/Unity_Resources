@@ -11,6 +11,7 @@
 * [Procedural Landmass](https://github.com/raghav-kukreti/procedural-landmass)
 * [Unity Procedural Stair Builder](https://github.com/GregFrench/Unity-Procedural-Stair-Builder)
 * [Procedural Cave Generator](https://github.com/AK-Saigyouji/Procedural-Cave-Generator)
+* [Unity Dungeon Generator](https://github.com/damarindra/Unity-Dungeon-Generator) - Uses a Delaunay or a Binary Space Partition algorthims.
 ## City
 * [wave function collapse](https://github.com/marian42/wavefunctioncollapse) - infinite, procedurally generated city.
 * [Procedural City by Phoechat](https://github.com/pboechat/ProceduralCity)
