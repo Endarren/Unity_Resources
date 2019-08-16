@@ -18,6 +18,8 @@ Here are some game projects that are underwork in Unity.
 * [Generative Racer](https://github.com/pulinho/generative-racer)
 * [RSG](https://github.com/IliaBahmutov/RSG) - Retro Stealth Game, like Metal Gear on NES.
 
+* [Watson Simulator](https://github.com/BenoitBellegarde/Watson-simulator) - A simple multi-level game where you play as a cat.
+
 # Splatoon
 * [UnityDemo Splatoon](https://github.com/xieliujian/UnityDemo_Splatoon)
 * [Splatoon-2d](https://github.com/NamanHegde38/splatoon-2d)
