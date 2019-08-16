@@ -49,6 +49,9 @@ Here are some game projects that are underwork in Unity.
 * [Darkest Dungeon Unity](https://github.com/Reinisch/Darkest-Dungeon-Unity)
 * [Megaman Unity](https://github.com/ManuelIribe18/Megaman_Unity)
 
+## Asteroid
+* [BobNobrain](https://github.com/BobNobrain/Asteroids) - A procedural generated version of the game.
+
 ## Mario
 * [Super Mario Bros NES](https://github.com/raulruizbarea/supermariobrosnesunity)
 * [Super Mario Bros](https://github.com/Claudiocdj/Super-Mario-Bros-Unity)
