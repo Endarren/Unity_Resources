@@ -1,5 +1,7 @@
 * [Texture Generator](https://github.com/mtwoodard/TextureGenerator)
 * [Sprite Light Kit](https://github.com/prime31/SpriteLightKit)
+* [Keijiro - Unity Anime 4K](https://github.com/keijiro/UnityAnime4K) - A fast image up scaler that specializes in anime style images.
+
 # Noise
 * [Noise Generator](https://github.com/ConficturaStudios/noise-generator-unity) - Editor tool for creating noise textures in Unity.  Supports 2D and 3D.
 
