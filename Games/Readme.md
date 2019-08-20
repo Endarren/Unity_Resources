@@ -20,6 +20,8 @@ Here are some game projects that are underwork in Unity.
 
 * [Watson Simulator](https://github.com/BenoitBellegarde/Watson-simulator) - A simple multi-level game where you play as a cat.
 
+* [Open Ski Jumping](https://github.com/Jonek2208/Open-Ski-Jumping)
+
 # Splatoon
 * [UnityDemo Splatoon](https://github.com/xieliujian/UnityDemo_Splatoon)
 * [Splatoon-2d](https://github.com/NamanHegde38/splatoon-2d)
