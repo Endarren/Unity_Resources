@@ -43,6 +43,7 @@
 ## Lightning
 
 * [Fractal Lightning](https://github.com/noobdawn/Fractal-Lightning-Unity)
+* [willFederer- Lightning Rendering](https://github.com/willFederer/LightningRendering)
 
 ## Lines and Curves
 * [Bezier Laser](https://github.com/sunduk/BezierLaser)
