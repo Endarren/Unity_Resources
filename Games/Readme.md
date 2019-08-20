@@ -32,6 +32,7 @@ Here are some game projects that are underwork in Unity.
 
 # RTS (Real Time Strategy)
 * [Hyperion](https://github.com/fededevi/Hyperion) - Space based RTS.  It is old, but has a lot of code that could be used as a starting point.
+* [Urius - Unity RTS Game Prototype](https://github.com/urius/unity-rts-game-prototype) - Uses DOTs.
 # Horror
 * [Doppelganger Effect](https://github.com/ddrocco/doppelganger_effect)
 * [Room 613](https://github.com/IliaBahmutov/Room613)
