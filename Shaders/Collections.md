@@ -11,3 +11,5 @@
 * [CgFX Shader Compilation](https://github.com/steaklive/CgFX-Shader-Compilation)
 
 * [Unity Built-in Shaders](https://github.com/cheeseburgames/unity-builtin_shaders)
+
+* [Neitri Unity Shaders](https://github.com/netri/Neitri-Unity-Shaders)
