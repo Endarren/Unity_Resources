@@ -93,6 +93,13 @@
 # Transform
 * [Prevent LookAt From Flipping](https://answers.unity.com/questions/24805/preventing-lookat-from-flipping.html)
 
+
+
+# Noise
+
+* [Adding Random Noise to a direction vector](https://answers.unity.com/questions/1379561/adding-randmon-noise-to-a-direction-vector.html)
+* [Swarm Missile Adding Random Movement to a homing](https://answers.unity.com/questions/698009/swarm-missile-adding-random-movement-to-a-homing-m.html)
+
 # Turret
 * [Limiting the rotations of a turret](https://www.3dbuzz.com/forum/threads/190770-Limiting-the-rotation-of-a-turret-(unity-c-))
 
