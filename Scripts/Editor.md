@@ -15,3 +15,7 @@
 
 # Replacements
 * [ColorBands](https://github.com/rstecca/ColorBands) - Improved version of Gradient.
+
+# Libraries
+
+* [Unity Editor Toolbox](https://github.com/arimger/Unity-Editor-Toolbox)
