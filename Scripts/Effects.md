@@ -29,11 +29,6 @@
 
 * [Easy Curved Line](https://github.com/gpvigano/EasyCurvedLine) - Easy rendering and editing of curved lines.
 
-## Fog
-
-* [Unity Volumetric Fog](https://github.com/SiiMeR/unity-volumetric-fog)
-* [Vapor](https://github.com/ArthurBrussee/Vapor)
-* [UnityVolumetricFogDemo](https://github.com/uhiko512/UnityVolumetricFogDemo)
 
 ## Portal
 * [Unity Portal Rendering](https://github.com/pr0g/unity-portal-rendering)
@@ -41,7 +36,17 @@
 * [Unity Easy Portals](https://github.com/williambl/unity-easy-portals)
 * [Portal System Unity](https://github.com/zachdavids/PortalSystemUnity)
 
-## Lightning
+## Weather
+
+* [cathean - Unity VFX - Siegschals](https://github.com/cathean/UnityVFX-siegschals) - A rain and wind effect.
+
+### Fog
+
+* [Unity Volumetric Fog](https://github.com/SiiMeR/unity-volumetric-fog)
+* [Vapor](https://github.com/ArthurBrussee/Vapor)
+* [UnityVolumetricFogDemo](https://github.com/uhiko512/UnityVolumetricFogDemo)
+
+### Lightning
 
 * [Fractal Lightning](https://github.com/noobdawn/Fractal-Lightning-Unity)
 * [willFederer- Lightning Rendering](https://github.com/willFederer/LightningRendering)
