@@ -61,6 +61,7 @@
 * [Unity Lightsaber](https://github.com/jjxtra/UnityLightsaber)
 * [Lightsabers Tutorial](https://github.com/Roland09/Lightsabers-Tutorial)
 * [VRTK 3Lightsabers Training](https://github.com/pickettd/vrtk3-lightsaber-training)
+* [Unity Laser Sword](https://github.com/jjxtra/UnityLaserSword)
 
 ## Outline
 * [Outline Effect](https://github.com/cakeslice/Outline-Effect)
