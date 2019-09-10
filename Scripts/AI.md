@@ -1,7 +1,6 @@
 * [Simple Tactical Shooter](https://github.com/AlexJohnKennedy/SimpleTacticalShooter)
 * [Knowledge Representation](https://github.com/chris-gong/knowledge-representation)
 * [Realistic-Artificially-Intelligent-Objects-Within-a-Top-Down-Survival-Game-Unity](https://github.com/CBerger1997/Realistic-Artificially-Intelligent-Objects-Within-a-Top-Down-Survival-Game-Unity-)
-* [Perceptual System](https://github.com/IceLanguage/LinHoweGameAlgorithm/tree/master/Assets/Scripts/08-PerceptualSystem)
 
 * [How to make enemy kill you if starring at it](https://answers.unity.com/questions/319733/how-to-make-enemy-kill-you-if-starring-at-it.html)
 * [How to make enemy avoid player field of view](https://answers.unity.com/questions/988301/how-to-make-enemy-avoid-player-field-of-view.html)
@@ -39,6 +38,13 @@
 # Tools
 
 * [qAI](https://github.com/jlreymendez/qAI) - xNode based tool for designing AI graphs like behaviour trees and finite state machines.
+
+# Components
+
+## Sensors
+* [Perceptual System](https://github.com/IceLanguage/LinHoweGameAlgorithm/tree/master/Assets/Scripts/08-PerceptualSystem)
+
+
 # Types of AI
 
 * [AI System](https://github.com/BuildingBetterGames/AISystem) - Opensource AI system using ECS.
