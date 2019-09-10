@@ -5,6 +5,8 @@
 * [Field Layout](https://github.com/nobnak/FieldLayout) - Point-in-Polygon (2D Polygon, 2-Polytope) solver for Unity
 
 * [Unity Utilities](https://github.com/LifeandStyleMedia/UnityUtilities)
+
+* [Simultaneous Equations Solver](https://github.com/IRCSS/simultaneous-equations-solver)
 # Random
 
 * [Weighted Random](https://github.com/m3rt32/WeightedRandom)
