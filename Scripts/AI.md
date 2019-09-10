@@ -43,7 +43,7 @@
 
 ## Sensors
 * [Perceptual System](https://github.com/IceLanguage/LinHoweGameAlgorithm/tree/master/Assets/Scripts/08-PerceptualSystem)
-
+* [Cone of Sight](https://gist.github.com/grimmdev/76668ee44bf7c62bdc26)
 
 # Types of AI
 
