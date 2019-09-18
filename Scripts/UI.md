@@ -56,6 +56,8 @@
 
 * [Unity Minimap Module](https://github.com/zouhunter/unity-minimap-module)
 
+* [Choang05 - Easy Indicators](https://github.com/choang05/UnityAsset-EasyIndicators) - Simple on and off screen indicators.  Includes online manual.
+
 # Effects
 * [UI Fader Pro](https://github.com/QFSW/Unity-UiFaderPro)
 * [UI Effects](https://github.com/mob-sakai/UIEffect) - A collection of effects that can be applied to the UI.
