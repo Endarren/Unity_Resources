@@ -11,6 +11,8 @@
 * [Synergiance Shaders](https://github.com/synergiance/Synergiance-Shaders-For-Unity) - Miku Miku Dance
 * [Keijiro - Unity Anime 4K](https://github.com/keijiro/UnityAnime4K/tree/master/Assets/Anime4K/Resources) - A shader used for upscaling anime images.
 
+* [ciro-unity - Breathe of the Wild Toon Shader](https://github.com/ciro-unity/BotW-ToonShader)
+
 # Unity-chan
 * [UnityChanToonShaderVer2 project](https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project) - An offical and more advanced version of Unity-chan shaders and can be used for pretty much any project.
 * [UnityChanToonShaderVer2](https://github.com/Lumak/UnityChanToonShaderVer2)
