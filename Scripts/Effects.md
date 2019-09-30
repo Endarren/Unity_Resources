@@ -20,6 +20,10 @@
 
 * [Sprite Glow](https://github.com/Elringus/SpriteGlow)
 
+## Liquid/Fluid
+
+* [MatchaChoco010 - UnityHDRPPseudoFluidRendering](https://github.com/MatchaChoco010/UnityHDRPPseudoFluidRendering)
+
 ## Decal/ Splat
 
 * [Unity Splatter Effect](https://github.com/axelbjornsson/UnitySplatterEffect)
