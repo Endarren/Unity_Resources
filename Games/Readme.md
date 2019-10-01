@@ -15,7 +15,7 @@ Here are some game projects that are underwork in Unity.
 * [Bright Souls](https://github.com/leotgo/BrightSouls) - An indie game based on Dark Souls.
 * [3D Mininig Game](https://github.com/DaKo51/3D-Mining-Game)
 * [Dune of Arrakis](https://github.com/daniloabella18/Dune-of-Arrakis-Unity3D)
-* [Generative Racer](https://github.com/pulinho/generative-racer)
+
 * [RSG](https://github.com/IliaBahmutov/RSG) - Retro Stealth Game, like Metal Gear on NES.
 
 * [Watson Simulator](https://github.com/BenoitBellegarde/Watson-simulator) - A simple multi-level game where you play as a cat.
@@ -76,12 +76,14 @@ Here are some game projects that are underwork in Unity.
 
 * [Driving Simulator](https://github.com/DingYiWen/Driving-simulator)
 * [Karting](https://github.com/SocketWeaver/karting) - Multiplayer racing game using SocketWeaver SDK
+* [Generative Racer](https://github.com/pulinho/generative-racer)
 
 # Card Games
 * [Card Game Simulator](https://github.com/finol-digital/Card-Game-Simulator) - Includes links to documentation
-* [Gwent Clone](https://github.com/Muskson/gwent-clone)
-* [Gwent Card](https://github.com/664235822/GwentCard) - Japanese
 * [Card Example](https://github.com/rygo6/CardExample-Unity)
+* [ycarowr - UiCard](https://github.com/ycarowr/UiCard)
+* [Muskson - Gwent Clone](https://github.com/Muskson/gwent-clone)
+* [Gwent Card](https://github.com/664235822/GwentCard) - Japanese
 
 
 # FPS
