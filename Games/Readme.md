@@ -85,6 +85,8 @@ Here are some game projects that are underwork in Unity.
 * [Muskson - Gwent Clone](https://github.com/Muskson/gwent-clone)
 * [Gwent Card](https://github.com/664235822/GwentCard) - Japanese
 
+* [HMY777 - UnityGame - Card War](https://github.com/HMY777/UnityGame-CardWar)
+
 
 # FPS
 
