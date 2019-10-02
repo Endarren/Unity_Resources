@@ -30,7 +30,7 @@
 * [Recyclable ListView](https://github.com/tomazsaraiva/addcomponent-unity-recyclable-listview)
 * [Mukarillo - Unity Dynamic ScrollRect](https://github.com/Mukarillo/UnityDynamicScrollRect)
 * [Unity Accordion UI](https://github.com/0kk470/Unity_AccordionUI)
-
+* [Sinbad - Unity Recycling ListView](https://github.com/sinbad/UnityRecyclingListView)
 
 ## Windows
 * [Unity Simple File Browser](https://github.com/yasirkula/UnitySimpleFileBrowser) - This is also on the asset store for free.
