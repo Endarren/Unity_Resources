@@ -38,6 +38,8 @@
 
 * [Notno - Generative Geametry](https://github.com/notno/GenerativeGeometry-Unity) - Several useful mesh generation.  Like gears.
 
+* [bburrough - Rounded Quad Mesh](https://github.com/bburrough/RoundedQuadMesh)
+
 ## Spline
 * [Spline Mesh](https://github.com/benoit-dumas/SplineMesh)
 * [BG Curve](https://github.com/bansheeGz/BGCurve)
