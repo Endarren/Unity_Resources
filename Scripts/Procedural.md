@@ -11,6 +11,7 @@
 * [Procedural Landmass](https://github.com/raghav-kukreti/procedural-landmass)
 * [Unity Procedural Stair Builder](https://github.com/GregFrench/Unity-Procedural-Stair-Builder)
 * [Procedural Cave Generator](https://github.com/AK-Saigyouji/Procedural-Cave-Generator)
+* [harmjs - Polygon Map Generator](https://github.com/harmjs/unity-polygon-map-generator)
 
 ## Dungeons
 * [Unity Dungeon Generator](https://github.com/damarindra/Unity-Dungeon-Generator) - Uses a Delaunay or a Binary Space Partition algorthims.
