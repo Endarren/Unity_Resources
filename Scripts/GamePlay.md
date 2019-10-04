@@ -3,6 +3,7 @@
 * [Yika-aizi - Ic Skill System](https://github.com/yika-aixi/IcSkillSystem)
 * [KDSBest - Skill System Unity](https://github.com/KDSBest/SkillSystemUnity)
 * [sjai013 - Unity Gameplay Ability System](https://github.com/sjai013/UnityGameplayAbilitySystem)
+* [DylanYasen - Unity Ability System](https://github.com/DylanYasen/unity-ability-system)
 # Crafting
 * [Simple Craft](https://github.com/RaulMrSouza/SimpleCraft)
 # Inventory
