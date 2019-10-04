@@ -1,5 +1,6 @@
 # Combat
 * [Unity-Chan Battle](https://github.com/HuangqunStudio/UnityChanBattle)
+* [Yika-aizi - Ic Skill System](https://github.com/yika-aixi/IcSkillSystem)
 # Crafting
 * [Simple Craft](https://github.com/RaulMrSouza/SimpleCraft)
 # Inventory
