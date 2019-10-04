@@ -25,6 +25,9 @@
 ## Land
 * [Procedural Island](https://github.com/AdamWhitehurst/Procedural-Island)
 * [procedural-landmass-generation](https://github.com/benjohns1/procedural-landmass-generation)
+## Planet
+* [Procedural Planet Generation](https://github.com/DennisBoon/Procedural_Planet_Generation)
+
 # #Mazes
 * [3D-Maze-Generator](https://github.com/FergusLeah/3D-Maze-Generator)
 * [UnityMazeGeneration](https://github.com/thederpykleptic/UnityMazeGeneration)
