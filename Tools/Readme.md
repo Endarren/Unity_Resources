@@ -52,3 +52,5 @@
 
 * [Sprite Dicing](https://github.com/Elringus/SpriteDicing) - Unity extension for reusing sprite texture areas https://forum.unity.com/threads/542863
 
+* [Unitycoder - Unity Level Design Toolkit](https://github.com/unitycoder/UnityLevelDesignToolkit)
+
