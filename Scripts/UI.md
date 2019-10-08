@@ -7,6 +7,8 @@
 
 * [Unity - WinForms](https://github.com/Meragon/Unity-WinForms) - Wrapper for Windows forms.
 
+* [Unity Standalone File Browser](https://github.com/gkngkc/UnityStandaloneFileBrowser)
+
 # Trouble Shooting
 
 * [Text is blurry in web build](https://answers.unity.com/questions/465647/text-is-blurry-in-web-build.html)
