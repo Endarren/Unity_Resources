@@ -23,3 +23,5 @@
 # Quest
 
 * [devdogio - Quest System Pro](https://github.com/devdogio/Quest-System-Pro) - A former premium Unity asset gone open source.
+
+* [MaximeGiguere9 - rpg framework](https://github.com/MaximeGiguere9/rpg-framework/tree/master/Assets/Scripts/Definitions/Quests) - Archived
