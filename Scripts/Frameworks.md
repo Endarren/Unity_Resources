@@ -5,11 +5,12 @@
 
 * [Actors-Unity3d-Framework](https://github.com/dimmpixeye/Actors-Unity3d-Framework)
 
-* [GInventory](https://github.com/mathiassiig/GInventory)
-
 * [Unity Gameplay Ability System](https://github.com/sjai013/UnityGameplayAbilitySystem)
 
 * [Supreme ECS Rx](https://github.com/yy1985710/SupremeEcsRx) - A game framework based on ECS with dependency inject and unirx.
+
+# Inventory
+* [GInventory](https://github.com/mathiassiig/GInventory)
 
 # Event System
 * [GalvanicGames - Unity Events](https://github.com/GalvanicGames/unity-events)
