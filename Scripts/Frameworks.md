@@ -11,6 +11,11 @@
 
 * [Supreme ECS Rx](https://github.com/yy1985710/SupremeEcsRx) - A game framework based on ECS with dependency inject and unirx.
 
+# Event System
+* [GalvanicGames - Unity Events](https://github.com/GalvanicGames/unity-events)
+* [MechWarrior99 - Enhanced Unity ScriptableObject Game Event System](https://github.com/MechWarrior99/Enhanced-Unity-ScriptableObject-Game-Event-System) - Uses ScriptableObjects as the events.
+* [alexmuab - Unity Event Manager](https://github.com/alexmuab/unity-event-manager)
+
 # RPG
 * [Fydar's RPG Core](https://github.com/Fydar/RPGCore)
 * [MaximeGiguere9 - rpg framework](https://github.com/MaximeGiguere9/rpg-framework) - Archived.  Includes quest, inventory, loot, abilities, equipment, attributes, etc.
