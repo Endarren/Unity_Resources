@@ -11,3 +11,7 @@
 
 
 * [Genetic Travelling Salesman Problem](https://github.com/jonasstr/Genetic-Algorithm-TSP-Unity)
+
+# Hull
+
+* [OskarSigvardsson - Unity - Quick Hull](https://github.com/OskarSigvardsson/unity-quickhull)
