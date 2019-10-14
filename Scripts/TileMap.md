@@ -7,6 +7,7 @@
 ## Generators
 * [Tiled Map Generator](https://github.com/patrickalfa/Tiled-Map-Generator)
 * [mitchellri - Tilemap Generator](https://github.com/mitchellri/unity-tilemap-generator)
+* [tadeaspaule - Isometric Map Generation](https://github.com/tadeaspaule/unity-isometric-map-generation)
 ## Tools
 * [Super Tiled 2 Unity](https://github.com/Seanba/SuperTiled2Unity)
 * [TileMaps Lab](https://github.com/swong839/TileMapsLab)
