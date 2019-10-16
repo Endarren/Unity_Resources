@@ -78,3 +78,4 @@
 * [Miner FSM](https://github.com/igna92ts/unity_miner_fsm)
 * [Racer AI](https://github.com/jcbang/RacerAI) - AI for racing games
 * [Synert - AT - AI-Squad](https://github.com/Synert/AT-AI-Squad) - A university project for controlling a squad of AI.  Includes a YouTube playlist with dev diary.
+* [FeraTaTa - AI in Unity](https://github.com/FeraTaTa/AI-in-Unity) - A collection of AI examples in Unity.
