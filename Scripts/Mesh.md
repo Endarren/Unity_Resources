@@ -42,6 +42,8 @@
 
 * [bburrough - Rounded Quad Mesh](https://github.com/bburrough/RoundedQuadMesh)
 
+* [Henrihanot - Unity Procedural Cables](https://github.com/henrihanot/unity-procedural-cables)
+
 ## Spline
 * [Spline Mesh](https://github.com/benoit-dumas/SplineMesh)
 * [BG Curve](https://github.com/bansheeGz/BGCurve)
