@@ -43,6 +43,7 @@
 
 ## Code
 * [Classic Rogue Movement](https://github.com/balaam/unity_classic_rogue_movement)
+* [MinerTweaks - Super Paper Copy](https://github.com/MinerTweaks/SuperPaperCopy) - Paper Mario like movement.
 
 # Rigidbody
 ## Code
