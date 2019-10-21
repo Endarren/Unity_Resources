@@ -11,6 +11,7 @@
 
 # Inventory
 * [GInventory](https://github.com/mathiassiig/GInventory)
+* [IndieDeveloper-Mans -Inventory and Stats Sytem in Unity](https://github.com/IndieDeveloper-Mans/Inventory-and-stats-system-in-Unity3D)
 
 # Event System
 * [GalvanicGames - Unity Events](https://github.com/GalvanicGames/unity-events)
@@ -32,3 +33,5 @@
 * [devdogio - Quest System Pro](https://github.com/devdogio/Quest-System-Pro) - A former premium Unity asset gone open source.
 
 * [MaximeGiguere9 - rpg framework](https://github.com/MaximeGiguere9/rpg-framework/tree/master/Assets/Scripts/Definitions/Quests) - Archived
+
+* [IndieDeveloper-Mans - Quest System in Unity 3D](https://github.com/IndieDeveloper-Mans/Quest-system-in-Unity3D)
