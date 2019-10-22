@@ -15,6 +15,8 @@
 
 * [ciro-unity - Breathe of the Wild Toon Shader](https://github.com/ciro-unity/BotW-ToonShader)
 
+* [You-ri - Lilium Toon Graph](https://github.com/you-ri/LiliumToonGraph)
+
 # Unity-chan
 * [UnityChanToonShaderVer2 project](https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project) - An offical and more advanced version of Unity-chan shaders and can be used for pretty much any project.
 * [UnityChanToonShaderVer2](https://github.com/Lumak/UnityChanToonShaderVer2)
