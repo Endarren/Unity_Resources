@@ -24,6 +24,8 @@
 # Managers
 * [Menu Manager](https://github.com/WeersProductions/MenuManager)
 # Elements UGUI
+
+ * [Unity Color Dropdown](https://github.com/Yleisnero/unitycolordropdown)
 ## Charts
 
 * [Unity UGUI - XCharts](https://github.com/monitor1394/unity-ugui-XCharts)
