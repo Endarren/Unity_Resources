@@ -9,6 +9,10 @@
 # Tween
 ## Code
 * [Duck Tween](https://github.com/dubit/duck-tween)
+* [prime31 - GoKit](https://github.com/prime31/GoKit)
+* [kyubuns - AnimeRx](https://github.com/kyubuns/AnimeRx)
+* [PlasticApps - PlasticTween](https://github.com/PlasticApps/PlasticTween) - ECS and job based
+* [jeffcampbellmakesgames - Unity Jtween](https://github.com/jeffcampbellmakesgames/unity-jtween) - job based tween
 # Steering Behaviours
 ## Code
 * [Movement Algorithms](https://github.com/pingumen96/MovementAlgorithms)
