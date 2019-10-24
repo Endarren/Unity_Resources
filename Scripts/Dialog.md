@@ -5,6 +5,7 @@
 * [Ricardo Bustos2 - Unity Dialogue System](https://github.com/RicardoBustos2/UnityDialogueSystem)
 * [Unity Rumor](https://github.com/exodrifter/unity-rumor) - Dialogue using custom API in text files.
 * [Dialogue Smiith](https://github.com/code51/dialoguesmith) - Dialogue tree editor.
+* [ChoiHeeR - UnityDialogueSystem](https://github.com/ChoiHeeR/UnityDialogueSystem)
 # Node Based
 * [Siccity - Dialogue](https://github.com/Siccity/Dialogue) - Node-based dialogue.
 * [Dialog Node Editor](https://github.com/alee12131415/Dialog-Node-Editor)
