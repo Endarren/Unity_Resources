@@ -13,6 +13,7 @@
 * [kyubuns - AnimeRx](https://github.com/kyubuns/AnimeRx)
 * [PlasticApps - PlasticTween](https://github.com/PlasticApps/PlasticTween) - ECS and job based
 * [jeffcampbellmakesgames - Unity Jtween](https://github.com/jeffcampbellmakesgames/unity-jtween) - job based tween
+* [Dotween](https://github.com/Demigiant/dotween)
 # Steering Behaviours
 ## Code
 * [Movement Algorithms](https://github.com/pingumen96/MovementAlgorithms)
