@@ -1,12 +1,10 @@
 * [Obstacle Tower Source](https://github.com/Unity-Technologies/obstacle-tower-source) - Official Unity example
 * [Space W](https://github.com/zameran/SpaceW)
-
-
-
 * [Procedural Generation](https://github.com/AlexSerodio/procedural-generation-unity) Contains multiple use cases.
-
 * [Generative Racer](https://github.com/pulinho/generative-racer)
+# Items
 
+* [ruudschouten - Modular Items](https://github.com/ruudschouten/ModularItems)
 # Environment
 * [Procedural Landmass](https://github.com/raghav-kukreti/procedural-landmass)
 * [Unity Procedural Stair Builder](https://github.com/GregFrench/Unity-Procedural-Stair-Builder)
