@@ -6,3 +6,6 @@
 * [Audio Importer](https://github.com/Hello-Meow/AudioImporter)
 
 * [Lip Sync Lite](https://github.com/larrymario/LipSyncLite)
+
+# Audio Pool
+* [Soundkraft](https://github.com/Kodhan/Soundkraft)
