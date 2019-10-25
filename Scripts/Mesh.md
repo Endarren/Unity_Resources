@@ -20,6 +20,7 @@
 * [Explode a Mesh into Polygons](https://answers.unity.com/questions/338819/explode-a-mesh-into-polygons-efffect.html)
 * [Create Mesh by Defining Points](https://answers.unity.com/questions/585948/create-mesh-by-defining-points.html)
 * [Unity Plane Mesh Splitter](https://github.com/artnas/Unity-Plane-Mesh-Splitter)
+* [Cutting Solids](https://github.com/SnowDC93/CuttingSolids)
 
 # Saving Meshes
 * [Mesh Saver](https://github.com/pharan/Unity-MeshSaver)
