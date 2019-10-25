@@ -67,6 +67,7 @@ Here are some game projects that are underwork in Unity.
 * [Railroad Station Tychoon](https://github.com/Pilus/RailroadStationTychoon)
 * [Prosperity Wars](https://github.com/Nashet/Prosperity-Wars)
 * [Unity SimCity](https://github.com/geronimo-lisboa/unity-simcity)
+* [City Builder](https://github.com/pepeizq/City-Builder)
 
 # Arcade
 
