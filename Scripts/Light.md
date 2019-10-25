@@ -1,6 +1,7 @@
 # Volumetric Light
 * [Volumetric Lights for Unity 5](https://github.com/SlightlyMad/VolumetricLights)
 * [Aura](https://github.com/raphael-ernaelsten/Aura)
+* [Unity Simple Volumetric Lightning](https://github.com/ShadedSelf/Unity-Simple-Volumetric-Lightning)
 
 # Light Map
 
