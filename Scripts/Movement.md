@@ -58,6 +58,9 @@
 * [Player Rigidbody slider off moving platform](https://answers.unity.com/questions/1040978/player-rigidbody-slides-off-moving-platform.html)
 * [Change rigidbodys jump speed](https://answers.unity.com/questions/499834/change-rigidbodys-jumping-speed.html)
 # Aircraft Movement
+## Code
+* [Base Helicopter Controller](https://github.com/suncube/Base-Helicopter-Controller)
+## Articles
 * [Controlling Pitch, Yaw, and Roll](https://www.gamedev.net/forums/topic/668911-controlling-pitch-yaw-and-roll-of-an-airplane/)
 
 # PathFinding (Not Built-in Unity NavMesh)
