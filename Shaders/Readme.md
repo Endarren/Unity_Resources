@@ -26,6 +26,7 @@ I am thinking about how to organize this page better and I am open to suggestion
 * [Volumetric Tracer](https://github.com/Fewes/VolumetricTracer)
 
 * [Black Hole Shader](https://github.com/conjLob/BlackHoleShader)
+* [Image Ultra](https://github.com/daniel-ilett/image-ultra) - Image Effects
 
 # Edge Detection
 * [Contour Line Filter](https://github.com/keijiro/KinoContour)
