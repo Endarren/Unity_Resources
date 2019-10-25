@@ -17,6 +17,7 @@
 * [Unity Tile Map Events](https://github.com/NTWalkers/unitytilemapevents)
 * [Blob Tile Map](https://github.com/bryanrtboy/BlobTileMap) - Creates a TileMap in Unity from a webcam. 
 * [Super Prefab Replacement](https://github.com/Seanba/SuperPrefabReplacement)
+* [AutoTiles](https://github.com/Inkwalker/AutoTiles)
 
 # Non-Unity Tile Map
 
