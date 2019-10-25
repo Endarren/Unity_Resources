@@ -8,7 +8,7 @@
 * [Unity Gameplay Ability System](https://github.com/sjai013/UnityGameplayAbilitySystem)
 
 * [Supreme ECS Rx](https://github.com/yy1985710/SupremeEcsRx) - A game framework based on ECS with dependency inject and unirx.
-* [route1rodent - newbark](https://github.com/route1rodent/newbark)
+* [route1rodent - newbark](https://github.com/route1rodent/newbark) - Retro RPG game engine
 
 # Inventory
 * [GInventory](https://github.com/mathiassiig/GInventory)
