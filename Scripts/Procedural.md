@@ -16,6 +16,7 @@
 * [Cellular Automata Dungeon Generator](https://github.com/kultie/Unity-CellularAutomata-Dungeon-Generator)
 * [JonGallant - Dungeon Generator](https://github.com/jongallant/DungeonGenerator) - An older dungeon generator.
 * [DMeville - Dungeon Generator](https://github.com/DMeville/Unity3d-Dungeon-Generator)
+* [sitRyo - Dungeon Template Library](https://github.com/sitRyo/DungeonTemplateLibraryUnity)
 ## City
 * [wave function collapse](https://github.com/marian42/wavefunctioncollapse) - infinite, procedurally generated city.
 * [Procedural City by Phoechat](https://github.com/pboechat/ProceduralCity)
