@@ -14,6 +14,8 @@
 
 * [Camera Mesh Fitter](https://github.com/unity-packages/camera-mesh-fitter) - Positions mesh in front of the camera and fitting in the viewport.
 * [Advanced Camera Controls](https://github.com/Xerios/AdvancedCameraControls) - RTS like camera
+
+* [Kodhan - Camera Kraft](https://github.com/Kodhan/CameraKraft) - Weighted perspective camera for 2D.
 ## Pixel
 * [DeadSimple Pixel Perfect Camera](https://github.com/cmilr/DeadSimple-Pixel-Perfect-Camera)
 * [Pixel Camera Behaviour](https://github.com/jwkontti/Unity-PixelCameraBehaviour/blob/master/PixelCameraBehaviour.cs)
