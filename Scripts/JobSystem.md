@@ -31,3 +31,5 @@ An example of how to use the RaycastCommand.
 An ECS example using navmesh agents.
 
 * [Unity Job System Mesh Deformer](https://github.com/aquarterofpixel/unity-job-system-mesh-deformer)
+
+* [Raycast Jobs](https://github.com/cerea1/RaycastJobs)
