@@ -82,6 +82,8 @@
 
 * [NavMeshPlus](https://github.com/h8man/NavMeshPlus) - Modified version of the Nav Mesh extension scripts.
 
+* [Kink3d - Simple Traffic](https://github.com/Kink3d/SimpleTraffic) - Simulation of street traffic using Nav Mesh.
+
 ## Articles
 * [Navmesh Flee AI from Player](https://answers.unity.com/questions/868003/navmesh-flee-ai-flee-from-player.html)
 * [Make Multiple Enemies take Different Paths](https://stackoverflow.com/questions/26644196/unity-navmesh-make-multiple-enemies-take-different-paths)
