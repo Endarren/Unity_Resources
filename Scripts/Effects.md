@@ -49,6 +49,7 @@
 * [Unity Volumetric Fog](https://github.com/SiiMeR/unity-volumetric-fog)
 * [Vapor](https://github.com/ArthurBrussee/Vapor)
 * [UnityVolumetricFogDemo](https://github.com/uhiko512/UnityVolumetricFogDemo)
+* [Keijiro - KinoFog](https://github.com/keijiro/KinoFog)
 
 ### Lightning
 
