@@ -13,8 +13,10 @@
 * [U Raider](https://github.com/TiernanWatson/uraider) - Tomb Raider framework
 
 # Inventory
-* [GInventory](https://github.com/mathiassiig/GInventory)
-* [IndieDeveloper-Mans -Inventory and Stats Sytem in Unity](https://github.com/IndieDeveloper-Mans/Inventory-and-stats-system-in-Unity3D)
+| Name | Source | Description  |
+| --- | --- | --- |  
+|[GInventory](https://github.com/mathiassiig/GInventory)|[mathiassiig](https://github.com/mathiassiig)|
+|[Inventory and Stats Sytem in Unity](https://github.com/IndieDeveloper-Mans/Inventory-and-stats-system-in-Unity3D)|[IndieDeveloper-Mans](https://github.com/IndieDeveloper-Mans)| Formerly a premium product
 
 # Event System
 * [GalvanicGames - Unity Events](https://github.com/GalvanicGames/unity-events)
