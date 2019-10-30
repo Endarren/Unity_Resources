@@ -23,7 +23,7 @@ Here are some game projects that are underwork in Unity.
 * [Open Ski Jumping](https://github.com/Jonek2208/Open-Ski-Jumping)
 
 * [Lego Game](https://github.com/ditzel/LegoGame)
-
+* [Diablerie](https://github.com/mofr/Diablerie) - Diablo 2 in Unity
 # Splatoon
 * [UnityDemo Splatoon](https://github.com/xieliujian/UnityDemo_Splatoon)
 * [Splatoon-2d](https://github.com/NamanHegde38/splatoon-2d)
