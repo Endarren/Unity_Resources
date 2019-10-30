@@ -3,9 +3,12 @@
 * [Mesh Utilities](https://github.com/P-5/MeshUtilities-Unity) - Includes decal, puncturing, splitting
 * [Unity Mesh Simplify](https://github.com/ecidevilin/UnityMeshSimplify)
 * [Dynamic Mesh](https://github.com/mariusrubo/Unity-Dynamic-Mesh)
-
+* [Pottery](https://github.com/vmp1r3/Pottery) - Pottery mesh making framework.
 # Mesh Deforming
 * [Deform](https://github.com/keenanwoodall/Deform)
+* [keenanwoodall - Deform Prototype](https://github.com/keenanwoodall/Deform-Prototype)
+
+
 # Mesh Destruction
 * [danbystrom - ScamScatter](https://github.com/danbystrom/ScamScatter)
 # Editors
