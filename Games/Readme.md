@@ -24,6 +24,7 @@ Here are some game projects that are underwork in Unity.
 
 * [Lego Game](https://github.com/ditzel/LegoGame)
 * [Diablerie](https://github.com/mofr/Diablerie) - Diablo 2 in Unity
+* [Armor Critical](https://github.com/jamesh38/ArmorCritical)
 # Splatoon
 * [UnityDemo Splatoon](https://github.com/xieliujian/UnityDemo_Splatoon)
 * [Splatoon-2d](https://github.com/NamanHegde38/splatoon-2d)
