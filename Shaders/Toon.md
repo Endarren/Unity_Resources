@@ -4,7 +4,7 @@
 |[Breathe of the Wild Toon Shader](https://github.com/ciro-unity/BotW-ToonShader) |[ciro-unity](https://github.com/ciro-unity) | Breathe of the Wild |
 |[Unity Toon Shader](https://github.com/Sorumi/UnityToonShader) |[Sorumi](https://github.com/Sorumi) |http://sorumi.xyz/posts/unity-toon-shader/ |
 |[Synergiance Shaders](https://github.com/synergiance/Synergiance-Shaders-For-Unity) |[Synergiance](https://github.com/synergiance) |Miku Miku Dance |
-|Poiyomi Master Toon Shader](https://github.com/poiyomi/PoiyomiToonShader)|[Poiyomi](https://github.com/poiyomi)| VR Chat|
+|[Poiyomi Master Toon Shader](https://github.com/poiyomi/PoiyomiToonShader)|[Poiyomi](https://github.com/poiyomi)| VR Chat|
 
 
 
