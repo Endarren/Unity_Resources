@@ -19,9 +19,12 @@
 |[Inventory and Stats Sytem in Unity](https://github.com/IndieDeveloper-Mans/Inventory-and-stats-system-in-Unity3D)|[IndieDeveloper-Mans](https://github.com/IndieDeveloper-Mans)| Formerly a premium product
 
 # Event System
-* [GalvanicGames - Unity Events](https://github.com/GalvanicGames/unity-events)
-* [MechWarrior99 - Enhanced Unity ScriptableObject Game Event System](https://github.com/MechWarrior99/Enhanced-Unity-ScriptableObject-Game-Event-System) - Uses ScriptableObjects as the events.
-* [alexmuab - Unity Event Manager](https://github.com/alexmuab/unity-event-manager)
+| Name | Source | Description  |
+| --- | --- | --- |  
+|[Enhanced Unity ScriptableObject Game Event System](https://github.com/MechWarrior99/Enhanced-Unity-ScriptableObject-Game-Event-System) |[MechWarrior99](https://github.com/MechWarrior99) |Uses ScriptableObjects as the events |
+|[Unity Events](https://github.com/GalvanicGames/unity-events) | [GalvanicGames](https://github.com/GalvanicGames)| |
+|[Unity Event Manager](https://github.com/alexmuab/unity-event-manager) |[alexmuab](https://github.com/alexmuab) | |
+
 
 # RPG
 * [Fydar's RPG Core](https://github.com/Fydar/RPGCore)
