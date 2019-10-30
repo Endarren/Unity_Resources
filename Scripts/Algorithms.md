@@ -1,4 +1,6 @@
 
+* [NStar](https://github.com/gadominas/nstar) - Star map generator.
+
 # Collection
 
 * [William Fieset - Algorithms](https://github.com/williamfiset/Algorithms) - An extensive collection of algorithms.  While they are written in Java, it would not be hard to remake them in C# for Unity.
