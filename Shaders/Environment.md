@@ -18,6 +18,7 @@
 
 # Sky
 * [NVJOB Sky Shader simple and Fast](https://github.com/nvjob/NVJOB-Sky-Shader-simple-and-fast)
+* [Procedural Stars](https://github.com/sakope/ProceduralStars) - Procedural creates a stary sky.
 # Ground
 ## Tree
 * [NVGEN Shader for Unity Speed Tree](https://github.com/nvjob/NVGen-Shader-for-Unity-SpeedTree)
