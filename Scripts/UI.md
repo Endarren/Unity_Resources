@@ -56,6 +56,7 @@
 * [Text Mesh Effects](https://github.com/KPDwyer/TextMeshEffects)
 * [Text Inline Sprite](https://github.com/coding2233/TextInlineSprite)
 * [Unity Simple SRT](https://github.com/roguecode/Unity-Simple-SRT) - A subtitle parser.
+* [Alpha Flashing Text](https://github.com/nvjob/alpha-flashing-text-simple)
 
 ## Maps
 
