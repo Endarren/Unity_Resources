@@ -7,6 +7,7 @@
 |[Reflective Transparent Water](https://laboratoriesx86.wordpress.com/2014/05/02/shader-reflective-transparent-water-like-unity-indie/) | 
 |[Low poly Water](https://github.com/maxwerhahn/Lowpoly-water-for-Unity)|[maxwerhahn](https://github.com/maxwerhahn)|
 |[NVJOB Water Shader](https://github.com/nvjob/NVJOB-Water-Shader-simple-and-fast)|[NVJOB](https://github.com/nvjob)|
+|[NVJOB Water Shader - Old](https://github.com/nvjob/NVJOB-Water-Shader-old-versions)|[NVJOB](https://github.com/nvjob)|
 |[Unity Water Surface](https://github.com/hecomi/UnityWaterSurface)|[hecomi](https://github.com/hecomi)
 |[Optically Realistic Water](https://github.com/muckSponge/Optically-Realistic-Water)|[muckSponge](https://github.com/muckSponge)|
 |[Toon Water Shader](https://github.com/IronWarrior/ToonWaterShader)|[IronWarrior](https://github.com/IronWarrior)
