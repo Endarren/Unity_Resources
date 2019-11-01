@@ -32,6 +32,7 @@
 | --- | --- | --- |
 |[Unity Grass Shader](https://github.com/KHN190/UnityGrassShader)|[KHN190](https://github.com/KHN190)
 |[Geometry Grass Shader](https://github.com/IRCSS/Geometry-Grass-Shader)|[IRCSS](https://github.com/IRCSS)
+|[Interactive Grass](https://github.com/IRCSS/Interactive-Grass)|[IRCSS](https://github.com/IRCSS)
 |[Unity Grass Geometry Shader](https://github.com/ValentinGurkov/UnityGrassGeometryShader)|[ValentinGurkov](https://github.com/ValentinGurkov/)
 |[Grass Bending](https://github.com/Elringus/GrassBending)|[Elringus](https://github.com/Elringus)
 
