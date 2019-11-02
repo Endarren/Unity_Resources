@@ -14,9 +14,13 @@
 
 
 ## Ripples and Waves
-* [Simple Water Ripple](https://forum.unity.com/threads/simple-water-ripple-shader.246961/)
-* [Unity Wave Equation](https://github.com/AsehesL/UnityWaveEquation)
-* [Wave Propagation Water Ripple](https://github.com/ya7gisa0/Unity-Wave-Propagation-Water-Ripple)
+| Name | Source | Description  |
+| --- | --- | --- |
+|[Simple Water Ripple](https://forum.unity.com/threads/simple-water-ripple-shader.246961/)| [Forum.unity.com](https://forum.unity.com/)| Forum post.
+|[Unity Wave Equation](https://github.com/AsehesL/UnityWaveEquation)| [AsehesL](https://github.com/AsehesL)| Nice effect with moving objects.  Written in Japanese.
+|[Wave Propagation Water Ripple](https://github.com/ya7gisa0/Unity-Wave-Propagation-Water-Ripple)|[ya7gisa0](https://github.com/ya7gisa0)| Seems to work, but project appears inactive.
+
+
 ## Rain
 * [Real time dynamic windshield water](https://github.com/D4N005H/RealtimeDynamicWindshieldWaterFX)
 
