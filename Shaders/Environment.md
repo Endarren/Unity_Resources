@@ -24,6 +24,13 @@
 ## Rain
 * [Real time dynamic windshield water](https://github.com/D4N005H/RealtimeDynamicWindshieldWaterFX)
 
+| Name | Source | Description  |
+| --- | --- | --- |
+|[Rain Drop Effect](https://github.com/EdoFrank/RainDropEffect)| [Edo Frank](https://github.com/EdoFrank)|
+|[Real time dynamic windshield water](https://github.com/D4N005H/RealtimeDynamicWindshieldWaterFX)|[D4N005H](https://github.com/D4N005H)
+|[Rain Drops](https://github.com/ya7gisa0/Unity-Raindrops)|[ya7gisa0](https://github.com/ya7gisa0)
+|[Rain Drop Shader](https://github.com/yasuohasegawa/UnityRainDropShader)|[yasuohasegawa](https://github.com/yasuohasegawa)
+|[Rain Drops](https://github.com/smkplus/RainDrop)|[smkplus](https://github.com/smkplus)
 
 # Sky
 * [NVJOB Sky Shader simple and Fast](https://github.com/nvjob/NVJOB-Sky-Shader-simple-and-fast)
