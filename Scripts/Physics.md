@@ -30,7 +30,8 @@
 ### Code
 * [A solution for accurate raycasting without mesh colliders](https://forum.unity.com/threads/a-solution-for-accurate-raycasting-without-mesh-colliders.134554/)
 * [Raycast without Colliders](https://forum.unity.com/threads/raycast-without-colliders.14378/)
-* [Cone Cast](trinit.es/unity/scripts/csharp/raycast/Conecast.cs) 
+* [Cone Cast](https://trinit.es/unity/scripts/csharp/raycast/Conecast.cs)  - Download link.
+
 * [UnityArcRayCast](https://github.com/williamrjackson/UnityArcRayCast)
 Does a raycast along the path of a projectile's arc.
 ### Articles
