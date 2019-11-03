@@ -56,6 +56,7 @@ Does a raycast along the path of a projectile's arc.
 
 ## Engines
 * [Jello Physics](https://github.com/kwanchangnim/Jello-Physics)
+* [Bullet Sharp Unity](https://github.com/Phong13/BulletSharpUnity3d)
 
 ## Objects
 * [Fake Hanging Chains](https://github.com/forestrf/Fake-hanging-chains)
