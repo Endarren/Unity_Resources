@@ -59,6 +59,8 @@ Does a raycast along the path of a projectile's arc.
 ## Custom Collision Detection
 * [Unity Quadtree Collision Detection](https://github.com/MrTrueChina/Unity-Quadtree-Collision-Detection)
 
+* [UniCollider Interpolator](https://github.com/sanukin39/UniColliderInterpolator) - Aims to improve collision detection of mesh colliders.
+
 # 2D
 
 ## Raycasting
