@@ -40,7 +40,8 @@ Does a raycast along the path of a projectile's arc.
 ## Force
 ### Code
 * [Rigidbody Orbit](https://github.com/edom18/RigidbodyOrbit)
-* [Propulsion Physics](https://github.com/calebhc/propulsion-physics)
+* [Propulsion Physics](https://github.com/deadcast2/propulsion-physics)
+
 ### Articles
 * [How to Calculate force needed to jump towards target point](https://forum.unity.com/threads/how-to-calculate-force-needed-to-jump-towards-target-point.372288/)
 ## Collision
