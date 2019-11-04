@@ -3,6 +3,7 @@ Here are some game projects that are underwork in Unity.
 
 # Example Projects
 
+* [The Stanley Parable Clone](https://github.com/Adamaximum/TheStanleyParableClone)
 * [Turn Based Game](https://github.com/VietTho1989/TurnBasedGame)
 * [BotMender](https://github.com/Trigary/BotMender)
 * [Arena Defense](https://github.com/Senexis/ArenaDefense)
