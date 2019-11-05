@@ -39,10 +39,12 @@
 * [Create Colored Material](https://github.com/Endarren/Create_Color_Material) - Allows user to create a simple colored material using a list of premade colors or your own color.
 
 # Visual Scripting
-
-* [Constellation](https://github.com/ConstellationLanguage/Constellation)
-* [Diamond](https://assetstore.unity.com/packages/tools/visual-scripting/diamond-visual-scripting-92738)
-* [Ice Kori](https://github.com/molingyu/IceKori)
+| Name | Source | Description | 
+| --- | --- | --- |
+|[Constellation](https://github.com/ConstellationLanguage/Constellation)|[Constellation](https://github.com/ConstellationLanguage)| Free
+|[Diamond](https://assetstore.unity.com/packages/tools/visual-scripting/diamond-visual-scripting-92738)|[mezanix](https://assetstore.unity.com/publishers/18162)| Premium
+|[Ice Kori](https://github.com/molingyu/IceKori)|[molingyu](https://github.com/molingyu)|Free
+|[Artimech](https://github.com/Scramasax/Artimech)|[Scramasax](https://github.com/Scramasax/)|Free.  Used for State Machines|
 
 # Editor Tools
 
