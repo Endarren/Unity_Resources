@@ -35,12 +35,12 @@
 * [Third Person Camera](https://github.com/RelentlessAF/third-person-camera)   Tomb Raider/ The Witcher-esque Camera movement for Unity 3D 
 * [WoW Camera](https://github.com/UnityCommunity/UnityLibrary/blob/master/Assets/Scripts/Camera/WowCamera.cs)
 ### Souls-Like
-| Name | Description | Clipping? | Collsion? | Lock On? |
-| --- | --- | --- | --- | --- |
-| [SirObvious - Unity Third Person Camera](https://github.com/SirObvious/UnityThirdPersonCamera)| A Dark Souls like camera controller.  It is pretty old code| Yes| Yes| No |
-| [Gigadros - SoulsLike CameraManager](https://github.com/Gigadros/SoulsLike/blob/master/Soulslike/Assets/Scripts/Controller/CameraManager.cs)| | No | No| No |
-|[a1064137887 - DarkSoul Camera](https://github.com/a1064137887/DarkSoul/blob/master/Assets/Scripts/CameraController.cs) | | Yes | Yes | No |
-| [Datedsandwich - Souls-like CameraMovement](https://github.com/Datedsandwich/souls-like/blob/master/Assets/Scripts/Camera/CameraMovement.cs) | Based on tutorial series by www.sharpaccent.com| Yes | Yes | No |
-| [Smeagle657 - Souls Like CameraManager](https://github.com/Smeagle657/nani/blob/master/Souls%20Like/Assets/Scripts/Controller/CameraManager.cs) | | No | No | No |
-|[CSaratakij - Souls CameraController](https://github.com/CSaratakij/Souls/blob/develop/Assets/Scripts/Camera/CameraController.cs) | | Yes | Yes | Yes |
+| Name | Source | Description | Clipping? | Collsion? | Lock On? |
+| --- | --- | --- | --- | --- | --- |
+| [Unity Third Person Camera](https://github.com/SirObvious/UnityThirdPersonCamera)| [SirObvious](https://github.com/SirObvious)| A Dark Souls like camera controller.  It is pretty old code| Yes| Yes| No |
+| [SoulsLike CameraManager](https://github.com/Gigadros/SoulsLike/blob/master/Soulslike/Assets/Scripts/Controller/CameraManager.cs)| [Gigadros](https://github.com/Gigadros)| | No | No| No |
+|[DarkSoul Camera](https://github.com/a1064137887/DarkSoul/blob/master/Assets/Scripts/CameraController.cs)|[a1064137887](https://github.com/a1064137887) | | Yes | Yes | No |
+| [Souls-like CameraMovement](https://github.com/Datedsandwich/souls-like/blob/master/Assets/Scripts/Camera/CameraMovement.cs)| [Datedsandwich](https://github.com/Datedsandwich) | Based on tutorial series by www.sharpaccent.com| Yes | Yes | No |
+| [Souls Like CameraManager](https://github.com/Smeagle657/nani/blob/master/Souls%20Like/Assets/Scripts/Controller/CameraManager.cs)| [Smeagle657 ](https://github.com/Smeagle657) | | No | No | No |
+|[Souls CameraController](https://github.com/CSaratakij/Souls/blob/develop/Assets/Scripts/Camera/CameraController.cs)|[CSaratakij](https://github.com/CSaratakij) | | Yes | Yes | Yes |
 
