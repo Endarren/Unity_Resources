@@ -17,23 +17,29 @@
 
 * [Kodhan - Camera Kraft](https://github.com/Kodhan/CameraKraft) - Weighted perspective camera for 2D.
 ## Pixel
-* [DeadSimple Pixel Perfect Camera](https://github.com/cmilr/DeadSimple-Pixel-Perfect-Camera)
-* [Pixel Camera Behaviour](https://github.com/jwkontti/Unity-PixelCameraBehaviour/blob/master/PixelCameraBehaviour.cs)
+| Name | Source | Description | 
+| --- | --- | --- |
+|[DeadSimple Pixel Perfect Camera](https://github.com/cmilr/DeadSimple-Pixel-Perfect-Camera)|[cmilr](https://github.com/cmilr)|
+|[Pixel Camera Behaviour](https://github.com/jwkontti/Unity-PixelCameraBehaviour/blob/master/PixelCameraBehaviour.cs)|[jwkontti](https://github.com/jwkontti)|
+
 
 ## Shaking
-
-* [Ewersp's Camera Shake](https://github.com/ewersp/CameraShake)
-* [IronWarrior's Camera Shake](https://github.com/IronWarrior/UnityCameraShake)
-* [EZ Camera Shake](https://github.com/andersonaddo/EZ-Camera-Shake-Unity)
+| Name | Source | Description | 
+| --- | --- | --- |
+|[Camera Shake](https://github.com/ewersp/CameraShake)|[Ewersp](https://github.com/ewersp)|
+|[Camera Shake](https://github.com/IronWarrior/UnityCameraShake)|[IronWarrior](https://github.com/IronWarrior)|
+|[EZ Camera Shake](https://github.com/andersonaddo/EZ-Camera-Shake-Unity)|[andersonaddo](https://github.com/andersonaddo)|
 
 
 ## First Person
 * [First Person Unity Camera](https://github.com/PanMig/First-Person-Unity-Camera)
 ## Third Person
-* [Third Person Camera Tutorial](https://github.com/Ardathalion/UnityThirdPersonCameraTutorial)
-* [jm991's Unity Third Person Tutorial](https://github.com/jm991/UnityThirdPersonTutorial)
-* [Third Person Camera](https://github.com/RelentlessAF/third-person-camera)   Tomb Raider/ The Witcher-esque Camera movement for Unity 3D 
-* [WoW Camera](https://github.com/UnityCommunity/UnityLibrary/blob/master/Assets/Scripts/Camera/WowCamera.cs)
+| Name | Source | Description | 
+| --- | --- | --- |
+|[Third Person Camera Tutorial](https://github.com/Ardathalion/UnityThirdPersonCameraTutorial)|[Ardathalion](https://github.com/Ardathalion)|
+|[ Unity Third Person Tutorial](https://github.com/jm991/UnityThirdPersonTutorial)|[jm991](https://github.com/jm991)|
+|[Third Person Camera](https://github.com/RelentlessAF/third-person-camera)|[RelentlessAF](https://github.com/RelentlessAF)| Tomb Raider/ The Witcher-esque Camera movement for Unity 3D 
+|[WoW Camera](https://github.com/UnityCommunity/UnityLibrary/blob/master/Assets/Scripts/Camera/WowCamera.cs)|[UnityCommunity](https://github.com/UnityCommunity)|
 ### Souls-Like
 | Name | Source | Description | Clipping? | Collsion? | Lock On? |
 | --- | --- | --- | --- | --- | --- |
