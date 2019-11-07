@@ -57,7 +57,7 @@ Here are some game projects that are underwork in Unity.
 
 * [Darkest Dungeon Unity](https://github.com/Reinisch/Darkest-Dungeon-Unity)
 * [Megaman Unity](https://github.com/ManuelIribe18/Megaman_Unity)
-
+* [Pikmin 1](https://github.com/JohnFiddleystein/Pikmin-1-High-Definition)
 ## Asteroid
 * [BobNobrain](https://github.com/BobNobrain/Asteroids) - A procedural generated version of the game.
 
