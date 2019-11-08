@@ -30,14 +30,15 @@
 |[Rain Drop Shader](https://github.com/yasuohasegawa/UnityRainDropShader)|[yasuohasegawa](https://github.com/yasuohasegawa)
 |[Rain Drops](https://github.com/smkplus/RainDrop)|[smkplus](https://github.com/smkplus)
 
-# Ice
+# Ice and Snow
 
 | Name | Source | Description  |
 | --- | --- | --- |
 |[Unity shader tutorial - Creating realistic ice](https://www.youtube.com/watch?v=-z-issgoZ4o)|[ErbGameArt](https://www.youtube.com/channel/UCMqxbFCPmfH1Gf6dMIIvI4A) | YouTube Tutorial
 |[Ice Shader / Material in Unity](https://www.youtube.com/watch?v=Kdpt-Cev7uM)|[SpeedTutor](https://www.youtube.com/channel/UCwYuQIa9lgjvDiZryUVtFGw) | YouTube Tutorial
 |[Ice](https://github.com/javiersalcedopuyo/Unity3DShaders/blob/master/ice.shader)|[javiersalcedopuyo](https://github.com/javiersalcedopuyo)| Shader File
-
+|[Deformable Snow](https://github.com/thnewlands/unity-deformablesnow)|[thnewlands](https://github.com/thnewlands)|
+|[Deep Snow Footprint](https://github.com/ZGeng/DeepSnowFootprint)|[ZGeng](https://github.com/ZGeng)
 
 # Sky
 * [NVJOB Sky Shader simple and Fast](https://github.com/nvjob/NVJOB-Sky-Shader-simple-and-fast)
