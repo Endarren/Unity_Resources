@@ -60,5 +60,5 @@
 | Name | Source | Description  |
 | --- | --- | --- |
 |[Stylized Sand](https://github.com/danielshervheim/Stylized-Sand-for-Unity)|[danielshervheim](https://github.com/danielshervheim/)|
-|[Desert](https://github.com/WiseShards/basic_desert/blob/master/Assets/Shaders/Desert.shader)|[WiseShards](https://github.com/WiseShards/)
+|[Desert](https://github.com/WiseShards/basic_desert/blob/master/Assets/Shaders/Desert.shader)|[WiseShards](https://github.com/WiseShards/)| A desert shader from a procedural desert scene
 
