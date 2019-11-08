@@ -29,7 +29,7 @@
 ## Planet
 * [Procedural Planet Generation](https://github.com/DennisBoon/Procedural_Planet_Generation)
 
-# #Mazes
+## Mazes
 * [3D-Maze-Generator](https://github.com/FergusLeah/3D-Maze-Generator)
 * [UnityMazeGeneration](https://github.com/thederpykleptic/UnityMazeGeneration)
 # Object Placement
