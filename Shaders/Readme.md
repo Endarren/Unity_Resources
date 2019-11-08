@@ -84,9 +84,7 @@ I am thinking about how to organize this page better and I am open to suggestion
 ## Force Field
 * [Force Field FX](https://github.com/vux427/ForceFieldFX)
 
-## Ice
-* [Unity shader tutorial - Creating realistic ice](https://www.youtube.com/watch?v=-z-issgoZ4o)
-* [Ice Shader / Material in Unity](https://www.youtube.com/watch?v=Kdpt-Cev7uM)
+
 # Guides
 * [Unity 5.x Shaders and Effects Cookbook](https://github.com/smkplus/ShaderBooks/blob/master/Unity%205.x%20Shaders%20and%20Effects%20Cookbook.pdf)
 
