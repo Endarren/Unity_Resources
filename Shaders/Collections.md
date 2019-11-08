@@ -13,3 +13,4 @@
 * [Unity Built-in Shaders](https://github.com/cheeseburgames/unity-builtin_shaders)
 
 * [Neitri Unity Shaders](https://github.com/netri/Neitri-Unity-Shaders)
+* [javiersalcedopuyo - Unity 3D Shaders](https://github.com/javiersalcedopuyo/Unity3DShaders)
