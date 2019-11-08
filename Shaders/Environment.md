@@ -55,4 +55,10 @@
 |[Unity Grass Geometry Shader](https://github.com/ValentinGurkov/UnityGrassGeometryShader)|[ValentinGurkov](https://github.com/ValentinGurkov/)
 |[Grass Bending](https://github.com/Elringus/GrassBending)|[Elringus](https://github.com/Elringus)
 
+## Sand
+
+| Name | Source | Description  |
+| --- | --- | --- |
+|[Stylized Sand](https://github.com/danielshervheim/Stylized-Sand-for-Unity)|[danielshervheim](https://github.com/danielshervheim/)|
+|[Desert](https://github.com/WiseShards/basic_desert/blob/master/Assets/Shaders/Desert.shader)|[WiseShards](https://github.com/WiseShards/)
 
