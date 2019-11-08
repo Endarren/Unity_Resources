@@ -17,7 +17,8 @@
 ## General
 * [Mechanics Lab](https://github.com/dpreid/mechanicsLab) - A collection of various effects using physics.  
 
-
+## Gravity
+* [uCUPG](https://github.com/3top1a/uCUPG) - Custom Gravity
 ## Buoyancy
 * [Wave Buoyancy](https://github.com/dbrizov/Unity-WaterBuoyancy)
 * [Crest](https://github.com/crest-ocean/crest) - Crest has some buoyancy functionality.
