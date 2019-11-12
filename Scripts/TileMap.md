@@ -23,3 +23,4 @@
 
 ## Generator
 * [TukanHan - Map Generator](https://github.com/TukanHan/Map-Generator)
+* [Hex Tiles](https://github.com/RoryDungan/HexTiles) - Hex Tile Map Editor.
