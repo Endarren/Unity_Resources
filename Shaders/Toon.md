@@ -7,18 +7,17 @@
 |[Poiyomi Master Toon Shader](https://github.com/poiyomi/PoiyomiToonShader)|[Poiyomi](https://github.com/poiyomi)| VR Chat|
 |[VRC Poiyomi Master Toon Shader](https://github.com/poiyomi/VRC-PoiyomiMasterToonShader)|[Poiyomi](https://github.com/poiyomi)| VR Chat|
 |[Toon-Shader](https://github.com/SnutiHQ/Toon-Shader)|[SnutiHQ](https://github.com/SnutiHQ)| Includes tutorial
+|[Unity Shaders](https://github.com/Xiexe/Xiexes-Unity-Shaders)|[Xiexes](https://github.com/Xiexe)|
+|[Arktoon - Shaders](https://github.com/synqark/Arktoon-Shaders)|[synqark](https://github.com/synqark)|
+|[MToon](https://github.com/Santarh/MToon)|[Santarh](https://github.com/Santarh/)|
+|[HDRP Simple Toon Shader](https://github.com/togucchi/HDRPSimpleToonShader)|[togucchi](https://github.com/togucchi/)|
+|[Toonity](https://github.com/kevinaristotle/Toonity)|[kevinaristotle](https://github.com/kevinaristotle/)|
+|[Flat Toon Shader](https://github.com/Forser/FlatToonShader) |[Forserr](https://github.com/Forser) |
+|[Lilium Toon Graph](https://github.com/you-ri/LiliumToonGraph)|[You-ri](https://github.com/you-ri)|
+|[Unity Toon Shader](https://github.com/JoachimLaviolette/unity-toon-shader)|[JoachimLaviolette](https://github.com/JoachimLaviolette)|
+|[Unity Anime 4K](https://github.com/keijiro/UnityAnime4K/tree/master/Assets/Anime4K/Resources)| [Keijiro](https://github.com/keijiro/)|A shader used for upscaling anime images.
 
-* [Xiexes - Unity Shaders](https://github.com/Xiexe/Xiexes-Unity-Shaders)
-* [Arktoon - Shaders](https://github.com/synqark/Arktoon-Shaders)
 
-
-* [MToon](https://github.com/Santarh/MToon)
-* [HDRP Simple Toon Shader](https://github.com/togucchi/HDRPSimpleToonShader)
-* [Toonity](https://github.com/kevinaristotle/Toonity)
-* [Keijiro - Unity Anime 4K](https://github.com/keijiro/UnityAnime4K/tree/master/Assets/Anime4K/Resources) - A shader used for upscaling anime images.
-* [JoachimLaviolette - Unity Toon Shaer](https://github.com/JoachimLaviolette/unity-toon-shader)
-* [You-ri - Lilium Toon Graph](https://github.com/you-ri/LiliumToonGraph)
-* [Flat Toon Shader](https://github.com/Forser/FlatToonShader) 
 
 # Unity-chan
 * [UnityChanToonShaderVer2 project](https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project) - An offical and more advanced version of Unity-chan shaders and can be used for pretty much any project.
