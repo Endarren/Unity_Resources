@@ -6,7 +6,7 @@
 |[Synergiance Shaders](https://github.com/synergiance/Synergiance-Shaders-For-Unity) |[Synergiance](https://github.com/synergiance) |Miku Miku Dance |
 |[Poiyomi Master Toon Shader](https://github.com/poiyomi/PoiyomiToonShader)|[Poiyomi](https://github.com/poiyomi)| VR Chat|
 |[VRC Poiyomi Master Toon Shader](https://github.com/poiyomi/VRC-PoiyomiMasterToonShader)|[Poiyomi](https://github.com/poiyomi)| VR Chat|
-
+|[Toon-Shader](https://github.com/SnutiHQ/Toon-Shader)|[SnutiHQ](https://github.com/SnutiHQ)| Includes tutorial
 
 * [Xiexes - Unity Shaders](https://github.com/Xiexe/Xiexes-Unity-Shaders)
 * [Arktoon - Shaders](https://github.com/synqark/Arktoon-Shaders)
