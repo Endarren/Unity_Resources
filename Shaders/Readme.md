@@ -28,6 +28,8 @@ I am thinking about how to organize this page better and I am open to suggestion
 * [Black Hole Shader](https://github.com/conjLob/BlackHoleShader)
 * [Image Ultra](https://github.com/daniel-ilett/image-ultra) - Image Effects
 * [Chinese Painting Demo](https://github.com/Hengle/ChinesePaintingDemo)
+
+* [BluePrint Shader](https://github.com/IRCSS/BluePrintShader) - Similar to a shader to outlining an object, but with more to it.
 # Edge Detection
 * [Contour Line Filter](https://github.com/keijiro/KinoContour)
 # Heat Map
