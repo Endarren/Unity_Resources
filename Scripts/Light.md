@@ -18,3 +18,4 @@
 |[Lightflood](https://github.com/huwb/lightflood)|[huwb](https://github.com/huwb)|
 |[Cinelights](https://github.com/laurenth-unity/Cinelights)|[laurenth-unity](https://github.com/laurenth-unity/)
 |[Unity Light Animation Script](https://github.com/LinaAdkins/UnityLightAnimationScript)|[LinaAdkins](https://github.com/LinaAdkins)
+|[LightLeaksUnity](https://github.com/danielzeller/LightLeaksUnity)|[danielzeller](https://github.com/danielzeller)|
