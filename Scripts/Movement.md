@@ -34,7 +34,9 @@
 * [C# Character Motor](https://gist.github.com/zephjc/5641540)
 * [SuperCharacterController](https://github.com/IronWarrior/SuperCharacterController) - Archieved and no longer updated.
 * [UNet Controller](https://github.com/Heep042/UNet-Controller) - Network version of Character Controller.
+## 2D Code
 
+* [Prime31 - CharacterController2D](https://github.com/prime31/CharacterController2D)
 ## Articles
 * [Object Push Character Controller](https://answers.unity.com/questions/502798/object-push-character-controller.html)
 * [Controller Move Doesn't stay grouned when walking down a slope](https://answers.unity.com/questions/388137/controllermove-doesnt-stay-grounded-when-walking-d.html)
