@@ -39,6 +39,7 @@
 |[Ice](https://github.com/javiersalcedopuyo/Unity3DShaders/blob/master/ice.shader)|[javiersalcedopuyo](https://github.com/javiersalcedopuyo)| Shader File
 |[Deformable Snow](https://github.com/thnewlands/unity-deformablesnow)|[thnewlands](https://github.com/thnewlands)|
 |[Deep Snow Footprint](https://github.com/ZGeng/DeepSnowFootprint)|[ZGeng](https://github.com/ZGeng)
+|[Snow Shader](https://github.com/CalChiu/SnowShader)|[CalChiu](https://github.com/CalChiu/)|
 
 # Sky
 * [NVJOB Sky Shader simple and Fast](https://github.com/nvjob/NVJOB-Sky-Shader-simple-and-fast)
