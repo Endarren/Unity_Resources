@@ -66,11 +66,6 @@
 ## Car Movement
 * [Tork](https://github.com/adrenak/Tork)
 * [Arcade Vehicle Physics](https://github.com/benmcinnes/ArcadeVehiclePhysics)
-## Aircraft Movement
-### Code
-* [Base Helicopter Controller](https://github.com/suncube/Base-Helicopter-Controller)
-### Articles
-* [Controlling Pitch, Yaw, and Roll](https://www.gamedev.net/forums/topic/668911-controlling-pitch-yaw-and-roll-of-an-airplane/)
 
 # PathFinding (Not Built-in Unity NavMesh)
 * [Pathfinding concept, the basic](http://mgrenier.me/2011/06/pathfinding-concept-the-basics/)
