@@ -21,12 +21,8 @@
 * [Kultie - Unity ECS Steering Behavior](https://github.com/kultie/Unity-ECS-SteeringBehavior) - An implementation of steering behavior that uses the ECS.  Still underwork.
 ## Articles
 * [Understanding Steering Behaviors](https://gamedevelopment.tutsplus.com/series/understanding-steering-behaviors--gamedev-12732)
-
 * [How to Implement a Pathfinding with cocos2d Tutorial](https://www.raywenderlich.com/4970/how-to-implement-a-pathfinding-with-cocos2d-tutorial)
-
 * [How to Speed up Pathfinding with jump point search algorithm](https://gamedevelopment.tutsplus.com/tutorials/how-to-speed-up-a-pathfinding-with-the-jump-point-search-algorithm--gamedev-5818)
-
-
 
 # Character Controller
 
@@ -60,12 +56,6 @@
 * [Player Rigidbody slider off moving platform](https://answers.unity.com/questions/1040978/player-rigidbody-slides-off-moving-platform.html)
 * [Change rigidbodys jump speed](https://answers.unity.com/questions/499834/change-rigidbodys-jumping-speed.html)
 
-# Vehicles
-
-* [Randomation Vehicle Physics](https://github.com/JustInvoke/Randomation-Vehicle-Physics)
-## Car Movement
-* [Tork](https://github.com/adrenak/Tork)
-* [Arcade Vehicle Physics](https://github.com/benmcinnes/ArcadeVehiclePhysics)
 
 # PathFinding (Not Built-in Unity NavMesh)
 * [Pathfinding concept, the basic](http://mgrenier.me/2011/06/pathfinding-concept-the-basics/)
