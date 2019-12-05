@@ -5,19 +5,19 @@
 | --- | --- | --- |
 |[2D Water Shader](https://github.com/real-marco-b/unity-water-shader2d)|[real marco b](https://github.com/real-marco-b)|
 |[Reflective Transparent Water](https://laboratoriesx86.wordpress.com/2014/05/02/shader-reflective-transparent-water-like-unity-indie/) |[IMGVERTEX](https://laboratoriesx86.wordpress.com/author/tntsparx/) | Article with code.
-|[Low poly Water](https://github.com/maxwerhahn/Lowpoly-water-for-Unity)|[maxwerhahn](https://github.com/maxwerhahn)|
-|[NVJOB Water Shader](https://github.com/nvjob/NVJOB-Water-Shader-simple-and-fast)|[NVJOB](https://github.com/nvjob)|
+|[Low poly Water](https://github.com/maxwerhahn/Lowpoly-water-for-Unity)|[maxwerhahn](https://github.com/maxwerhahn)|![W](https://github.com/sc2insane/Lowpoly-water-for-Unity/raw/master/Gifs/lowpolywater.gif "")
+|[NVJOB Water Shader](https://github.com/nvjob/NVJOB-Water-Shader-simple-and-fast)|[NVJOB](https://github.com/nvjob)|![T](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/water%20shader%20saf%20sr/144/pic/1.gif "")
 |[NVJOB Water Shader - Old](https://github.com/nvjob/NVJOB-Water-Shader-old-versions)|[NVJOB](https://github.com/nvjob)|
-|[Unity Water Surface](https://github.com/hecomi/UnityWaterSurface)|[hecomi](https://github.com/hecomi)
-|[Optically Realistic Water](https://github.com/muckSponge/Optically-Realistic-Water)|[muckSponge](https://github.com/muckSponge)|
-|[Toon Water Shader](https://github.com/IronWarrior/ToonWaterShader)|[IronWarrior](https://github.com/IronWarrior)
+|[Unity Water Surface](https://github.com/hecomi/UnityWaterSurface)|[hecomi](https://github.com/hecomi)|![T](https://raw.githubusercontent.com/wiki/hecomi/UnityWaterSurface/wave.gif "")
+|[Optically Realistic Water](https://github.com/muckSponge/Optically-Realistic-Water)|[muckSponge](https://github.com/muckSponge)|![T](https://user-images.githubusercontent.com/5405629/47149964-7a570800-d318-11e8-9420-74cf4619b35e.jpg "")
+|[Toon Water Shader](https://github.com/IronWarrior/ToonWaterShader)|[IronWarrior](https://github.com/IronWarrior)|![T](https://camo.githubusercontent.com/c82a2930992e710fdcc1405abff752b15d7fbe4f/68747470733a2f2f692e696d6775722e636f6d2f736b50417a627a2e706e67 "")
 
 
 ## Ripples and Waves
 | Name | Source | Description  |
 | --- | --- | --- |
 |[Simple Water Ripple](https://forum.unity.com/threads/simple-water-ripple-shader.246961/)| [Forum.unity.com](https://forum.unity.com/)| Forum post.
-|[Unity Wave Equation](https://github.com/AsehesL/UnityWaveEquation)| [AsehesL](https://github.com/AsehesL)| Nice effect with moving objects.  Written in Japanese.
+|[Unity Wave Equation](https://github.com/AsehesL/UnityWaveEquation)| [AsehesL](https://github.com/AsehesL)| Nice effect with moving objects.  Written in Japanese. ![T](https://github.com/AsehesL/UnityWaveEquation/blob/master/Doc/preview1.gif "")
 |[Wave Propagation Water Ripple](https://github.com/ya7gisa0/Unity-Wave-Propagation-Water-Ripple)|[ya7gisa0](https://github.com/ya7gisa0)| Seems to work, but project appears inactive.
 
 
