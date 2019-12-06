@@ -46,8 +46,8 @@
 |[Procedural Terrain Generator](https://github.com/CyanCode/Procedural-Terrain-Generator)|[CyanCode](https://github.com/CyanCode)|Unity Terrain
 |[Unity Automatic Terrain Generation](https://github.com/aiczk/Unity-Automatic-terrain-generation)|[aiczk](https://github.com/aiczk)|Unity Terrain
 |[Real time Terrain](https://github.com/alphaxaon/RealtimeTerrain)|[alphaxaon](https://github.com/alphaxaon/)|Unity Terrain
-|[Custom Mesh Based Terrain Generation](https://github.com/CaptinBata/Custom-Mesh-based-Terrain-Generation)|[CaptinBata](https://github.com/CaptinBata)
-|[ProceduralTerrain](https://github.com/davidbmadsen/ProceduralTerrain)|[davidbmadsen](https://github.com/davidbmadsen/)
+|[Custom Mesh Based Terrain Generation](https://github.com/CaptinBata/Custom-Mesh-based-Terrain-Generation)|[CaptinBata](https://github.com/CaptinBata)|Unity Terrain
+|[ProceduralTerrain](https://github.com/davidbmadsen/ProceduralTerrain)|[davidbmadsen](https://github.com/davidbmadsen/)|Unity Terrain
 
 ## Foliage
 * [Enhanced Foliage](https://github.com/marmitaTH/unity-enhanced-foliage)
