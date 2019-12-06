@@ -14,7 +14,7 @@
 |[Unity Flight Module](https://github.com/paulgswanson/UnityFlightModule)|[paulgswanson](https://github.com/paulgswanson)| Simple physics based flight module.
 |[AirctaftSim](https://github.com/Denrah/AirctaftSim)|[Denrah](https://github.com/Denrah)|
 |[Base Helicopter Controller](https://github.com/suncube/Base-Helicopter-Controller)|[suncube](https://github.com/suncube)| Helicopter
-
+|[HelicopterController](https://github.com/salehshafi/Helicopter-FPS-Shooter/blob/master/GunshipMissionTask/Assets/Scripts/HelicopterController.cs)|[salehshafi](https://github.com/salehshafi)
 ## Articles
 * [Controlling Pitch, Yaw, and Roll](https://www.gamedev.net/forums/topic/668911-controlling-pitch-yaw-and-roll-of-an-airplane/)
 # Ship
