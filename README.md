@@ -1,6 +1,8 @@
 # Unity_Resources
 This repository holds links to articles, tutorials, and code that I have found helpful while working on the Unity engine or that I have found while doing research.  I will try to keep this repository updated as often as I can.  I hope you find something here helpful for whatever you are working on.  If you have any suggestions, please post them as an Issue and I will look into them.  You can also submit suggestions as Pull Requests.  Because of the amount of items, I am breaking the lists into multiple pages.
 
+Thank you for all the stars!  I am happy that people were able to find this repository helpful.
+
 # Table of Contents
 - [Tutorial Sites](https://github.com/Endarren/Unity_Resources/tree/master/Tutorials) - Various tutorial sites.  Including Video, Text, and Project formats.
 - [Scripts](https://github.com/Endarren/Unity_Resources/tree/master/Scripts) - Scripts from various sources that have been useful.  
