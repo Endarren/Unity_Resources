@@ -67,3 +67,8 @@
 |[Stylized Sand](https://github.com/danielshervheim/Stylized-Sand-for-Unity)|[danielshervheim](https://github.com/danielshervheim/)|
 |[Desert](https://github.com/WiseShards/basic_desert/blob/master/Assets/Shaders/Desert.shader)|[WiseShards](https://github.com/WiseShards/)| A desert shader from a procedural desert scene
 
+## Lava
+
+| Name | Source | Description  |
+| --- | --- | --- |
+|[Unity Lava Shader](https://github.com/aku-dev/UnityLavaShader)|[](https://github.com/aku-dev/)
