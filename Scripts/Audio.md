@@ -7,5 +7,7 @@
 
 * [Lip Sync Lite](https://github.com/larrymario/LipSyncLite)
 
+* [Unity Audio Meters](https://github.com/EcraxOfficial/Unity-AudioMeters)
+
 # Audio Pool
 * [Soundkraft](https://github.com/Kodhan/Soundkraft)
