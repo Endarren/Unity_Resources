@@ -16,6 +16,10 @@
 # Replacements
 * [ColorBands](https://github.com/rstecca/ColorBands) - Improved version of Gradient.
 
+# Plug ins
+
+* [Unity Compact Field Attribute](https://github.com/AnomalousUnderdog/UnityCompactFieldAttribute) - Allows each property label to have its own width.
+
 # Libraries
 
 * [Unity Editor Toolbox](https://github.com/arimger/Unity-Editor-Toolbox)
