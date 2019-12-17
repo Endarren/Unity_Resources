@@ -1,5 +1,7 @@
 # Water
 * [Crest](https://github.com/crest-ocean/crest/tree/master/crest/Assets/Crest/Crest/Shaders) - The Crest Ocean project has some water shaders.
+
+* [Water Resources](https://github.com/crest-ocean/water-resources)
 ## Surface
 | Name | Source | Description  |
 | --- | --- | --- |
