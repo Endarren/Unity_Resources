@@ -1,5 +1,7 @@
 # Facebook
 * [Facebook SDK](https://github.com/facebook/facebook-sdk-for-unity)
+* [FriendSmash](https://github.com/facebookarchive/friendsmash-unity) - Archived
+* [cmlewis89 - FriendSmash](https://github.com/cmlewis89/friendsmash-unity)
 # Twitter
 * [Twity](https://github.com/toofusan/Twity)
 
