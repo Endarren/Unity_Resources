@@ -7,6 +7,8 @@
 * [Unity Utilities](https://github.com/LifeandStyleMedia/UnityUtilities)
 
 * [Simultaneous Equations Solver](https://github.com/IRCSS/simultaneous-equations-solver)
+* [Unity 3D Curves](https://github.com/gabrielgiordan/unity3d-curves)
+
 # Random
 
 * [Weighted Random](https://github.com/m3rt32/WeightedRandom)
