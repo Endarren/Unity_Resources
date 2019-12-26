@@ -30,9 +30,9 @@
 
 ## Line Renderer
 * [Unity Draw Line](https://github.com/mitsuyacider/UnityDrawLine) Can be used to create a radar like effect.
-
 * [Easy Curved Line](https://github.com/gpvigano/EasyCurvedLine) - Easy rendering and editing of curved lines.
 * [Parabola](https://github.com/KimHeeRyeong/Parabola)
+* [ECS LineRenderer](https://github.com/5argon/ECSLineRenderer)
 
 ## Portal
 * [Unity Portal Rendering](https://github.com/pr0g/unity-portal-rendering)
