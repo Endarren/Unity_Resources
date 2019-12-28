@@ -32,11 +32,6 @@
 
 * [Unity Splatter Effect](https://github.com/axelbjornsson/UnitySplatterEffect)
 
-## Line Renderer
-* [Unity Draw Line](https://github.com/mitsuyacider/UnityDrawLine) Can be used to create a radar like effect.
-* [Easy Curved Line](https://github.com/gpvigano/EasyCurvedLine) - Easy rendering and editing of curved lines.
-* [Parabola](https://github.com/KimHeeRyeong/Parabola)
-* [ECS LineRenderer](https://github.com/5argon/ECSLineRenderer)
 
 ## Portal
 * [Unity Portal Rendering](https://github.com/pr0g/unity-portal-rendering)
@@ -59,12 +54,18 @@
 
 * [Fractal Lightning](https://github.com/noobdawn/Fractal-Lightning-Unity)
 * [willFederer- Lightning Rendering](https://github.com/willFederer/LightningRendering)
+# Lines
 
-## Lines and Curves
+### Line Renderer
+* [Unity Draw Line](https://github.com/mitsuyacider/UnityDrawLine) Can be used to create a radar like effect.
+* [Easy Curved Line](https://github.com/gpvigano/EasyCurvedLine) - Easy rendering and editing of curved lines.
+* [Parabola](https://github.com/KimHeeRyeong/Parabola)
+* [ECS LineRenderer](https://github.com/5argon/ECSLineRenderer)
+### Lines and Curves
 * [Bezier Laser](https://github.com/sunduk/BezierLaser)
 * [UnityFoggyBoundary](https://github.com/vdvman1/UnityFoggyBoundary)
 
-## Lightsaber / Beamsaber
+### Lightsaber / Beamsaber
 * [Unity Laser Lines](https://github.com/williamrjackson/UnityLaserLines)
 * [Lightbar Unity](https://github.com/maydinunlu/lightbar-unity)
 * [Lightsabers Tutorial](https://github.com/Roland09/Lightsabers-Tutorial)
