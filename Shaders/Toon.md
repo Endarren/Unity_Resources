@@ -1,7 +1,7 @@
 # Basic Toon Shaders
 
 | Name | Source | Description  | Sample|
-| --- | --- | --- | ---|
+| --- | :---: | --- | ---|
 |[Unity Arc System Works Shader](https://github.com/Aerthas/UNITY-Arc-system-Works-Shader) | [Aerthas](https://github.com/Aerthas/UNITY-Arc-system-Works-Shader)| Similar to Guilty Gear and Dragon Ball FighterZ
 |[Breathe of the Wild Toon Shader](https://github.com/ciro-unity/BotW-ToonShader) |[ciro-unity](https://github.com/ciro-unity) | Breathe of the Wild |<img src="https://camo.githubusercontent.com/f703f6fb5130d8bd4606d6f0cf8f8bbc80c4f1a9/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f45463838385334576b4145306559383f666f726d61743d6a7067266e616d653d343039367834303936" width="300" height="103" />
 |[Unity Toon Shader](https://github.com/Sorumi/UnityToonShader) |[Sorumi](https://github.com/Sorumi) |http://sorumi.xyz/posts/unity-toon-shader/ |<img src="https://github.com/Sorumi/UnityToonShader/blob/master/Docs/ToonShader.png" width="300" height="103" />
@@ -17,6 +17,7 @@
 |[Flat Toon Shader](https://github.com/Forser/FlatToonShader) |[Forserr](https://github.com/Forser) ||<img src="https://github.com/Forser/FlatToonShader/blob/master/Media/Unlit_Shadowed_thumb.png" width="200" height="300" />
 |[Lilium Toon Graph](https://github.com/you-ri/LiliumToonGraph)|[You-ri](https://github.com/you-ri)||<img src="https://camo.githubusercontent.com/afd2b66494a14b856834b1659b2f89b02a9211b3/68747470733a2f2f692e696d6775722e636f6d2f757663364377582e676966" width="300" height="200" />
 |[Unity Toon Shader](https://github.com/JoachimLaviolette/unity-toon-shader)|[JoachimLaviolette](https://github.com/JoachimLaviolette)|
+|[Cel Shader](https://github.com/zloedi/cel_shader)| [zloedi](https://github.com/zloedi)|Intended for mobile|<img src="http://i.imgur.com/zrVYqJJ.png" width="300" height="200" />
 |[Unity Anime 4K](https://github.com/keijiro/UnityAnime4K/tree/master/Assets/Anime4K/Resources)| [Keijiro](https://github.com/keijiro/)|A shader used for upscaling anime images.
 
 
