@@ -67,7 +67,6 @@
 ## Lightsaber / Beamsaber
 * [Unity Laser Lines](https://github.com/williamrjackson/UnityLaserLines)
 * [Lightbar Unity](https://github.com/maydinunlu/lightbar-unity)
-* [Unity Lightsaber](https://github.com/jjxtra/UnityLightsaber)
 * [Lightsabers Tutorial](https://github.com/Roland09/Lightsabers-Tutorial)
 * [VRTK 3Lightsabers Training](https://github.com/pickettd/vrtk3-lightsaber-training)
 * [Unity Laser Sword](https://github.com/jjxtra/UnityLaserSword)
