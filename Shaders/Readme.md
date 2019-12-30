@@ -30,6 +30,7 @@ I am thinking about how to organize this page better and I am open to suggestion
 * [Chinese Painting Demo](https://github.com/Hengle/ChinesePaintingDemo)
 
 * [BluePrint Shader](https://github.com/IRCSS/BluePrintShader) - Similar to a shader to outlining an object, but with more to it.
+* [3D X-Ray Shader](https://github.com/MdIqubal/3DXRayShader_Unity)
 # Edge Detection
 * [Contour Line Filter](https://github.com/keijiro/KinoContour)
 # Heat Map
