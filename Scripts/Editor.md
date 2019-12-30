@@ -13,6 +13,10 @@
 
 * [Reorderable Inspector](https://github.com/SubjectNerd-Unity/ReorderableInspector)
 
+# Tools
+
+* [Unity Curvers](https://github.com/jeffcampbellmakesgames/unity-curves) - Bezier curve editor tool.
+
 # Replacements
 * [ColorBands](https://github.com/rstecca/ColorBands) - Improved version of Gradient.
 
