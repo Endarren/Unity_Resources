@@ -62,3 +62,7 @@ This website has a few tutorial series that are pretty informative.
 - This is not a Unity tutorial, but the basic principles are the same.
 
 * [Leveraging Unity and Unreal](https://github.com/stricmp/leveraging-unity-and-unreal-engine)
+
+
+#### [Reese Schultz](https://reeseschultz.com/)
+
