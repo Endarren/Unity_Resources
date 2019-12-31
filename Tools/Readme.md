@@ -56,3 +56,5 @@
 
 * [Unitycoder - Unity Level Design Toolkit](https://github.com/unitycoder/UnityLevelDesignToolkit)
 
+* [De-Lighting Tool](https://github.com/Unity-Technologies/DeLightingTool) - Used to remove lighting information from textures.
+
