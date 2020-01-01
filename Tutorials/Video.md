@@ -199,6 +199,12 @@ Source code for tutorials can be found [here](https://github.com/SebLague)
 
 * [Strategy Games](https://www.youtube.com/watch?v=_FqTQZY3qZo&list=PLcGWkWha2wFd5Azr14ZJjvfnAmUKM_3E7)
 
+### [Mix and Jam ](https://www.youtube.com/channel/UCLyVUwlB_Hahir_VsKkGPIA)
+
+### [The Art of Code](https://www.youtube.com/channel/UCcAlTqd9zID6aNX3TzwxJXg)
+
+### [Makin' Stuff Look Good](https://www.youtube.com/channel/UCEklP9iLcpExB8vp_fWQseg)
+
 ### Other
 
 * [Beaver Joe](https://github.com/zheyuanzhou/Youtube-Unity-Tutorial)
