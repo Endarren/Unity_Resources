@@ -204,7 +204,9 @@ Source code for tutorials can be found [here](https://github.com/SebLague)
 ### [The Art of Code](https://www.youtube.com/channel/UCcAlTqd9zID6aNX3TzwxJXg)
 
 ### [Makin' Stuff Look Good](https://www.youtube.com/channel/UCEklP9iLcpExB8vp_fWQseg)
-
+### [Emerald Powder](https://www.youtube.com/channel/UC6wnai488mwec_FUVfdl84w) - Russian
 ### Other
 
 * [Beaver Joe](https://github.com/zheyuanzhou/Youtube-Unity-Tutorial)
+
+
