@@ -12,6 +12,8 @@
 * [Siccity - Dialogue](https://github.com/Siccity/Dialogue) - Node-based dialogue.
 * [Dialog Node Editor](https://github.com/alee12131415/Dialog-Node-Editor)
 
+* [Fluid Dialogue](https://github.com/ashblue/fluid-dialogue)
+
 # Visual Novel
 
 * [DEVN Dialogue Editor](https://github.com/DillonHandyside/DEVN-DialogueEditorForVisualNovels)
