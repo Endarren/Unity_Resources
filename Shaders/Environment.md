@@ -13,6 +13,8 @@
 |[Unity Water Surface](https://github.com/hecomi/UnityWaterSurface)|[hecomi](https://github.com/hecomi)||<img src="https://raw.githubusercontent.com/wiki/hecomi/UnityWaterSurface/wave.gif" width="300" height="200" />
 |[Optically Realistic Water](https://github.com/muckSponge/Optically-Realistic-Water)|[muckSponge](https://github.com/muckSponge)||<img src="https://user-images.githubusercontent.com/5405629/47149964-7a570800-d318-11e8-9420-74cf4619b35e.jpg" width="300" height="200" />
 |[Toon Water Shader](https://github.com/IronWarrior/ToonWaterShader)|[IronWarrior](https://github.com/IronWarrior)||<img src="https://camo.githubusercontent.com/c82a2930992e710fdcc1405abff752b15d7fbe4f/68747470733a2f2f692e696d6775722e636f6d2f736b50417a627a2e706e67" width="300" height="200" />
+|[Universal Ocean Shader Graph](https://github.com/simplestargame/UniversalOceanShaderGraph)|[simplestargame](https://github.com/simplestargame/)||<img src="https://raw.githubusercontent.com/simplestargame/UniversalOceanShaderGraph/master/Readme/universalocean.jpg" width="300" height="200" />
+
 
 
 ## Ripples and Waves
