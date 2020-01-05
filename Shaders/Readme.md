@@ -1,5 +1,8 @@
 ## Table of Contents
 [Environment](https://github.com/Endarren/Unity_Resources/blob/master/Shaders/Environment.md)
+[Holographic](https://github.com/Endarren/Unity_Resources/blob/master/Shaders/Holographic.md)
+[Toon](https://github.com/Endarren/Unity_Resources/blob/master/Shaders/Toon.md)
+[Fur](https://github.com/Endarren/Unity_Resources/blob/master/Shaders/Fur.md)
 
 
 I am thinking about how to organize this page better and I am open to suggestions.
