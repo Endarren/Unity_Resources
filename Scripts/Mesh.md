@@ -7,6 +7,8 @@
 
 * [Mesh Boolean](https://github.com/KaimaChen/MeshBoolean)
 
+* [Piranha](https://github.com/keenanwoodall/Piranha) - Causes rigidbodies to swarm a mesh.
+
 # Mesh Deforming
 * [Deform](https://github.com/keenanwoodall/Deform)
 * [keenanwoodall - Deform Prototype](https://github.com/keenanwoodall/Deform-Prototype)
