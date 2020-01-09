@@ -12,6 +12,8 @@
 * [Basic IK Tutorial](https://www.youtube.com/watch?v=6UgB7TMk3Bg)
 * [SA Full Body IK](https://github.com/Stereoarts/SAFullBodyIK)
 * [ehsan-mohammadi - Aim-IK](https://github.com/ehsan-mohammadi/Aim-IK) - Head and chest aiming without animation data.
+* [Unity Humanoid Transport Objects](https://github.com/mariusrubo/Unity-Humanoid-TransportObjects)
+
 
 ## Animation Masks
 * [Creating Animation Layers and Masks in Unity 5](https://www.youtube.com/watch?v=-SAnr8-Xfgg)
