@@ -15,7 +15,7 @@
 |[Toon Water Shader](https://github.com/IronWarrior/ToonWaterShader)|[IronWarrior](https://github.com/IronWarrior)||<img src="https://camo.githubusercontent.com/c82a2930992e710fdcc1405abff752b15d7fbe4f/68747470733a2f2f692e696d6775722e636f6d2f736b50417a627a2e706e67" width="300" height="200" />
 |[Universal Ocean Shader Graph](https://github.com/simplestargame/UniversalOceanShaderGraph)|[simplestargame](https://github.com/simplestargame/)||<img src="https://raw.githubusercontent.com/simplestargame/UniversalOceanShaderGraph/master/Readme/universalocean.jpg" width="300" height="200" />
 |[Procedural Water](https://github.com/jklintan/Procedural-Water)|[jklintan](https://github.com/jklintan)||<img src="https://raw.githubusercontent.com/jklintan/Procedural-Water/master/images/heightFoam.PNG" width="300" height="200" />
-
+|[Unity Ocean Water](https://github.com/EricHu33/UnityOceanWater)|[EricHu33](https://github.com/EricHu33)||<img src="https://user-images.githubusercontent.com/13420668/72254000-d274db00-363d-11ea-93dc-59b39862e64c.gif" width="300" height="200" />
 
 ## Ripples and Waves
 | Name | Source | Description  | 
