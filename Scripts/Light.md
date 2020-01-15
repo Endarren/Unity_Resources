@@ -1,3 +1,5 @@
+* [Nigiri](https://github.com/ninlilizi/Nigiri) - Global Illumination system.  Work in progress.
+
 # Volumetric Light
 | Name | Source | Description | 
 | --- | --- | --- |
