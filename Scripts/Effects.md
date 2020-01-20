@@ -31,7 +31,7 @@
 ## Decal/ Splat
 
 * [Unity Splatter Effect](https://github.com/axelbjornsson/UnitySplatterEffect)
-
+* [Decals Demo](https://github.com/stefanvelnita/Decals-Demo)
 
 ## Portal
 * [Unity Portal Rendering](https://github.com/pr0g/unity-portal-rendering)
