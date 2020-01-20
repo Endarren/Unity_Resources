@@ -71,6 +71,7 @@ Here are some game projects that are underwork in Unity.
 * [Prosperity Wars](https://github.com/Nashet/Prosperity-Wars)
 * [Unity SimCity](https://github.com/geronimo-lisboa/unity-simcity)
 * [City Builder](https://github.com/pepeizq/City-Builder)
+* [SimUnity 2](https://github.com/LazyDuchess/SimUnity2)
 
 # Arcade
 
