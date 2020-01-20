@@ -11,7 +11,9 @@
 * [Calculate difference between two dates in number of days](https://stackoverflow.com/questions/1607336/calculate-difference-between-two-dates-number-of-days)
 # Func
 * [Using func delegate with async method](https://stackoverflow.com/questions/37280405/using-func-delegate-with-async-method)
+# Extensions
 
+* [Endarren - ListExtension](https://github.com/Endarren/ListExtension)
 # Regex
 * [Regexone](https://regexone.com/references/csharp) - A tutorial with lessons on using Regex.
 * [Regex Tester](http://regexstorm.net/tester) - Lets you regex patterns.
