@@ -52,6 +52,7 @@
 ## Clouds
 
 * [Volume Cloud](https://github.com/yangrc1234/VolumeCloud)
+* [kode80 Cloud Unity](https://github.com/kode80/kode80CloudsUnity3D) - For non-commercial use only.  A commercial version may become avaliable at http://kode80.com/blog/
 ## Fog
 
 * [SiiMeR - Unity Volumetric Fog](https://github.com/SiiMeR/unity-volumetric-fog)
