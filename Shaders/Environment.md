@@ -18,10 +18,10 @@
 |[Unity Ocean Water](https://github.com/EricHu33/UnityOceanWater)|[EricHu33](https://github.com/EricHu33)||<img src="https://user-images.githubusercontent.com/13420668/72254000-d274db00-363d-11ea-93dc-59b39862e64c.gif" width="300" height="200" />
 
 ## Ripples and Waves
-| Name | Source | Description  | 
-| --- | --- | --- |
+| Name | Source | Description  | Sample |
+| --- | --- | --- |--- |
 |[Simple Water Ripple](https://forum.unity.com/threads/simple-water-ripple-shader.246961/)| [Forum.unity.com](https://forum.unity.com/)| Forum post.
-|[Unity Wave Equation](https://github.com/AsehesL/UnityWaveEquation)| [AsehesL](https://github.com/AsehesL)| Nice effect with moving objects.  Written in Japanese. ![T](https://github.com/AsehesL/UnityWaveEquation/blob/master/Doc/preview1.gif "")
+|[Unity Wave Equation](https://github.com/AsehesL/UnityWaveEquation)| [AsehesL](https://github.com/AsehesL)| Nice effect with moving objects.  Written in Japanese.|<img src="https://github.com/AsehesL/UnityWaveEquation/blob/master/Doc/preview1.gif" width="300" height="300" /> 
 |[Wave Propagation Water Ripple](https://github.com/ya7gisa0/Unity-Wave-Propagation-Water-Ripple)|[ya7gisa0](https://github.com/ya7gisa0)| Seems to work, but project appears inactive.
 
 
