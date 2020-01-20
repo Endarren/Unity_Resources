@@ -52,7 +52,7 @@
 ## Code
 * [QuickUnityTools - PhysicsMovement](https://github.com/adamgryu/QuickUnityTools/tree/master/Scripts/Physics)
 * [Open Player Controller](https://github.com/ElmarTalibzade/OpenPlayerController)
-
+* [FPS Movement Rigidbody](https://github.com/DaniDevy/FPS_Movement_Rigidbody)
 ## Articles
 * [Getting the player to move with platform: Velocity, DistanceJoint](https://answers.unity.com/questions/805683/how-can-i-get-my-player-to-move-with-the-platform.html)
 * [Player Rigidbody slider off moving platform](https://answers.unity.com/questions/1040978/player-rigidbody-slides-off-moving-platform.html)
