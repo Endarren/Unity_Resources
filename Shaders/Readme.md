@@ -53,6 +53,9 @@ I am thinking about how to organize this page better and I am open to suggestion
 # Parallax
 * [Alan Zucconi - Parallax Shader](https://www.alanzucconi.com/2019/01/01/parallax-shader/)
 
+# Skin
+
+* [Skin Shader](https://github.com/douduck08/Unity-SkinShader)
 
 # Post Processing
 * [Unity Post Processing Effects Plus](https://github.com/ExpressoBits/UPPE-Plus)
