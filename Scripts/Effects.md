@@ -9,7 +9,7 @@
 * [Spektr Lightning](https://github.com/keijiro/SpektrLightning)
 * [Kawase Light Streak](https://github.com/nobnak/KawaseLightStreakUnity)
 * [Mirror Reflection](https://github.com/fuqunaga/MirrorReflection)
-
+* [Cone of Sight FX](https://github.com/joscanper/unity_coneofsightfx)
 # People
 [Keijiro](https://github.com/keijiro) A github user who has made several interesting effects in Unity.
 [Alan Zucconi](https://www.alanzucconi.com/) - Has blog posts on effects, mostly involving shaders.
