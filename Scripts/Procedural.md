@@ -36,3 +36,13 @@
 * [Photosynthesizer](https://github.com/alexismorin/Photosynthesizer) - Procedural sprout foliage in a scene.
 
 
+# Methods
+
+## Wave Function Collapse
+
+### Articles
+* [The Wavefunction Collapse Algorithm Explained Very Clearly](https://robertheaton.com/2018/12/17/wavefunction-collapse-algorithm/)
+
+### Examples
+* [wave function collapse](https://github.com/marian42/wavefunctioncollapse) - infinite, procedurally generated city.
+* [Unity Wave Function Collapse 3D](https://github.com/oddmax/unity-wave-function-collapse-3d)
