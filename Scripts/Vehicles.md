@@ -10,7 +10,7 @@
 # Hover
 | Name | Source | Description  |
 | --- | --- | --- | 
-|[Hover Racer Training](https://github.com/pale-cinder/hover-racer-training)|Hover car racing|
+|[Hover Racer Training](https://github.com/pale-cinder/hover-racer-training)|[pale-cinder](https://github.com/pale-cinder)|Hover car racing|
 
 # Aircraft
 | Name | Source | Description  |
