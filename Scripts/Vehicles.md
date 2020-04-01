@@ -7,6 +7,10 @@
 |[Tork](https://github.com/adrenak/Tork)|[adrenak](https://github.com/adrenak)|
 |[Arcade Vehicle Physics](https://github.com/benmcinnes/ArcadeVehiclePhysics)|[benmcinnes](https://github.com/benmcinnes)|
 |[Realistic Car Controller](https://assetstore.unity.com/packages/tools/physics/realistic-car-controller-16296)|[bonecrackergames](http://www.bonecrackergames.com/realistic-car-controller/)| Premium Asset
+# Hover
+| Name | Source | Description  |
+| --- | --- | --- | 
+|[Hover Racer Training](https://github.com/pale-cinder/hover-racer-training)|Hover car racing|
 
 # Aircraft
 | Name | Source | Description  |
