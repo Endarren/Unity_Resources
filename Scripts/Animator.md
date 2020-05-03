@@ -20,7 +20,7 @@
 ## State Machine Behaviour
 * [Repurpose Animator for Finite State Machines](https://medium.com/the-unity-developers-handbook/dont-re-invent-finite-state-machines-how-to-repurpose-unity-s-animator-7c6c421e5785)
 
-# Live2D (L2D)
+# [Live2D (L2D)](https://en.wikipedia.org/wiki/Live2D)
 
 * [Cubism Framework CS](https://github.com/Nkyoku/CubismFrameworkCS)
 * [Live2D Lighting](https://github.com/DenchiSoft/Live2DLighting)
