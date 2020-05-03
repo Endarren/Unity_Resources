@@ -19,3 +19,12 @@
 * [Creating Animation Layers and Masks in Unity 5](https://www.youtube.com/watch?v=-SAnr8-Xfgg)
 ## State Machine Behaviour
 * [Repurpose Animator for Finite State Machines](https://medium.com/the-unity-developers-handbook/dont-re-invent-finite-state-machines-how-to-repurpose-unity-s-animator-7c6c421e5785)
+
+# Live2D (L2D)
+
+* [Cubism Framework CS](https://github.com/Nkyoku/CubismFrameworkCS)
+* [Live2D Lighting](https://github.com/DenchiSoft/Live2DLighting)
+* [Live2D Frequency LipSync](https://github.com/DenchiSoft/Live2DFrequencyLipSync)
+* [Unity Live2D uGUI](https://github.com/akof1314/Unity-Live2D-uGUI)
+* [Live2D](https://github.com/jethummer/Live2D)
+* [Interactive Login](https://github.com/iodes/InteractiveLogin)
