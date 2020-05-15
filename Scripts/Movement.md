@@ -30,6 +30,7 @@
 * [C# Character Motor](https://gist.github.com/zephjc/5641540)
 * [SuperCharacterController](https://github.com/IronWarrior/SuperCharacterController) - Archieved and no longer updated.
 * [UNet Controller](https://github.com/Heep042/UNet-Controller) - Network version of Character Controller.
+* [Unity Humanoid Controller](https://github.com/JavierSplvd/unity-humanoid-controller)
 ## 2D Code
 
 * [Prime31 - CharacterController2D](https://github.com/prime31/CharacterController2D)
