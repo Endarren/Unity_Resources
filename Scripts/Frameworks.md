@@ -31,6 +31,7 @@
 # RPG
 * [Fydar's RPG Core](https://github.com/Fydar/RPGCore)
 * [MaximeGiguere9 - rpg framework](https://github.com/MaximeGiguere9/rpg-framework) - Archived.  Includes quest, inventory, loot, abilities, equipment, attributes, etc.
+* [delmarle's RPGStationUnity](https://github.com/delmarle/RpgStationUnity)
 
 # RTS
 
