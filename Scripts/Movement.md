@@ -87,7 +87,11 @@
 * [Keep Enemy X Distance from Player](https://answers.unity.com/questions/479342/navmeshagent-keep-enemy-x-distance-from-player.html)
 * [Destination vs SetDestination](https://answers.unity.com/questions/702110/navmeshagentdestination-vs-setdestination-.html)
 * [Pathfinding and local avoidance for rpg and rts games using Unity](https://www.gamedev.net/articles/programming/general-and-gameplay-programming/pathfinding-and-local-avoidance-for-rpgrts-games-using-unity-r3703)
+# Custom Nav Mesh
 
+## Code
+
+* [Unity NavCube](https://github.com/mimusangel/Unity-NavCube) - 3D navigation system.
 # Move Along Curve
 ## Articles
 * [Moving Along Curve With Specific Speed](https://www.geometrictools.com/Documentation/MovingAlongCurveSpecifiedSpeed.pdf) - This is a research paper, so it is more math focused than code focused.
