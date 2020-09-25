@@ -7,6 +7,8 @@
 |[Tork](https://github.com/adrenak/Tork)|[adrenak](https://github.com/adrenak)|
 |[Arcade Vehicle Physics](https://github.com/benmcinnes/ArcadeVehiclePhysics)|[benmcinnes](https://github.com/benmcinnes)|
 |[Realistic Car Controller](https://assetstore.unity.com/packages/tools/physics/realistic-car-controller-16296)|[bonecrackergames](http://www.bonecrackergames.com/realistic-car-controller/)| Premium Asset
+|[Highway Pursuit](https://github.com/George540/highway_pursuit)|[George540](https://github.com/George540/)| 2D vehicle movement with AI.
+
 # Hover
 | Name | Source | Description  |
 | --- | --- | --- | 
