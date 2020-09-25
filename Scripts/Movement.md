@@ -132,3 +132,4 @@
 * [Unity FP Platformer Project](https://github.com/Faboover/Unity-FP-Platformer-Project) - Recreating Titanfall character movement.
 * [Walk on Anything](https://github.com/SlugGlove/Walk-On-Anything) - Based on the movement system in Mario Galaxy.
 * [Team Capture](https://github.com/Voltstro-Studios/Team-Capture) - This FPS game uses a movement system designed for multiplayer.
+* [Cat Like Coding](https://catlikecoding.com/unity/tutorials/movement/)
