@@ -65,6 +65,9 @@ Here are some game projects that are underwork in Unity.
 * [Super Mario Bros NES](https://github.com/raulruizbarea/supermariobrosnesunity)
 * [Super Mario Bros](https://github.com/Claudiocdj/Super-Mario-Bros-Unity)
 
+## The Binding of Isaac
+* [The Binding of Isaac Unity](https://github.com/zengge77/The-Binding-of-Isaac-Unity)
+
 # Simulator
 
 * [Railroad Station Tychoon](https://github.com/Pilus/RailroadStationTychoon)
