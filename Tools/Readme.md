@@ -28,6 +28,8 @@
 
 * [House Gen](https://github.com/jkarbows/HouseGen)
 
+* [Random Terrain Generation Unity](https://github.com/WeH1D/RandomTerrainGenerationUnity)
+
 * [World of Warcraft Editor in Unity](https://github.com/CucFlavius/wowedit_unity)
 
 * [Tiled Ground Generator](https://github.com/Maximetinu/Tiled-Ground-Generator)
