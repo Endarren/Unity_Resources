@@ -11,3 +11,4 @@
 * [Sebastian Lague - Field of View](https://github.com/philippds/field-of-view_unity)
 * [Stealth Mechanic](https://github.com/coxlin/StealthMechanic) - Uses colliders for detecting if the player is in the light
 * [Mesh Triangluation](https://github.com/IMGSaibh/MeshTriangluation) - Mesh-Triangluation in Unity with Raycast obstacle detection.  Comments are written in German.
+* [Field of View Visualization](https://github.com/WeH1D/Field-of-view-visualisation-Unity)
