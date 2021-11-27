@@ -64,3 +64,7 @@
 
 * [De-Lighting Tool](https://github.com/Unity-Technologies/DeLightingTool) - Used to remove lighting information from textures.
 
+
+# Lip Syncing
+
+* [uLipSync](https://github.com/hecomi/uLipSync) - Realtime lip syncing.
